@@ -1,0 +1,4300 @@
+PERMIT_NUMBER,NAICS_CODE,NAICS_DESC,SIC_CODE,SIC_DESC
+NV0000019,,,1021,Copper Ores
+NV0000027,,,4911,Electric Services
+NV0000035,,,4911,Electric Services
+NV0000043,,,4011,"Railroads, Line-Haul Operating"
+NV0000051,,,3274,Lime
+NV0000060,331410,Nonferrous Metal [except Aluminum] Smelting and Refining,3339,Primary Nonferrous Metals
+NV0000078,,,3399,Primary Metal Products
+NV0000086,,,9999,Nonclassifiable Establishments
+NV0000094,,,4953,Refuse Systems
+NV0000108,,,3639,Household Appliances
+NV0000116,,,9999,Nonclassifiable Establishments
+NV0000124,,,9999,Nonclassifiable Establishments
+NV0000351,,,8741,Management Services
+NV0020001,,,4952,Sewerage Systems
+NV0020010,,,4952,Sewerage Systems
+NV0020028,,,4952,Sewerage Systems
+NV0020036,,,4952,Sewerage Systems
+NV0020044,,,4952,Sewerage Systems
+NV0020052,,,4952,Sewerage Systems
+NV0020061,,,4952,Sewerage Systems
+NV0020079,,,4952,Sewerage Systems
+NV0020087,,,4952,Sewerage Systems
+NV0020095,,,4911,Electric Services
+NV0020109,,,4911,Electric Services
+NV0020117,,,4952,Sewerage Systems
+NV0020125,,,4952,Sewerage Systems
+NV0020133,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0020141,,,9223,Correctional Institutions
+NV0020150,,,4952,Sewerage Systems
+NV0020168,,,4952,Sewerage Systems
+NV0020176,,,4952,Sewerage Systems
+NV0020184,,,4971,Irrigation Systems
+NV0020192,112990,All Other Animal Production,0921,Fish Hatcheries And Preserves
+NV0020206,,,4952,Sewerage Systems
+NV0020214,,,4952,Sewerage Systems
+NV0020222,,,4952,Sewerage Systems
+NV0020231,,,7033,Trailer Parks And Campsites
+NV0020257,,,4952,Sewerage Systems
+NV0020265,,,4952,Sewerage Systems
+NV0020273,,,0211,Beef Cattle Feedlots
+NV0020281,,,0211,Beef Cattle Feedlots
+NV0020290,,,4952,Sewerage Systems
+NV0020303,,,7999,Amusement And Recreation
+NV0020311,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0020320,,,7011,Hotels And Motels
+NV0020338,,,8641,Civic And Social Associations
+NV0020346,,,7929,Entertainers & Entertainment Groups
+NV0020354,,,6512,Nonresidential Building Operators
+NV0020362,,,7011,Hotels And Motels
+NV0020371,,,4952,Sewerage Systems
+NV0020389,,,0211,Beef Cattle Feedlots
+NV0020397,,,6021,National Commercial Banks
+NV0020401,,,0211,Beef Cattle Feedlots
+NV0020419,,,0211,Beef Cattle Feedlots
+NV0020427,,,9111,Executive Offices
+NV0020435,,,9223,Correctional Institutions
+NV0020443,,,7999,Amusement And Recreation
+NV0020451,,,4952,Sewerage Systems
+NV0020460,,,6036,"Savings Institutions, Except Federal"
+NV0020478,,,9221,Police Protection
+NV0020486,,,0211,Beef Cattle Feedlots
+NV0020494,,,4971,Irrigation Systems
+NV0020508,,,4971,Irrigation Systems
+NV0020516,,,8062,General Medical & Surgical Hospitals
+NV0020524,,,0211,Beef Cattle Feedlots
+NV0020541,,,0211,Beef Cattle Feedlots
+NV0020559,,,0211,Beef Cattle Feedlots
+NV0020567,,,0211,Beef Cattle Feedlots
+NV0020575,,,4971,Irrigation Systems
+NV0020583,,,0211,Beef Cattle Feedlots
+NV0020591,,,0211,Beef Cattle Feedlots
+NV0020605,,,0211,Beef Cattle Feedlots
+NV0020613,,,7999,Amusement And Recreation
+NV0020621,,,0921,Fish Hatcheries And Preserves
+NV0020630,,,7011,Hotels And Motels
+NV0020648,,,4971,Irrigation Systems
+NV0020656,112990,All Other Animal Production,0921,Fish Hatcheries And Preserves
+NV0020664,112990,All Other Animal Production,0921,Fish Hatcheries And Preserves
+NV0020672,,,0921,Fish Hatcheries And Preserves
+NV0020681,,,0211,Beef Cattle Feedlots
+NV0020699,,,0211,Beef Cattle Feedlots
+NV0020702,,,0211,Beef Cattle Feedlots
+NV0020711,,,0273,Animal Aquaculture
+NV0020729,,,4971,Irrigation Systems
+NV0020737,,,4952,Sewerage Systems
+NV0020745,,,8322,Individual And Family Services
+NV0020753,,,0211,Beef Cattle Feedlots
+NV0020761,,,1011,Iron Ores
+NV0020770,,,4952,Sewerage Systems
+NV0020788,,,6513,Apartment Building Operators
+NV0020796,,,1522,Residential Construction
+NV0020800,,,4971,Irrigation Systems
+NV0020818,,,1522,Residential Construction
+NV0020826,,,3295,"Minerals, Ground Or Treated"
+NV0020834,,,4941,Water Supply
+NV0020842,,,1011,Iron Ores
+NV0020851,,,4941,Water Supply
+NV0020869,,,4941,Water Supply
+NV0020877,,,4941,Water Supply
+NV0020885,,,0241,Dairy Farms
+NV0020893,562910,Remediation Services,3589,Service Industry Machinery
+NV0020907,,,3625,Relays And Industrial Controls
+NV0020915,,,4011,"Railroads, Line-Haul Operating"
+NV0020923,,,2812,Alkalies And Chlorine
+NV0020931,,,5171,Petroleum Bulk Stations & Terminals
+NV0020940,,,4952,Sewerage Systems
+NV0020958,,,4952,Sewerage Systems
+NV0020966,,,1442,Construction Sand And Gravel
+NV0020974,,,7011,Hotels And Motels
+NV0020982,,,1031,Lead And Zinc Ores
+NV0020991,,,7011,Hotels And Motels
+NV0021008,,,7011,Hotels And Motels
+NV0021024,,,3295,"Minerals, Ground Or Treated"
+NV0021032,,,0241,Dairy Farms
+NV0021041,,,0241,Dairy Farms
+NV0021059,,,1622,"Bridge, Tunnel, & Elevated Highway"
+NV0021067,,,7011,Hotels And Motels
+NV0021075,,,4952,Sewerage Systems
+NV0021083,,,0241,Dairy Farms
+NV0021091,326220,Rubber and Plastics Hoses and Belting Manufacturing,3052,Rubber & Plastics Hose & Belting
+NV0021105,,,6512,Nonresidential Building Operators
+NV0021113,,,4952,Sewerage Systems
+NV0021121,,,7011,Hotels And Motels
+NV0021130,,,0241,Dairy Farms
+NV0021148,,,0241,Dairy Farms
+NV0021156,,,9999,Nonclassifiable Establishments
+NV0021164,,,9999,Nonclassifiable Establishments
+NV0021172,,,1622,"Bridge, Tunnel, & Elevated Highway"
+NV0021181,,,1442,Construction Sand And Gravel
+NV0021199,,,0241,Dairy Farms
+NV0021202,,,4952,Sewerage Systems
+NV0021211,,,7011,Hotels And Motels
+NV0021229,,,7011,Hotels And Motels
+NV0021237,,,1622,"Bridge, Tunnel, & Elevated Highway"
+NV0021245,,,1044,Silver Ores
+NV0021261,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0021270,,,3356,Nonferrous Rolling And Drawing
+NV0021288,,,4952,Sewerage Systems
+NV0021318,,,1041,Gold Ores
+NV0021369,,,2024,Ice Cream And Frozen Desserts
+NV0021385,,,1044,Silver Ores
+NV0021393,,,8733,Noncommercial Research Organizations
+NV0021407,,,4911,Electric Services
+NV0021423,,,1442,Construction Sand And Gravel
+NV0021482,,,4953,Refuse Systems
+NV0021491,,,7011,Hotels And Motels
+NV0021504,,,0921,Fish Hatcheries And Preserves
+NV0021512,,,4225,General Warehousing And Storage
+NV0021521,,,1041,Gold Ores
+NV0021539,,,4952,Sewerage Systems
+NV0021555,,,1629,Heavy Construction
+NV0021563,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0021571,,,1041,Gold Ores
+NV0021580,,,4952,Sewerage Systems
+NV0021598,,,7011,Hotels And Motels
+NV0021601,,,7011,Hotels And Motels
+NV0021628,,,9511,"Air, Water, & Solid Waste Management"
+NV0021636,,,5541,Gasoline Service Stations
+NV0021652,,,1041,Gold Ores
+NV0021679,,,7992,Public Golf Courses
+NV0021687,,,5541,Gasoline Service Stations
+NV0021717,,,5541,Gasoline Service Stations
+NV0021725,212221,Gold Ore Mining,1041,Gold Ores
+NV0021733,,,5541,Gasoline Service Stations
+NV0021741,,,5411,Grocery Stores
+NV0021750,721120,Casino Hotels,7011,Hotels And Motels
+NV0021784,,,1081,Metal Mining Services
+NV0021806,,,2911,Petroleum Refining
+NV0021814,,,5172,Petroleum Products
+NV0021822,,,1623,"Water, Sewer, And Utility Lines"
+NV0021849,,,5084,Industrial Machinery And Equipment
+NV0021857,,,4952,Sewerage Systems
+NV0021865,,,4952,Sewerage Systems
+NV0021873,,,4952,Sewerage Systems
+NV0021881,,,4952,Sewerage Systems
+NV0021890,,,4952,Sewerage Systems
+NV0021903,,,5541,Gasoline Service Stations
+NV0021911,,,9511,"Air, Water, & Solid Waste Management"
+NV0021946,561210,Facilities Support Services,9711,National Security
+NV0021954,,,5541,Gasoline Service Stations
+NV0021962,,,1041,Gold Ores
+NV0021997,,,2421,"Sawmills And Planing Mills, General"
+NV0022004,,,3339,Primary Nonferrous Metals
+NV0022012,,,4952,Sewerage Systems
+NV0022039,,,5541,Gasoline Service Stations
+NV0022047,,,4952,Sewerage Systems
+NV0022055,,,5171,Petroleum Bulk Stations & Terminals
+NV0022063,,,4961,Steam And Air-Conditioning Supply
+NV0022071,,,1041,Gold Ores
+NV0022080,,,4952,Sewerage Systems
+NV0022098,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0022110,,,5511,New And Used Car Dealers
+NV0022128,,,5541,Gasoline Service Stations
+NV0022136,,,5541,Gasoline Service Stations
+NV0022144,,,5541,Gasoline Service Stations
+NV0022152,,,5172,Petroleum Products
+NV0022161,,,4952,Sewerage Systems
+NV0022179,,,5541,Gasoline Service Stations
+NV0022187,,,4952,Sewerage Systems
+NV0022195,622110,General Medical and Surgical Hospitals,8062,General Medical & Surgical Hospitals
+NV0022217,,,4581,"Airports, Flying Fields, & Services"
+NV0022241,,,1542,Nonresidential Construction
+NV0022250,,,4225,General Warehousing And Storage
+NV0022268,212221,Gold Ore Mining,1041,Gold Ores
+NV0022276,,,2911,Petroleum Refining
+NV0022292,,,5541,Gasoline Service Stations
+NV0022306,,,1041,Gold Ores
+NV0022322,,,2911,Petroleum Refining
+NV0022331,,,1629,Heavy Construction
+NV0022357,,,7359,Equipment Rental & Leasing
+NV0022381,,,9999,Nonclassifiable Establishments
+NV0022390,,,5541,Gasoline Service Stations
+NV0022411,,,4953,Refuse Systems
+NV0022420,,,5541,Gasoline Service Stations
+NV0022438,,,9221,Police Protection
+NV0022446,,,5541,Gasoline Service Stations
+NV0022462,,,8211,Elementary And Secondary Schools
+NV0022471,,,4151,School Buses
+NV0022489,,,5541,Gasoline Service Stations
+NV0022501,,,2491,Wood Preserving
+NV0022519,,,5399,Miscellaneous General Merchandise Stores
+NV0022527,,,4911,Electric Services
+NV0022535,,,9999,Nonclassifiable Establishments
+NV0022543,,,5541,Gasoline Service Stations
+NV0022551,,,5541,Gasoline Service Stations
+NV0022560,,,5541,Gasoline Service Stations
+NV0022578,,,9999,Nonclassifiable Establishments
+NV0022594,,,5411,Grocery Stores
+NV0022608,,,5411,Grocery Stores
+NV0022616,,,7011,Hotels And Motels
+NV0022624,,,9999,Nonclassifiable Establishments
+NV0022641,,,7011,Hotels And Motels
+NV0022659,,,9711,National Security
+NV0022667,,,4941,Water Supply
+NV0022675,212221,Gold Ore Mining,1041,Gold Ores
+NV0022691,,,7011,Hotels And Motels
+NV0022713,,,7011,Hotels And Motels
+NV0022721,,,5541,Gasoline Service Stations
+NV0022730,,,9999,Nonclassifiable Establishments
+NV0022748,,,1799,Special Trade Contractors
+NV0022756,,,4941,Water Supply
+NV0022772,237110,Water and Sewer Line and Related Structures Construction,8811,Private Households
+NV0022781,814110,Private Households,9999,Nonclassifiable Establishments
+NV0022799,,,1629,Heavy Construction
+NV0022802,,,5399,Miscellaneous General Merchandise Stores
+NV0022811,,,5399,Miscellaneous General Merchandise Stores
+NV0022829,,,5411,Grocery Stores
+NV0022837,,,5541,Gasoline Service Stations
+NV0022845,,,7011,Hotels And Motels
+NV0022861,,,1629,Heavy Construction
+NV0022870,,,5999,Miscellaneous Retail Stores
+NV0022888,,,7011,Hotels And Motels
+NV0022896,,,5411,Grocery Stores
+NV0022918,,,9511,"Air, Water, & Solid Waste Management"
+NV0022942,561210,Facilities Support Services,8111,Legal Services
+NV0022977,562111,Solid Waste Collection,4953,Refuse Systems
+NV0022985,721120,Casino Hotels,7011,Hotels And Motels
+NV0022993,721120,Casino Hotels,7011,Hotels And Motels
+NV0023027,,,0241,Dairy Farms
+NV0023035,,,1531,Operative Builders
+NV0023043,531311,Residential Property Managers,6513,Apartment Building Operators
+NV0023051,,,9511,"Air, Water, & Solid Waste Management"
+NV0023060,541990,"All Other Professional, Scientific, and Technical Services",1799,Special Trade Contractors
+NV0023078,,,5411,Grocery Stores
+NV0023086,,,5541,Gasoline Service Stations
+NV0023094,,,5541,Gasoline Service Stations
+NV0023132,,,9221,Police Protection
+NV0023141,,,7011,Hotels And Motels
+NV0023159,922110,Courts,9211,Courts
+NV0023167,,,4952,Sewerage Systems
+NV0023173,,,5541,Gasoline Service Stations
+NV0023183,,,7389,Business Services
+NV0023191,721120,Casino Hotels,7011,Hotels And Motels
+NV0023205,,,9999,Nonclassifiable Establishments
+NV0023213,,,4922,Natural Gas Transmission
+NV0023221,,,5411,Grocery Stores
+NV0023230,,,4226,Special Warehousing And Storage
+NV0023248,,,7011,Hotels And Motels
+NV0023256,812990,All Other Personal Services,7011,Hotels And Motels
+NV0023264,,,5411,Grocery Stores
+NV0023272,,,4613,Refined Petroleum Pipelines
+NV0023281,,,5411,Grocery Stores
+NV0023282,,,5541,Gasoline Service Stations
+NV0023299,,,7999,Amusement And Recreation
+NV0023311,,,5541,Gasoline Service Stations
+NV0023329,,,9511,"Air, Water, & Solid Waste Management"
+NV0023345,,,1041,Gold Ores
+NV0023353,,,5541,Gasoline Service Stations
+NV0023361,,,5541,Gasoline Service Stations
+NV0023388,,,0272,Horses And Other Equines
+NV0023396,,,5541,Gasoline Service Stations
+NV0023477,,,1531,Operative Builders
+NV0023485,,,8211,Elementary And Secondary Schools
+NV0023493,,,5541,Gasoline Service Stations
+NV0023507,,,3444,Sheet Metal Work
+NV0023515,721110,Hotels [except Casino Hotels] and Motels,7011,Hotels And Motels
+NV0023523,,,7011,Hotels And Motels
+NV0023531,,,1442,Construction Sand And Gravel
+NV0023540,,,0291,"General Farms, Primarily Animal"
+NV0023558,,,6531,Real Estate Agents And Managers
+NV0023566,721120,Casino Hotels,7011,Hotels And Motels
+NV0023574,,,0139,"Field Crops, Except Cash Grains"
+NV0023582,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0023591,221310,Water Supply and Irrigation Systems,4952,Sewerage Systems
+NV0023604,531210,Offices of Real Estate Agents and Brokers,6512,Nonresidential Building Operators
+NV0023612,,,4941,Water Supply
+NV0023621,721120,Casino Hotels,7011,Hotels And Motels
+NV0023647,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0023663,447110,Gasoline Stations with Convenience Stores,5541,Gasoline Service Stations
+NV0023701,,,7011,Hotels And Motels
+NV0023736,,,4941,Water Supply
+NV0023744,721110,Hotels [except Casino Hotels] and Motels,7011,Hotels And Motels
+NV0023752,,,5813,Drinking Places
+NV0023761,488119,Other Airport Operations,4581,"Airports, Flying Fields, & Services"
+NV0023787,,,5541,Gasoline Service Stations
+NV0023809,,,5541,Gasoline Service Stations
+NV0023817,,,4941,Water Supply
+NV0023833,,,9511,"Air, Water, & Solid Waste Management"
+NV0023841,562910,Remediation Services,7216,"Drycleaning Plants, Except Rug"
+NV0023850,,,0241,Dairy Farms
+NV0023868,,,1623,"Water, Sewer, And Utility Lines"
+NV0023876,,,9511,"Air, Water, & Solid Waste Management"
+NV0023884,,,1623,"Water, Sewer, And Utility Lines"
+NV0023892,,,5541,Gasoline Service Stations
+NV0023906,,,1623,"Water, Sewer, And Utility Lines"
+NV0023914,,,9511,"Air, Water, & Solid Waste Management"
+NV0023922,,,9511,"Air, Water, & Solid Waste Management"
+NV0023931,611710,Educational Support Services,8221,Colleges And Universities
+NV0023949,,,5541,Gasoline Service Stations
+NV0023957,,,4952,Sewerage Systems
+NV0023965,,,4952,Sewerage Systems
+NV0023973,,,4952,Sewerage Systems
+NV0023981,,,4941,Water Supply
+NV0023990,,,1799,Special Trade Contractors
+NV0024007,,,4952,Sewerage Systems
+NV0024015,,,1799,Special Trade Contractors
+NV0024023,,,1629,Heavy Construction
+NV0024031,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NV0024040,,,5541,Gasoline Service Stations
+NV0024058,,,4952,Sewerage Systems
+NV0024066,,,9199,General Government
+NV0024074,,,5411,Grocery Stores
+NV0024091,,,0272,Horses And Other Equines
+NV0024104,,,4941,Water Supply
+NV0024112,562910,Remediation Services,4952,Sewerage Systems
+NV0024121,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NV0024139,,,4941,Water Supply
+NV0024155,,,5541,Gasoline Service Stations
+NV0024163,,,8744,Facilities Support Services
+NV0024171,,,1041,Gold Ores
+NV0024180,,,1623,"Water, Sewer, And Utility Lines"
+NV0024198,,,4111,Local And Suburban Transit
+NV0024200,,,1629,Heavy Construction
+NV0024201,,,4911,Electric Services
+NV0024202,,,7999,Amusement And Recreation
+NV0024206,,,5541,Gasoline Service Stations
+NV0024209,,,1799,Special Trade Contractors
+NV0024210,,,1771,Concrete Work
+NV0024211,,,9631,"Regulation, Administration Of Utilities"
+NV0024212,,,1623,"Water, Sewer, And Utility Lines"
+NV0024213,,,1623,"Water, Sewer, And Utility Lines"
+NV0024214,,,9532,Urban And Community Development
+NV0024215,,,4941,Water Supply
+NV0024217,561790,Other Services to Buildings and Dwellings,6512,Nonresidential Building Operators
+NV0024218,,,2023,"Dry, Condensed, Evaporated Products"
+NV0024219,,,1611,Highway And Street Construction
+NV0024220,447110,Gasoline Stations with Convenience Stores,5541,Gasoline Service Stations
+NV0024221,,,9111,Executive Offices
+NV0024222,,,1623,"Water, Sewer, And Utility Lines"
+NV0024224,,,0241,Dairy Farms
+NV0024227,812320,Drycleaning and Laundry Services [except Coin-Operated],3582,Commercial Laundry Equipment
+NV0024228,,,1799,Special Trade Contractors
+NV0024229,,,4941,Water Supply
+NV0024230,221310,Water Supply and Irrigation Systems,4941,Water Supply
+NV0024231,,,1623,"Water, Sewer, And Utility Lines"
+NV0024232,562910,Remediation Services,1799,Special Trade Contractors
+NV0024233,,,0111,Wheat
+NV0024234,924120,Administration of Conservation Programs,8699,Membership Organizations
+NV0024235,485119,Other Urban Transit Systems,4119,Local Passenger Transportation
+NV0024237,221320,Sewage Treatment Facilities,4952,Sewerage Systems
+NV0024238,237110,Water and Sewer Line and Related Structures Construction,1623,"Water, Sewer, And Utility Lines"
+NV0024239,711211,Sports Teams and Clubs,7941,"Sports Clubs, Managers, & Promoters"
+NV0024240,237110,Water and Sewer Line and Related Structures Construction,1623,"Water, Sewer, And Utility Lines"
+NV0024242,925120,Administration of Urban Planning and Community and Rural Development,1623,"Water, Sewer, And Utility Lines"
+NV0024245,485119,Other Urban Transit Systems,4119,Local Passenger Transportation
+NV0024247,926120,Regulation and Administration of Transportation Programs,4111,Local And Suburban Transit
+NV0024250,221112,Fossil Fuel Electric Power Generation,4931,Electric And Other Services Combined
+NV0024253,221310,Water Supply and Irrigation Systems,3822,Environmental Controls
+NV0024254,237990,Other Heavy and Civil Engineering Construction,7389,Business Services
+NV0024255,488490,Other Support Activities for Road Transportation,4789,Transportation Services
+NV0024256,237990,Other Heavy and Civil Engineering Construction,7389,Business Services
+NV0024257,562910,Remediation Services,5541,Gasoline Service Stations
+NV0024259,237110,Water and Sewer Line and Related Structures Construction,1623,"Water, Sewer, And Utility Lines"
+NV0024260,237130,Power and Communication Line and Related Structures Construction,1629,Heavy Construction
+NV0024261,713930,Marinas,3732,Boat Building And Repairing
+NV0024262,518210,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",7379,Computer Related Services
+NV0024263,237310,"Highway, Street, and Bridge Construction",1622,"Bridge, Tunnel, & Elevated Highway"
+NV0110001,928110,National Security,4952,Sewerage Systems
+NV0110027,,,0921,Fish Hatcheries And Preserves
+NV0110035,,,8211,Elementary And Secondary Schools
+NV0110043,,,9512,"Land, Mineral, Wildlife Conservation"
+NV0110051,,,4952,Sewerage Systems
+NV0110060,,,9999,Nonclassifiable Establishments
+NV0110078,,,9711,National Security
+NV0110086,,,4971,Irrigation Systems
+NV0110329,,,4931,Electric And Other Services Combined
+NVA000001,,,0241,Dairy Farms
+NVA000002,,,0241,Dairy Farms
+NVA000003,,,0241,Dairy Farms
+NVA000004,,,0241,Dairy Farms
+NVA000005,,,0241,Dairy Farms
+NVA000006,,,0241,Dairy Farms
+NVA000007,,,0241,Dairy Farms
+NVA000008,,,0241,Dairy Farms
+NVA000009,,,0241,Dairy Farms
+NVA000010,,,0241,Dairy Farms
+NVA000011,,,0241,Dairy Farms
+NVA000012,,,0241,Dairy Farms
+NVA000013,,,0241,Dairy Farms
+NVA000014,,,0241,Dairy Farms
+NVA000015,,,0241,Dairy Farms
+NVA000016,,,0241,Dairy Farms
+NVA000017,,,0241,Dairy Farms
+NVA000018,,,0241,Dairy Farms
+NVA000019,,,0241,Dairy Farms
+NVA000020,,,0241,Dairy Farms
+NVA000021,,,0241,Dairy Farms
+NVA000022,,,0241,Dairy Farms
+NVA000023,,,0241,Dairy Farms
+NVA000024,,,0241,Dairy Farms
+NVA000025,,,0241,Dairy Farms
+NVA000026,,,0241,Dairy Farms
+NVA000027,,,0241,Dairy Farms
+NVA000028,,,0241,Dairy Farms
+NVA000029,,,0241,Dairy Farms
+NVA000030,,,0241,Dairy Farms
+NVA000031,,,0241,Dairy Farms
+NVA000032,,,0241,Dairy Farms
+NVA000033,,,0241,Dairy Farms
+NVA000034,,,0241,Dairy Farms
+NVA000035,,,0241,Dairy Farms
+NVA000036,,,0241,Dairy Farms
+NVA000037,,,0241,Dairy Farms
+NVA000038,,,0241,Dairy Farms
+NVA000039,,,0241,Dairy Farms
+NVA000040,,,0241,Dairy Farms
+NVA000041,,,0241,Dairy Farms
+NVCS00086,,,9999,Nonclassifiable Establishments
+NVCS00139,,,9999,Nonclassifiable Establishments
+NVCS00203,,,1629,Heavy Construction
+NVCS00208,,,9999,Nonclassifiable Establishments
+NVCS00209,,,9999,Nonclassifiable Establishments
+NVCS00305,,,9999,Nonclassifiable Establishments
+NVCS00333,,,9999,Nonclassifiable Establishments
+NVCS00373,,,1522,Residential Construction
+NVCS00463,,,9999,Nonclassifiable Establishments
+NVCS00551,,,9999,Nonclassifiable Establishments
+NVCS00557,,,9999,Nonclassifiable Establishments
+NVCS02289,,,9999,Nonclassifiable Establishments
+NVCS02623,,,9999,Nonclassifiable Establishments
+NVCS02625,,,9999,Nonclassifiable Establishments
+NVCS02665,,,9999,Nonclassifiable Establishments
+NVCS02669,,,9999,Nonclassifiable Establishments
+NVCS02681,,,9999,Nonclassifiable Establishments
+NVCS02701,,,3291,Abrasive Products
+NVCS02716,,,6324,Hospital And Medical Service Plans
+NVCS02835,,,9999,Nonclassifiable Establishments
+NVCS02839,,,3291,Abrasive Products
+NVCS02966,,,9999,Nonclassifiable Establishments
+NVCS03148,,,3291,Abrasive Products
+NVCS03156,,,9999,Nonclassifiable Establishments
+NVCS03204,,,9999,Nonclassifiable Establishments
+NVCS03354,,,9999,Nonclassifiable Establishments
+NVCS03452,,,9999,Nonclassifiable Establishments
+NVCS03543,,,3272,Concrete Products
+NVCS03549,,,9999,Nonclassifiable Establishments
+NVCS03586,,,9999,Nonclassifiable Establishments
+NVCS03602,,,3291,Abrasive Products
+NVCS03622,,,9999,Nonclassifiable Establishments
+NVCS03651,,,9999,Nonclassifiable Establishments
+NVCS03667,,,9999,Nonclassifiable Establishments
+NVCS03702,,,9999,Nonclassifiable Establishments
+NVCS03801,,,5039,Construction Materials
+NVCS03835,,,9999,Nonclassifiable Establishments
+NVCS04000,,,9999,Nonclassifiable Establishments
+NVCS04068,,,6552,Subdividers And Developers
+NVCS04112,,,9999,Nonclassifiable Establishments
+NVCS04116,,,9999,Nonclassifiable Establishments
+NVCS04174,,,9999,Nonclassifiable Establishments
+NVCS04201,,,9999,Nonclassifiable Establishments
+NVCS04212,,,9999,Nonclassifiable Establishments
+NVCS04213,,,9999,Nonclassifiable Establishments
+NVCS04214,,,9999,Nonclassifiable Establishments
+NVCS04332,,,9999,Nonclassifiable Establishments
+NVCS04394,,,9999,Nonclassifiable Establishments
+NVCS04422,,,9999,Nonclassifiable Establishments
+NVCS04515,,,9999,Nonclassifiable Establishments
+NVCS04575,,,9999,Nonclassifiable Establishments
+NVCS04659,,,9999,Nonclassifiable Establishments
+NVCS04675,,,9999,Nonclassifiable Establishments
+NVCS04955,,,9999,Nonclassifiable Establishments
+NVCS04970,,,9999,Nonclassifiable Establishments
+NVCS05024,,,1542,Nonresidential Construction
+NVCS05065,,,9999,Nonclassifiable Establishments
+NVCS05140,,,9999,Nonclassifiable Establishments
+NVCS05209,,,9999,Nonclassifiable Establishments
+NVCS05293,,,9999,Nonclassifiable Establishments
+NVCS05412,,,9999,Nonclassifiable Establishments
+NVCS05534,,,9999,Nonclassifiable Establishments
+NVCS05588,,,9999,Nonclassifiable Establishments
+NVCS05650,,,9999,Nonclassifiable Establishments
+NVCS05667,,,1522,Residential Construction
+NVCS05675,,,9999,Nonclassifiable Establishments
+NVCS05695,,,9999,Nonclassifiable Establishments
+NVCS05800,,,9999,Nonclassifiable Establishments
+NVCS05878,,,9999,Nonclassifiable Establishments
+NVCS05890,,,1522,Residential Construction
+NVCS05965,,,1542,Nonresidential Construction
+NVCS05999,,,9999,Nonclassifiable Establishments
+NVCS06027,,,9999,Nonclassifiable Establishments
+NVCS06029,,,9999,Nonclassifiable Establishments
+NVCS06067,,,9999,Nonclassifiable Establishments
+NVCS06091,,,3291,Abrasive Products
+NVCS06159,,,9999,Nonclassifiable Establishments
+NVCS06231,,,9999,Nonclassifiable Establishments
+NVCS06242,,,9999,Nonclassifiable Establishments
+NVCS06254,,,1521,Single-Family Housing Construction
+NVCS06518,,,9999,Nonclassifiable Establishments
+NVCS06690,,,9999,Nonclassifiable Establishments
+NVCS06698,,,8361,Residential Care
+NVCS06733,,,9999,Nonclassifiable Establishments
+NVCS06798,,,9999,Nonclassifiable Establishments
+NVCS06802,,,9999,Nonclassifiable Establishments
+NVCS06871,,,9999,Nonclassifiable Establishments
+NVCS06899,,,9999,Nonclassifiable Establishments
+NVCS07150,,,9999,Nonclassifiable Establishments
+NVCS07252,,,9999,Nonclassifiable Establishments
+NVCS07255,,,9999,Nonclassifiable Establishments
+NVCS07257,,,9999,Nonclassifiable Establishments
+NVCS07259,,,9999,Nonclassifiable Establishments
+NVCS07263,,,9999,Nonclassifiable Establishments
+NVCS07423,,,9999,Nonclassifiable Establishments
+NVCS07512,,,1521,Single-Family Housing Construction
+NVCS07513,,,1521,Single-Family Housing Construction
+NVCS07610,,,9999,Nonclassifiable Establishments
+NVCS07626,,,3291,Abrasive Products
+NVCS07627,,,9999,Nonclassifiable Establishments
+NVCS07679,,,1442,Construction Sand And Gravel
+NVCS07684,,,9999,Nonclassifiable Establishments
+NVCS07721,,,7011,Hotels And Motels
+NVCS07727,,,9999,Nonclassifiable Establishments
+NVCS07729,,,9999,Nonclassifiable Establishments
+NVCS07730,,,9999,Nonclassifiable Establishments
+NVCS07731,,,9999,Nonclassifiable Establishments
+NVCS07735,,,9999,Nonclassifiable Establishments
+NVCS07736,,,9999,Nonclassifiable Establishments
+NVCS07737,,,9999,Nonclassifiable Establishments
+NVCS07739,,,9999,Nonclassifiable Establishments
+NVCS07784,,,9999,Nonclassifiable Establishments
+NVCS07795,,,9999,Nonclassifiable Establishments
+NVCS07798,,,3291,Abrasive Products
+NVCS07859,,,9999,Nonclassifiable Establishments
+NVCS07890,,,9999,Nonclassifiable Establishments
+NVCS07908,,,9999,Nonclassifiable Establishments
+NVCS08031,,,9999,Nonclassifiable Establishments
+NVCS08070,,,9999,Nonclassifiable Establishments
+NVCS08111,,,1442,Construction Sand And Gravel
+NVCS08179,,,9999,Nonclassifiable Establishments
+NVCS08204,,,9999,Nonclassifiable Establishments
+NVCS08223,,,9999,Nonclassifiable Establishments
+NVCS08302,,,6552,Subdividers And Developers
+NVCS08417,,,1542,Nonresidential Construction
+NVCS08433,,,3291,Abrasive Products
+NVCS08502,,,9999,Nonclassifiable Establishments
+NVCS08508,,,3291,Abrasive Products
+NVCS08509,,,1521,Single-Family Housing Construction
+NVCS08525,,,9999,Nonclassifiable Establishments
+NVCS08571,,,5912,Drug Stores And Proprietary Stores
+NVCS08634,,,9999,Nonclassifiable Establishments
+NVCS08672,,,7011,Hotels And Motels
+NVCS08683,,,9999,Nonclassifiable Establishments
+NVCS08688,,,9999,Nonclassifiable Establishments
+NVCS08689,,,9999,Nonclassifiable Establishments
+NVCS08710,,,4953,Refuse Systems
+NVCS08712,,,9999,Nonclassifiable Establishments
+NVCS08762,,,9999,Nonclassifiable Establishments
+NVCS08780,,,9999,Nonclassifiable Establishments
+NVCS08937,,,9999,Nonclassifiable Establishments
+NVCS08940,,,9999,Nonclassifiable Establishments
+NVCS09000,,,3291,Abrasive Products
+NVCS09020,,,9999,Nonclassifiable Establishments
+NVCS09031,,,9999,Nonclassifiable Establishments
+NVCS09036,,,9999,Nonclassifiable Establishments
+NVCS09046,,,3291,Abrasive Products
+NVCS09077,,,9999,Nonclassifiable Establishments
+NVCS09088,,,9999,Nonclassifiable Establishments
+NVCS09106,,,9999,Nonclassifiable Establishments
+NVCS09205,,,9999,Nonclassifiable Establishments
+NVCS09220,,,9999,Nonclassifiable Establishments
+NVCS09221,,,9999,Nonclassifiable Establishments
+NVCS09300,,,9999,Nonclassifiable Establishments
+NVCS09302,,,9999,Nonclassifiable Establishments
+NVCS09352,,,9999,Nonclassifiable Establishments
+NVCS09392,,,9999,Nonclassifiable Establishments
+NVCS09393,,,9999,Nonclassifiable Establishments
+NVCS09466,,,9999,Nonclassifiable Establishments
+NVCS09556,,,9999,Nonclassifiable Establishments
+NVCS09566,,,7011,Hotels And Motels
+NVCS09593,,,9999,Nonclassifiable Establishments
+NVCS09638,,,9999,Nonclassifiable Establishments
+NVCS09639,,,9999,Nonclassifiable Establishments
+NVCS09671,,,9999,Nonclassifiable Establishments
+NVCS09694,,,6552,Subdividers And Developers
+NVCS09831,,,9999,Nonclassifiable Establishments
+NVCS09879,,,9999,Nonclassifiable Establishments
+NVCS09902,,,9999,Nonclassifiable Establishments
+NVCS09903,,,3291,Abrasive Products
+NVCS10001,,,5699,Miscellaneous Apparel & Accessory Stores
+NVCS10007,,,9999,Nonclassifiable Establishments
+NVCS10253,,,9999,Nonclassifiable Establishments
+NVCS10259,,,9999,Nonclassifiable Establishments
+NVCS10263,,,9999,Nonclassifiable Establishments
+NVCS10476,,,6798,Real Estate Investment Trusts
+NVCS11398,,,9999,Nonclassifiable Establishments
+NVCS11537,,,9999,Nonclassifiable Establishments
+NVCS11577,,,9999,Nonclassifiable Establishments
+NVCS11617,,,9999,Nonclassifiable Establishments
+NVCS12227,,,9999,Nonclassifiable Establishments
+NVCS13089,,,9999,Nonclassifiable Establishments
+NVCS13128,,,3291,Abrasive Products
+NVCS13518,,,9999,Nonclassifiable Establishments
+NVCS13624,,,9999,Nonclassifiable Establishments
+NVCS13699,,,9999,Nonclassifiable Establishments
+NVCS14143,,,1522,Residential Construction
+NVCS14283,,,9999,Nonclassifiable Establishments
+NVCS14343,,,9999,Nonclassifiable Establishments
+NVCS14523,,,9999,Nonclassifiable Establishments
+NVCS14543,,,9999,Nonclassifiable Establishments
+NVCS14927,,,9999,Nonclassifiable Establishments
+NVCS14928,,,9999,Nonclassifiable Establishments
+NVCS15005,,,9999,Nonclassifiable Establishments
+NVCS15348,,,9999,Nonclassifiable Establishments
+NVCS15366,,,9999,Nonclassifiable Establishments
+NVCS15665,,,9999,Nonclassifiable Establishments
+NVCS15712,,,9999,Nonclassifiable Establishments
+NVCS16433,,,9999,Nonclassifiable Establishments
+NVCS16747,,,9999,Nonclassifiable Establishments
+NVCS16868,,,1521,Single-Family Housing Construction
+NVCS16888,,,1521,Single-Family Housing Construction
+NVCS17138,,,9999,Nonclassifiable Establishments
+NVCS17415,,,9999,Nonclassifiable Establishments
+NVCS17430,,,9999,Nonclassifiable Establishments
+NVCS17861,,,9999,Nonclassifiable Establishments
+NVCS18087,,,9999,Nonclassifiable Establishments
+NVCS18089,,,9999,Nonclassifiable Establishments
+NVCS18090,,,9999,Nonclassifiable Establishments
+NVCS18091,,,9999,Nonclassifiable Establishments
+NVCS18093,,,9999,Nonclassifiable Establishments
+NVCS18094,,,9999,Nonclassifiable Establishments
+NVCS18106,,,9999,Nonclassifiable Establishments
+NVCS19305,,,9999,Nonclassifiable Establishments
+NVCS19489,,,3291,Abrasive Products
+NVCS19993,,,9999,Nonclassifiable Establishments
+NVCS20253,,,9999,Nonclassifiable Establishments
+NVCS20453,,,9999,Nonclassifiable Establishments
+NVCS20470,,,9999,Nonclassifiable Establishments
+NVCS20782,,,9999,Nonclassifiable Establishments
+NVCS20786,,,9999,Nonclassifiable Establishments
+NVCS21065,,,9999,Nonclassifiable Establishments
+NVCS21273,,,9999,Nonclassifiable Establishments
+NVCS21651,,,9999,Nonclassifiable Establishments
+NVCS21852,,,9999,Nonclassifiable Establishments
+NVCS21952,,,9999,Nonclassifiable Establishments
+NVCS22134,,,1521,Single-Family Housing Construction
+NVCS22337,,,9999,Nonclassifiable Establishments
+NVCS22597,,,8351,Child Day Care Services
+NVCS23123,,,2869,Industrial Organic Chemicals
+NVCS23143,,,9999,Nonclassifiable Establishments
+NVCS23280,,,9999,Nonclassifiable Establishments
+NVCS23400,,,9999,Nonclassifiable Establishments
+NVCS23762,,,9999,Nonclassifiable Establishments
+NVCS24366,,,9999,Nonclassifiable Establishments
+NVCS24833,,,9999,Nonclassifiable Establishments
+NVCS24922,,,9999,Nonclassifiable Establishments
+NVCS25003,,,9999,Nonclassifiable Establishments
+NVCS25069,,,9999,Nonclassifiable Establishments
+NVCS25122,,,9999,Nonclassifiable Establishments
+NVCS26486,,,5399,Miscellaneous General Merchandise Stores
+NVCS27095,,,9999,Nonclassifiable Establishments
+NVCS27098,,,9999,Nonclassifiable Establishments
+NVCS27127,,,3291,Abrasive Products
+NVCS27331,,,9999,Nonclassifiable Establishments
+NVCS27333,,,9999,Nonclassifiable Establishments
+NVCS27490,,,9999,Nonclassifiable Establishments
+NVCS27628,,,9999,Nonclassifiable Establishments
+NVCS27728,,,9999,Nonclassifiable Establishments
+NVCS27871,,,9999,Nonclassifiable Establishments
+NVCS28011,,,9999,Nonclassifiable Establishments
+NVCS28574,,,3291,Abrasive Products
+NVCS28656,,,9999,Nonclassifiable Establishments
+NVCS28839,,,9999,Nonclassifiable Establishments
+NVCS28880,,,1521,Single-Family Housing Construction
+NVCS29000,,,4225,General Warehousing And Storage
+NVCS29080,,,9999,Nonclassifiable Establishments
+NVCS29361,,,9999,Nonclassifiable Establishments
+NVCS29860,,,9999,Nonclassifiable Establishments
+NVCS30100,,,9999,Nonclassifiable Establishments
+NVCS30121,,,9999,Nonclassifiable Establishments
+NVCS30122,,,9999,Nonclassifiable Establishments
+NVCS30360,,,9999,Nonclassifiable Establishments
+NVCS31280,,,9999,Nonclassifiable Establishments
+NVCS31860,,,9999,Nonclassifiable Establishments
+NVCS32220,,,4221,Farm Product Warehousing And Storage
+NVCS32240,,,9999,Nonclassifiable Establishments
+NVCS32300,,,9999,Nonclassifiable Establishments
+NVCS32720,,,9999,Nonclassifiable Establishments
+NVCS32901,,,1521,Single-Family Housing Construction
+NVCS32960,,,9999,Nonclassifiable Establishments
+NVCS33340,,,6552,Subdividers And Developers
+NVCS33902,,,9999,Nonclassifiable Establishments
+NVCS34022,,,9999,Nonclassifiable Establishments
+NVCS34185,,,9999,Nonclassifiable Establishments
+NVCS34242,,,9999,Nonclassifiable Establishments
+NVCS34303,,,1521,Single-Family Housing Construction
+NVCS34304,,,1521,Single-Family Housing Construction
+NVCS34323,,,9999,Nonclassifiable Establishments
+NVCS34462,,,9999,Nonclassifiable Establishments
+NVCS34722,,,9999,Nonclassifiable Establishments
+NVCS34742,,,9999,Nonclassifiable Establishments
+NVCS34942,,,9999,Nonclassifiable Establishments
+NVCS34962,,,9999,Nonclassifiable Establishments
+NVCS35042,,,9999,Nonclassifiable Establishments
+NVCS35282,,,9999,Nonclassifiable Establishments
+NVCS35383,,,9999,Nonclassifiable Establishments
+NVCS35522,,,9999,Nonclassifiable Establishments
+NVCS35622,,,9999,Nonclassifiable Establishments
+NVCS35624,,,9999,Nonclassifiable Establishments
+NVCS35702,,,9999,Nonclassifiable Establishments
+NVCS35922,,,9999,Nonclassifiable Establishments
+NVCS36102,,,9999,Nonclassifiable Establishments
+NVCS36162,,,9999,Nonclassifiable Establishments
+NVCS36262,,,9999,Nonclassifiable Establishments
+NVCS36342,,,9999,Nonclassifiable Establishments
+NVCS36363,,,9999,Nonclassifiable Establishments
+NVCS36364,,,9999,Nonclassifiable Establishments
+NVCS36463,,,9999,Nonclassifiable Establishments
+NVCS36682,,,1521,Single-Family Housing Construction
+NVCS36683,,,1521,Single-Family Housing Construction
+NVCS36782,,,9999,Nonclassifiable Establishments
+NVCS36862,,,1521,Single-Family Housing Construction
+NVCS36922,,,9999,Nonclassifiable Establishments
+NVCS37003,,,1521,Single-Family Housing Construction
+NVCS37083,,,9999,Nonclassifiable Establishments
+NVCS37182,,,3291,Abrasive Products
+NVCS37185,,,9999,Nonclassifiable Establishments
+NVCS37186,,,9999,Nonclassifiable Establishments
+NVCS37223,,,9999,Nonclassifiable Establishments
+NVCS37243,,,9999,Nonclassifiable Establishments
+NVCS37262,,,9999,Nonclassifiable Establishments
+NVCS37285,,,9999,Nonclassifiable Establishments
+NVCS37325,,,9999,Nonclassifiable Establishments
+NVCS37373,,,9999,Nonclassifiable Establishments
+NVCS37375,,,9999,Nonclassifiable Establishments
+NVCS37397,,,9999,Nonclassifiable Establishments
+NVCS37436,,,9999,Nonclassifiable Establishments
+NVCS37440,,,9999,Nonclassifiable Establishments
+NVCS37456,,,9532,Urban And Community Development
+NVCS37461,,,9999,Nonclassifiable Establishments
+NVCS37462,,,1521,Single-Family Housing Construction
+NVCS37476,,,9999,Nonclassifiable Establishments
+NVCS37583,,,1521,Single-Family Housing Construction
+NVCS37584,,,1521,Single-Family Housing Construction
+NVCS37585,,,1521,Single-Family Housing Construction
+NVCS37916,,,9999,Nonclassifiable Establishments
+NVCS37956,,,9999,Nonclassifiable Establishments
+NVCS37997,,,9999,Nonclassifiable Establishments
+NVCS38016,,,1521,Single-Family Housing Construction
+NVCS38138,,,9999,Nonclassifiable Establishments
+NVCS38236,,,9999,Nonclassifiable Establishments
+NVCS38317,,,6552,Subdividers And Developers
+NVCS38336,,,9999,Nonclassifiable Establishments
+NVCS38416,,,9999,Nonclassifiable Establishments
+NVCS38478,,,9999,Nonclassifiable Establishments
+NVCS38579,,,9999,Nonclassifiable Establishments
+NVCS38676,,,9999,Nonclassifiable Establishments
+NVCS38922,,,9999,Nonclassifiable Establishments
+NVCS38925,,,1521,Single-Family Housing Construction
+NVCS38928,,,9999,Nonclassifiable Establishments
+NVCS38932,,,1521,Single-Family Housing Construction
+NVCS38934,,,1531,Operative Builders
+NVCS38941,,,1521,Single-Family Housing Construction
+NVCS38942,,,1521,Single-Family Housing Construction
+NVCS38945,,,9999,Nonclassifiable Establishments
+NVCS38946,,,4011,"Railroads, Line-Haul Operating"
+NVCS38947,,,1521,Single-Family Housing Construction
+NVCS38948,,,1521,Single-Family Housing Construction
+NVCS38951,,,9999,Nonclassifiable Establishments
+NVCS38953,,,5812,Eating Places
+NVCS38971,,,9999,Nonclassifiable Establishments
+NVCS38973,,,9999,Nonclassifiable Establishments
+NVCS38986,,,9999,Nonclassifiable Establishments
+NVCS38987,,,5812,Eating Places
+NVCS39084,,,9999,Nonclassifiable Establishments
+NVCS39085,,,9999,Nonclassifiable Establishments
+NVCS39088,,,1542,Nonresidential Construction
+NVCS39090,,,9999,Nonclassifiable Establishments
+NVCS39093,,,1521,Single-Family Housing Construction
+NVCS39102,,,9999,Nonclassifiable Establishments
+NVCS39110,,,9999,Nonclassifiable Establishments
+NVCS39116,,,9999,Nonclassifiable Establishments
+NVCS39127,,,9999,Nonclassifiable Establishments
+NVCS39130,,,9999,Nonclassifiable Establishments
+NVCS39135,,,9999,Nonclassifiable Establishments
+NVCS39148,,,1521,Single-Family Housing Construction
+NVCS39155,,,9999,Nonclassifiable Establishments
+NVCS39160,,,9999,Nonclassifiable Establishments
+NVCS39161,,,9999,Nonclassifiable Establishments
+NVCS39162,,,9999,Nonclassifiable Establishments
+NVCS39164,,,9999,Nonclassifiable Establishments
+NVCS39166,,,9999,Nonclassifiable Establishments
+NVCS39174,,,9999,Nonclassifiable Establishments
+NVCS39188,,,9999,Nonclassifiable Establishments
+NVCS39201,,,9999,Nonclassifiable Establishments
+NVCS39209,,,9999,Nonclassifiable Establishments
+NVCS39211,,,9999,Nonclassifiable Establishments
+NVCS39212,,,1521,Single-Family Housing Construction
+NVCS39218,,,3291,Abrasive Products
+NVCS39220,,,9999,Nonclassifiable Establishments
+NVCS39223,,,9999,Nonclassifiable Establishments
+NVCS39225,,,9999,Nonclassifiable Establishments
+NVCS39226,,,9999,Nonclassifiable Establishments
+NVCS39227,,,1521,Single-Family Housing Construction
+NVCS39244,,,9999,Nonclassifiable Establishments
+NVCS39245,,,9999,Nonclassifiable Establishments
+NVCS39253,,,9999,Nonclassifiable Establishments
+NVCS39264,,,1521,Single-Family Housing Construction
+NVCS39269,,,9999,Nonclassifiable Establishments
+NVCS39281,,,9999,Nonclassifiable Establishments
+NVCS39284,,,9999,Nonclassifiable Establishments
+NVCS39288,,,9999,Nonclassifiable Establishments
+NVCS39291,,,9999,Nonclassifiable Establishments
+NVCS39296,,,9999,Nonclassifiable Establishments
+NVCS39297,,,9999,Nonclassifiable Establishments
+NVCS39301,,,9999,Nonclassifiable Establishments
+NVCS39304,,,1521,Single-Family Housing Construction
+NVCS39311,,,3291,Abrasive Products
+NVCS39313,,,9999,Nonclassifiable Establishments
+NVCS39315,,,9999,Nonclassifiable Establishments
+NVCS39322,,,9999,Nonclassifiable Establishments
+NVCS39324,,,9999,Nonclassifiable Establishments
+NVCS39325,,,1521,Single-Family Housing Construction
+NVCS39327,,,9999,Nonclassifiable Establishments
+NVCS39328,,,9999,Nonclassifiable Establishments
+NVCS39330,,,9999,Nonclassifiable Establishments
+NVCS39342,,,9999,Nonclassifiable Establishments
+NVCS39346,,,9999,Nonclassifiable Establishments
+NVCS39348,,,9999,Nonclassifiable Establishments
+NVCS39349,,,9999,Nonclassifiable Establishments
+NVCS39351,,,9999,Nonclassifiable Establishments
+NVCS39363,,,6552,Subdividers And Developers
+NVCS39364,,,3291,Abrasive Products
+NVCS39368,,,3531,Construction Machinery
+NVCS39381,,,9999,Nonclassifiable Establishments
+NVCS39408,,,9999,Nonclassifiable Establishments
+NVCS39424,,,9999,Nonclassifiable Establishments
+NVCS39425,,,9999,Nonclassifiable Establishments
+NVCS39426,,,9999,Nonclassifiable Establishments
+NVCS39428,,,9999,Nonclassifiable Establishments
+NVCS39429,,,9999,Nonclassifiable Establishments
+NVCS39432,,,9999,Nonclassifiable Establishments
+NVCS39433,,,9999,Nonclassifiable Establishments
+NVCS39435,,,9999,Nonclassifiable Establishments
+NVCS39436,,,9999,Nonclassifiable Establishments
+NVCS39437,,,9999,Nonclassifiable Establishments
+NVCS39438,,,9999,Nonclassifiable Establishments
+NVCS39439,,,1521,Single-Family Housing Construction
+NVCS39446,,,9999,Nonclassifiable Establishments
+NVCS39447,,,1521,Single-Family Housing Construction
+NVCS39449,,,9999,Nonclassifiable Establishments
+NVCS39460,,,9999,Nonclassifiable Establishments
+NVCS39463,,,1521,Single-Family Housing Construction
+NVCS39465,,,9999,Nonclassifiable Establishments
+NVCS39468,,,1521,Single-Family Housing Construction
+NVCS39475,,,9999,Nonclassifiable Establishments
+NVCS39477,,,9999,Nonclassifiable Establishments
+NVCS39479,,,9999,Nonclassifiable Establishments
+NVCS39490,,,9999,Nonclassifiable Establishments
+NVCS39496,,,9999,Nonclassifiable Establishments
+NVCS39509,,,9999,Nonclassifiable Establishments
+NVCS39511,,,9999,Nonclassifiable Establishments
+NVCS39515,,,9999,Nonclassifiable Establishments
+NVCS39516,,,9999,Nonclassifiable Establishments
+NVCS39530,,,9999,Nonclassifiable Establishments
+NVCS39537,,,9999,Nonclassifiable Establishments
+NVCS39538,,,1521,Single-Family Housing Construction
+NVCS39541,,,9999,Nonclassifiable Establishments
+NVCS39547,,,9999,Nonclassifiable Establishments
+NVCS39552,,,9999,Nonclassifiable Establishments
+NVCS39555,,,9999,Nonclassifiable Establishments
+NVCS39562,,,1521,Single-Family Housing Construction
+NVCS39565,,,9999,Nonclassifiable Establishments
+NVCS39566,,,9999,Nonclassifiable Establishments
+NVCS39587,,,9999,Nonclassifiable Establishments
+NVCS39608,,,9999,Nonclassifiable Establishments
+NVCS39613,,,1521,Single-Family Housing Construction
+NVCS39615,,,1521,Single-Family Housing Construction
+NVCS39618,,,9999,Nonclassifiable Establishments
+NVCS39632,,,9999,Nonclassifiable Establishments
+NVCS39634,,,9999,Nonclassifiable Establishments
+NVCS39642,,,9999,Nonclassifiable Establishments
+NVCS39644,,,9999,Nonclassifiable Establishments
+NVCS39646,,,4952,Sewerage Systems
+NVCS39647,,,1521,Single-Family Housing Construction
+NVCS39650,,,9999,Nonclassifiable Establishments
+NVCS39655,,,9999,Nonclassifiable Establishments
+NVCS39658,,,9999,Nonclassifiable Establishments
+NVCS39672,,,9999,Nonclassifiable Establishments
+NVCS39674,,,9999,Nonclassifiable Establishments
+NVCS39709,,,1521,Single-Family Housing Construction
+NVCS39716,,,9999,Nonclassifiable Establishments
+NVCS39725,,,1442,Construction Sand And Gravel
+NVCS39726,,,9999,Nonclassifiable Establishments
+NVCS39727,,,9999,Nonclassifiable Establishments
+NVCS39745,,,9999,Nonclassifiable Establishments
+NVCS39747,,,9999,Nonclassifiable Establishments
+NVCS39753,,,9999,Nonclassifiable Establishments
+NVCS39757,,,9999,Nonclassifiable Establishments
+NVCS39764,,,1521,Single-Family Housing Construction
+NVCS39765,,,9999,Nonclassifiable Establishments
+NVCS39787,,,9999,Nonclassifiable Establishments
+NVCS39810,,,9999,Nonclassifiable Establishments
+NVCS39816,,,1522,Residential Construction
+NVCS39817,,,1522,Residential Construction
+NVCS39833,,,9999,Nonclassifiable Establishments
+NVCS39837,,,9999,Nonclassifiable Establishments
+NVCS39842,,,1521,Single-Family Housing Construction
+NVCS39862,,,9999,Nonclassifiable Establishments
+NVCS39866,,,9999,Nonclassifiable Establishments
+NVCS39868,,,9999,Nonclassifiable Establishments
+NVCS39872,,,9999,Nonclassifiable Establishments
+NVCS39873,,,9999,Nonclassifiable Establishments
+NVCS39874,,,9999,Nonclassifiable Establishments
+NVCS39882,,,9999,Nonclassifiable Establishments
+NVCS39893,,,9711,National Security
+NVCS39897,,,9999,Nonclassifiable Establishments
+NVCS39899,,,9999,Nonclassifiable Establishments
+NVCS39901,,,9999,Nonclassifiable Establishments
+NVCS39909,,,9999,Nonclassifiable Establishments
+NVCS39915,,,9999,Nonclassifiable Establishments
+NVCS39916,,,9999,Nonclassifiable Establishments
+NVCS39923,,,9999,Nonclassifiable Establishments
+NVCS39929,,,9999,Nonclassifiable Establishments
+NVCS39931,,,3291,Abrasive Products
+NVCS39945,,,9999,Nonclassifiable Establishments
+NVCS39959,,,1521,Single-Family Housing Construction
+NVCS39960,,,1521,Single-Family Housing Construction
+NVCS39976,,,1521,Single-Family Housing Construction
+NVCS39987,,,9999,Nonclassifiable Establishments
+NVCS39989,,,1522,Residential Construction
+NVCS39990,,,9999,Nonclassifiable Establishments
+NVCS39998,,,9999,Nonclassifiable Establishments
+NVCS40000,,,9999,Nonclassifiable Establishments
+NVCS40011,,,9999,Nonclassifiable Establishments
+NVCS40016,,,9999,Nonclassifiable Establishments
+NVCS40020,,,9999,Nonclassifiable Establishments
+NVCS40022,,,9999,Nonclassifiable Establishments
+NVCS40023,,,9999,Nonclassifiable Establishments
+NVCS40038,,,9999,Nonclassifiable Establishments
+NVCS40040,,,9999,Nonclassifiable Establishments
+NVCS40044,,,9999,Nonclassifiable Establishments
+NVCS40052,,,1542,Nonresidential Construction
+NVCS40055,,,9999,Nonclassifiable Establishments
+NVCS40057,,,9999,Nonclassifiable Establishments
+NVCS40058,,,9999,Nonclassifiable Establishments
+NVCS40061,,,8011,Offices & Clinics Of Medical Doctors
+NVCS40066,,,9711,National Security
+NVCS40073,,,9999,Nonclassifiable Establishments
+NVCS40075,,,1522,Residential Construction
+NVCS40080,,,9999,Nonclassifiable Establishments
+NVCS40084,,,9999,Nonclassifiable Establishments
+NVCS40086,,,9999,Nonclassifiable Establishments
+NVCS40098,,,9999,Nonclassifiable Establishments
+NVCS40099,,,9999,Nonclassifiable Establishments
+NVCS40103,,,9999,Nonclassifiable Establishments
+NVCS40110,,,9999,Nonclassifiable Establishments
+NVCS40115,,,9999,Nonclassifiable Establishments
+NVCS40119,,,9999,Nonclassifiable Establishments
+NVCS40123,,,9999,Nonclassifiable Establishments
+NVCS40124,,,9999,Nonclassifiable Establishments
+NVCS40145,,,1521,Single-Family Housing Construction
+NVCS40155,,,9999,Nonclassifiable Establishments
+NVCS40156,,,9999,Nonclassifiable Establishments
+NVCS40158,,,9999,Nonclassifiable Establishments
+NVCS40160,,,9999,Nonclassifiable Establishments
+NVCS40162,,,1521,Single-Family Housing Construction
+NVCS40163,,,1521,Single-Family Housing Construction
+NVCS40171,,,9999,Nonclassifiable Establishments
+NVCS40174,,,9999,Nonclassifiable Establishments
+NVCS40175,,,9999,Nonclassifiable Establishments
+NVCS40189,,,9999,Nonclassifiable Establishments
+NVCS40194,,,9999,Nonclassifiable Establishments
+NVCS40200,,,1521,Single-Family Housing Construction
+NVCS40206,,,1521,Single-Family Housing Construction
+NVCS40217,,,9999,Nonclassifiable Establishments
+NVCS40226,,,9999,Nonclassifiable Establishments
+NVCS40227,,,9999,Nonclassifiable Establishments
+NVCS40229,,,9999,Nonclassifiable Establishments
+NVCS40237,,,1521,Single-Family Housing Construction
+NVCS40242,,,9999,Nonclassifiable Establishments
+NVCS40253,,,9999,Nonclassifiable Establishments
+NVCS40257,,,9999,Nonclassifiable Establishments
+NVCS40267,,,9999,Nonclassifiable Establishments
+NVCS40271,,,9999,Nonclassifiable Establishments
+NVCS40272,,,9999,Nonclassifiable Establishments
+NVCS40274,,,9999,Nonclassifiable Establishments
+NVCS40278,,,1521,Single-Family Housing Construction
+NVCS40279,,,1521,Single-Family Housing Construction
+NVCS40280,,,1521,Single-Family Housing Construction
+NVCS40287,,,9999,Nonclassifiable Establishments
+NVCS40290,,,9999,Nonclassifiable Establishments
+NVCS40294,,,9999,Nonclassifiable Establishments
+NVCS40296,,,1542,Nonresidential Construction
+NVCS40298,,,9999,Nonclassifiable Establishments
+NVCS40301,,,1542,Nonresidential Construction
+NVCS40305,,,9999,Nonclassifiable Establishments
+NVCS40312,,,9999,Nonclassifiable Establishments
+NVCS40313,,,9999,Nonclassifiable Establishments
+NVCS40330,,,6324,Hospital And Medical Service Plans
+NVCS40332,,,1542,Nonresidential Construction
+NVCS40336,,,9999,Nonclassifiable Establishments
+NVCS40337,,,9999,Nonclassifiable Establishments
+NVCS40341,,,1522,Residential Construction
+NVCS40342,,,1521,Single-Family Housing Construction
+NVCS40345,,,1542,Nonresidential Construction
+NVCS40349,,,1522,Residential Construction
+NVCS40352,,,1521,Single-Family Housing Construction
+NVCS40353,,,1521,Single-Family Housing Construction
+NVCS40354,,,1521,Single-Family Housing Construction
+NVCS40358,,,9999,Nonclassifiable Establishments
+NVCS40359,,,9999,Nonclassifiable Establishments
+NVCS40360,,,9999,Nonclassifiable Establishments
+NVCS40379,,,9999,Nonclassifiable Establishments
+NVCS40382,,,9999,Nonclassifiable Establishments
+NVCS40384,,,1521,Single-Family Housing Construction
+NVCS40389,,,1521,Single-Family Housing Construction
+NVCS40392,,,9999,Nonclassifiable Establishments
+NVCS40397,,,1521,Single-Family Housing Construction
+NVCS40398,,,9999,Nonclassifiable Establishments
+NVCS40404,,,9999,Nonclassifiable Establishments
+NVCS40406,,,8052,Intermediate Care Facilities
+NVCS40411,,,1521,Single-Family Housing Construction
+NVCS40412,,,9999,Nonclassifiable Establishments
+NVCS40413,,,1521,Single-Family Housing Construction
+NVCS40421,,,3479,Metal Coating And Allied Services
+NVCS40427,,,1521,Single-Family Housing Construction
+NVCS40429,,,6552,Subdividers And Developers
+NVCS40437,,,9999,Nonclassifiable Establishments
+NVCS40439,,,9999,Nonclassifiable Establishments
+NVCS40443,,,9999,Nonclassifiable Establishments
+NVCS40453,,,9999,Nonclassifiable Establishments
+NVCS40458,,,4932,Gas And Other Services Combined
+NVCS40473,,,9999,Nonclassifiable Establishments
+NVCS40480,,,1521,Single-Family Housing Construction
+NVCS40483,,,1521,Single-Family Housing Construction
+NVCS40484,,,7011,Hotels And Motels
+NVCS40485,,,7011,Hotels And Motels
+NVCS40496,,,1521,Single-Family Housing Construction
+NVCS40500,,,9999,Nonclassifiable Establishments
+NVCS40504,,,9999,Nonclassifiable Establishments
+NVCS40505,,,9999,Nonclassifiable Establishments
+NVCS40512,,,9999,Nonclassifiable Establishments
+NVCS40518,,,9999,Nonclassifiable Establishments
+NVCS40521,,,1521,Single-Family Housing Construction
+NVCS40527,,,1521,Single-Family Housing Construction
+NVCS40529,,,1521,Single-Family Housing Construction
+NVCS40541,,,7011,Hotels And Motels
+NVCS40544,,,1521,Single-Family Housing Construction
+NVCS40550,,,9999,Nonclassifiable Establishments
+NVCS40552,,,4922,Natural Gas Transmission
+NVCS40556,,,9999,Nonclassifiable Establishments
+NVCS40558,,,4941,Water Supply
+NVCS40562,,,1542,Nonresidential Construction
+NVCS40569,,,1521,Single-Family Housing Construction
+NVCS40575,,,9999,Nonclassifiable Establishments
+NVCS40576,,,5023,Homefurnishings
+NVCS40590,,,1521,Single-Family Housing Construction
+NVCS40591,,,9999,Nonclassifiable Establishments
+NVCS40598,,,1521,Single-Family Housing Construction
+NVCS40599,,,9999,Nonclassifiable Establishments
+NVCS40600,,,9999,Nonclassifiable Establishments
+NVCS40601,,,9999,Nonclassifiable Establishments
+NVCS40606,,,9999,Nonclassifiable Establishments
+NVCS40607,,,9999,Nonclassifiable Establishments
+NVCS40613,,,4952,Sewerage Systems
+NVCS40616,,,1521,Single-Family Housing Construction
+NVCS40617,,,1521,Single-Family Housing Construction
+NVCS40619,,,7011,Hotels And Motels
+NVCS40629,,,1795,Wrecking And Demolition Work
+NVCS40630,,,1521,Single-Family Housing Construction
+NVCS40631,,,8299,Schools & Educational Services
+NVCS40635,,,3531,Construction Machinery
+NVCS40638,,,3531,Construction Machinery
+NVCS40639,,,3531,Construction Machinery
+NVCS40642,,,1521,Single-Family Housing Construction
+NVCS40650,,,3291,Abrasive Products
+NVCS40651,,,1794,Excavation Work
+NVCS40657,,,1521,Single-Family Housing Construction
+NVCS40660,,,1521,Single-Family Housing Construction
+NVCS40671,,,9511,"Air, Water, & Solid Waste Management"
+NVCS40686,,,1521,Single-Family Housing Construction
+NVCS40699,,,1521,Single-Family Housing Construction
+NVCS40701,,,1522,Residential Construction
+NVCS40710,,,3339,Primary Nonferrous Metals
+NVCS40716,,,5941,Sporting Goods And Bicycle Shops
+NVCS40721,,,1521,Single-Family Housing Construction
+NVCS40722,,,6552,Subdividers And Developers
+NVCS40724,,,1521,Single-Family Housing Construction
+NVCS40729,,,1611,Highway And Street Construction
+NVCS40730,,,8661,Religious Organizations
+NVCS40731,,,1522,Residential Construction
+NVCS40736,,,1521,Single-Family Housing Construction
+NVCS40741,,,1521,Single-Family Housing Construction
+NVCS40743,,,1521,Single-Family Housing Construction
+NVCS40745,,,1521,Single-Family Housing Construction
+NVCS40748,,,1521,Single-Family Housing Construction
+NVCS40750,,,6552,Subdividers And Developers
+NVCS40752,,,1521,Single-Family Housing Construction
+NVCS40769,,,6552,Subdividers And Developers
+NVCS40775,,,1611,Highway And Street Construction
+NVCS40776,,,1521,Single-Family Housing Construction
+NVCS40777,,,1542,Nonresidential Construction
+NVCS40779,,,1521,Single-Family Housing Construction
+NVCS40787,,,5039,Construction Materials
+NVCS40792,,,3291,Abrasive Products
+NVCS40803,,,1794,Excavation Work
+NVCS40810,,,5812,Eating Places
+NVCS40813,,,1541,Industrial Buildings And Warehouses
+NVCS40815,,,4922,Natural Gas Transmission
+NVCS40838,,,5085,Industrial Supplies
+NVCS40844,,,3531,Construction Machinery
+NVCS40848,,,1542,Nonresidential Construction
+NVCS40851,,,1521,Single-Family Housing Construction
+NVCS40854,,,4813,"Telephone Communications, Except Radio"
+NVCS40860,,,4911,Electric Services
+NVCS40864,,,8741,Management Services
+NVCS40877,,,1521,Single-Family Housing Construction
+NVCS40879,,,1542,Nonresidential Construction
+NVCS40883,,,6552,Subdividers And Developers
+NVCS40888,,,8661,Religious Organizations
+NVCS40899,,,1521,Single-Family Housing Construction
+NVCS40907,,,1521,Single-Family Housing Construction
+NVCS40910,,,3291,Abrasive Products
+NVCS40914,,,5039,Construction Materials
+NVCS40916,,,5082,Construction And Mining Machinery
+NVCS40918,,,9999,Nonclassifiable Establishments
+NVCS40920,,,1611,Highway And Street Construction
+NVCS40929,,,1542,Nonresidential Construction
+NVCS40932,,,1542,Nonresidential Construction
+NVCS40938,,,8059,Nursing And Personal Care
+NVCS40947,,,3291,Abrasive Products
+NVCS40948,,,1794,Excavation Work
+NVCS40958,,,1522,Residential Construction
+NVCS40959,,,3669,Communications Equipment
+NVCS40961,,,3612,"Transformers, Except Electronic"
+NVCS40964,,,1521,Single-Family Housing Construction
+NVCS40967,,,1521,Single-Family Housing Construction
+NVCS40968,,,1521,Single-Family Housing Construction
+NVCS40971,,,5039,Construction Materials
+NVCS40979,,,3531,Construction Machinery
+NVCS40986,,,1541,Industrial Buildings And Warehouses
+NVCS40988,,,1522,Residential Construction
+NVCS40996,,,5082,Construction And Mining Machinery
+NVCS41010,,,1542,Nonresidential Construction
+NVCS41017,,,1794,Excavation Work
+NVCS41018,,,1542,Nonresidential Construction
+NVCS41020,,,3291,Abrasive Products
+NVCS41021,,,6531,Real Estate Agents And Managers
+NVCS41024,,,1521,Single-Family Housing Construction
+NVCS41034,,,1521,Single-Family Housing Construction
+NVCS41042,,,1521,Single-Family Housing Construction
+NVCS41043,,,8712,Architectural Services
+NVCS41047,,,1521,Single-Family Housing Construction
+NVCS41051,,,6513,Apartment Building Operators
+NVCS41052,,,1521,Single-Family Housing Construction
+NVCS41053,,,1521,Single-Family Housing Construction
+NVCS41054,,,1521,Single-Family Housing Construction
+NVCS41059,,,6324,Hospital And Medical Service Plans
+NVCS41065,,,1522,Residential Construction
+NVCS41070,,,1521,Single-Family Housing Construction
+NVCS41071,,,3291,Abrasive Products
+NVCS41073,,,1794,Excavation Work
+NVCS41075,,,1794,Excavation Work
+NVCS41076,,,1522,Residential Construction
+NVCS41078,,,1521,Single-Family Housing Construction
+NVCS41079,,,1542,Nonresidential Construction
+NVCS41081,,,7011,Hotels And Motels
+NVCS41082,,,1521,Single-Family Housing Construction
+NVCS41093,,,1521,Single-Family Housing Construction
+NVCS41100,,,1521,Single-Family Housing Construction
+NVCS41102,,,3531,Construction Machinery
+NVCS41105,,,3531,Construction Machinery
+NVCS41106,,,8071,Medical Laboratories
+NVCS41109,,,1522,Residential Construction
+NVCS41113,,,1521,Single-Family Housing Construction
+NVCS41114,,,1521,Single-Family Housing Construction
+NVCS41123,,,8051,Skilled Nursing Care Facilities
+NVCS41130,,,1521,Single-Family Housing Construction
+NVCS41141,,,1794,Excavation Work
+NVCS41143,,,1521,Single-Family Housing Construction
+NVCS41144,,,1522,Residential Construction
+NVCS41148,,,3291,Abrasive Products
+NVCS41151,,,1521,Single-Family Housing Construction
+NVCS41155,,,6552,Subdividers And Developers
+NVCS41156,,,1542,Nonresidential Construction
+NVCS41162,,,3291,Abrasive Products
+NVCS41169,,,1522,Residential Construction
+NVCS41179,,,5063,Electrical Apparatus And Equipment
+NVCS41186,,,1521,Single-Family Housing Construction
+NVCS41188,,,6552,Subdividers And Developers
+NVCS41190,,,1542,Nonresidential Construction
+NVCS41198,,,1521,Single-Family Housing Construction
+NVCS41206,,,2819,Industrial Inorganic Chemicals
+NVCS41214,,,1521,Single-Family Housing Construction
+NVCS41215,,,1521,Single-Family Housing Construction
+NVCS41220,,,1542,Nonresidential Construction
+NVCS41224,,,3291,Abrasive Products
+NVCS41227,,,1541,Industrial Buildings And Warehouses
+NVCS41232,,,3291,Abrasive Products
+NVCS41242,,,1542,Nonresidential Construction
+NVCS41247,,,1521,Single-Family Housing Construction
+NVCS41257,,,1521,Single-Family Housing Construction
+NVCS41276,,,9999,Nonclassifiable Establishments
+NVCS41277,,,3281,Cut Stone And Stone Products
+NVCS41280,,,1542,Nonresidential Construction
+NVCS41283,,,1541,Industrial Buildings And Warehouses
+NVCS41287,,,1542,Nonresidential Construction
+NVCS41288,,,3291,Abrasive Products
+NVCS41292,,,5039,Construction Materials
+NVCS41297,,,5085,Industrial Supplies
+NVCS41300,,,3291,Abrasive Products
+NVCS41301,,,5039,Construction Materials
+NVCS41304,,,1442,Construction Sand And Gravel
+NVCS41305,,,1442,Construction Sand And Gravel
+NVCS41312,,,1521,Single-Family Housing Construction
+NVCS41324,,,1771,Concrete Work
+NVCS41326,,,1521,Single-Family Housing Construction
+NVCS41329,,,3291,Abrasive Products
+NVCS41331,,,1442,Construction Sand And Gravel
+NVCS41334,,,1542,Nonresidential Construction
+NVCS41336,,,1521,Single-Family Housing Construction
+NVCS41337,,,4789,Transportation Services
+NVCS41338,,,1521,Single-Family Housing Construction
+NVCS41340,,,5999,Miscellaneous Retail Stores
+NVCS41343,,,1522,Residential Construction
+NVCS41344,,,9999,Nonclassifiable Establishments
+NVCS41346,,,1521,Single-Family Housing Construction
+NVCS41350,,,1521,Single-Family Housing Construction
+NVCS41354,,,9199,General Government
+NVCS41357,,,3291,Abrasive Products
+NVCS41358,,,1521,Single-Family Housing Construction
+NVCS41360,,,1521,Single-Family Housing Construction
+NVCS41361,,,1521,Single-Family Housing Construction
+NVCS41370,,,9999,Nonclassifiable Establishments
+NVCS41372,,,1521,Single-Family Housing Construction
+NVCS41375,,,1521,Single-Family Housing Construction
+NVCS41376,,,1521,Single-Family Housing Construction
+NVCS41378,,,1521,Single-Family Housing Construction
+NVCS41379,,,1521,Single-Family Housing Construction
+NVCS41380,,,1521,Single-Family Housing Construction
+NVCS41381,,,3531,Construction Machinery
+NVCS41385,,,1521,Single-Family Housing Construction
+NVCS41387,,,1521,Single-Family Housing Construction
+NVCS41389,,,5812,Eating Places
+NVCS41395,,,3291,Abrasive Products
+NVCS41397,,,1771,Concrete Work
+NVCS41400,,,4581,"Airports, Flying Fields, & Services"
+NVCS41401,,,1522,Residential Construction
+NVCS41402,,,9411,Admin. Of Educational Programs
+NVCS41411,,,1521,Single-Family Housing Construction
+NVCS41415,,,8811,Private Households
+NVCS41421,,,7011,Hotels And Motels
+NVCS41426,,,1521,Single-Family Housing Construction
+NVCS41427,,,1521,Single-Family Housing Construction
+NVCS41434,,,1522,Residential Construction
+NVCS41435,,,1794,Excavation Work
+NVCS41436,,,5039,Construction Materials
+NVCS41444,,,1542,Nonresidential Construction
+NVCS41445,,,1795,Wrecking And Demolition Work
+NVCS41446,,,1522,Residential Construction
+NVCS41447,,,8711,Engineering Services
+NVCS41453,,,1521,Single-Family Housing Construction
+NVCS41455,,,3291,Abrasive Products
+NVCS41456,,,3291,Abrasive Products
+NVCS41458,,,3291,Abrasive Products
+NVCS41460,,,1522,Residential Construction
+NVCS41461,,,1521,Single-Family Housing Construction
+NVCS41464,,,1521,Single-Family Housing Construction
+NVCS41465,,,1521,Single-Family Housing Construction
+NVCS41472,,,1521,Single-Family Housing Construction
+NVCS41488,,,1522,Residential Construction
+NVCS41491,,,1442,Construction Sand And Gravel
+NVCS41492,,,1522,Residential Construction
+NVCS41493,,,1522,Residential Construction
+NVCS41505,,,1521,Single-Family Housing Construction
+NVCS41508,,,5039,Construction Materials
+NVCS41513,,,1521,Single-Family Housing Construction
+NVCS41515,,,1521,Single-Family Housing Construction
+NVCS41521,,,7521,Automobile Parking
+NVCS41522,,,1542,Nonresidential Construction
+NVCS41526,,,3531,Construction Machinery
+NVCS41527,,,6513,Apartment Building Operators
+NVCS41529,,,1522,Residential Construction
+NVCS41530,,,1771,Concrete Work
+NVCS41533,,,5141,"Groceries, General Line"
+NVCS41539,,,1541,Industrial Buildings And Warehouses
+NVCS41542,,,1542,Nonresidential Construction
+NVCS41544,,,1522,Residential Construction
+NVCS41548,,,8011,Offices & Clinics Of Medical Doctors
+NVCS41551,,,1522,Residential Construction
+NVCS41555,,,1521,Single-Family Housing Construction
+NVCS41558,,,1542,Nonresidential Construction
+NVCS41561,,,1542,Nonresidential Construction
+NVCS41562,,,1521,Single-Family Housing Construction
+NVCS41572,,,7011,Hotels And Motels
+NVCS41575,,,1611,Highway And Street Construction
+NVCS41577,,,3531,Construction Machinery
+NVCS41578,,,1521,Single-Family Housing Construction
+NVCS41579,,,1521,Single-Family Housing Construction
+NVCS41581,,,1521,Single-Family Housing Construction
+NVCS41582,,,1521,Single-Family Housing Construction
+NVCS41585,,,1541,Industrial Buildings And Warehouses
+NVCS41587,,,1521,Single-Family Housing Construction
+NVCS41589,,,1521,Single-Family Housing Construction
+NVCS41591,,,1542,Nonresidential Construction
+NVCS41592,,,3291,Abrasive Products
+NVCS41593,,,1521,Single-Family Housing Construction
+NVCS41594,,,1521,Single-Family Housing Construction
+NVCS41596,,,1521,Single-Family Housing Construction
+NVCS41598,,,1794,Excavation Work
+NVCS41599,,,3531,Construction Machinery
+NVCS41600,,,3531,Construction Machinery
+NVCS41603,,,3448,Prefabricated Metal Buildings
+NVCS41609,,,1541,Industrial Buildings And Warehouses
+NVCS41614,,,4225,General Warehousing And Storage
+NVCS41615,,,9711,National Security
+NVCS41616,,,9711,National Security
+NVCS41620,,,1542,Nonresidential Construction
+NVCS41629,,,9999,Nonclassifiable Establishments
+NVCS41634,,,3291,Abrasive Products
+NVCS41636,,,1611,Highway And Street Construction
+NVCS41645,,,3531,Construction Machinery
+NVCS41650,,,3291,Abrasive Products
+NVCS41651,,,1521,Single-Family Housing Construction
+NVCS41657,,,1794,Excavation Work
+NVCS41658,,,3291,Abrasive Products
+NVCS41659,,,1521,Single-Family Housing Construction
+NVCS41666,,,7261,Funeral Service And Crematories
+NVCS41668,,,3531,Construction Machinery
+NVCS41669,,,8811,Private Households
+NVCS41671,,,8661,Religious Organizations
+NVCS41674,,,1611,Highway And Street Construction
+NVCS41675,,,1521,Single-Family Housing Construction
+NVCS41682,,,1521,Single-Family Housing Construction
+NVCS41683,,,9999,Nonclassifiable Establishments
+NVCS41687,,,1521,Single-Family Housing Construction
+NVCS41688,,,3715,Truck Trailers
+NVCS41689,,,4899,Communications Services
+NVCS41693,,,1611,Highway And Street Construction
+NVCS41694,,,1611,Highway And Street Construction
+NVCS41696,,,9531,Housing Programs
+NVCS41697,,,1542,Nonresidential Construction
+NVCS41698,,,1542,Nonresidential Construction
+NVCS41699,,,1542,Nonresidential Construction
+NVCS41703,,,1611,Highway And Street Construction
+NVCS41706,,,1522,Residential Construction
+NVCS41707,,,4931,Electric And Other Services Combined
+NVCS41712,,,1794,Excavation Work
+NVCS41713,,,1542,Nonresidential Construction
+NVCS41716,,,3291,Abrasive Products
+NVCS41717,,,5122,"Drugs, Proprietaries, And Sundries"
+NVCS41718,,,1611,Highway And Street Construction
+NVCS41720,,,1521,Single-Family Housing Construction
+NVCS41721,,,3291,Abrasive Products
+NVCS41723,,,1521,Single-Family Housing Construction
+NVCS41725,,,5541,Gasoline Service Stations
+NVCS41727,,,1521,Single-Family Housing Construction
+NVCS41728,,,1521,Single-Family Housing Construction
+NVCS41729,,,1521,Single-Family Housing Construction
+NVCS41730,,,1521,Single-Family Housing Construction
+NVCS41731,,,1521,Single-Family Housing Construction
+NVCS41732,,,1521,Single-Family Housing Construction
+NVCS41734,,,1521,Single-Family Housing Construction
+NVCS41735,,,1521,Single-Family Housing Construction
+NVCS41738,,,1521,Single-Family Housing Construction
+NVCS41739,,,4215,"Courier Services, Except By Air"
+NVCS41741,,,8661,Religious Organizations
+NVCS41743,,,3531,Construction Machinery
+NVCS41744,,,3531,Construction Machinery
+NVCS41750,,,6552,Subdividers And Developers
+NVCS41752,,,1611,Highway And Street Construction
+NVCS41753,,,1522,Residential Construction
+NVCS41754,,,1521,Single-Family Housing Construction
+NVCS41756,,,1521,Single-Family Housing Construction
+NVCS41757,,,8211,Elementary And Secondary Schools
+NVCS41759,,,1442,Construction Sand And Gravel
+NVCS41765,,,3721,Aircraft
+NVCS41769,,,3291,Abrasive Products
+NVCS41771,,,1521,Single-Family Housing Construction
+NVCS41773,,,1542,Nonresidential Construction
+NVCS41776,,,1542,Nonresidential Construction
+NVCS41777,,,9999,Nonclassifiable Establishments
+NVCS41779,,,7011,Hotels And Motels
+NVCS41785,,,1542,Nonresidential Construction
+NVCS41787,,,5039,Construction Materials
+NVCS41788,,,1521,Single-Family Housing Construction
+NVCS41791,,,1522,Residential Construction
+NVCS41793,,,1442,Construction Sand And Gravel
+NVCS41794,,,6061,Federal Credit Unions
+NVCS41795,,,1623,"Water, Sewer, And Utility Lines"
+NVCS41797,,,1611,Highway And Street Construction
+NVCS41798,,,7542,Carwashes
+NVCS41799,,,1521,Single-Family Housing Construction
+NVCS41800,,,6552,Subdividers And Developers
+NVCS41801,,,1522,Residential Construction
+NVCS41803,,,4225,General Warehousing And Storage
+NVCS41804,,,1542,Nonresidential Construction
+NVCS41805,,,3291,Abrasive Products
+NVCS41816,,,3531,Construction Machinery
+NVCS41818,,,1442,Construction Sand And Gravel
+NVCS41821,,,1522,Residential Construction
+NVCS41823,,,1521,Single-Family Housing Construction
+NVCS41825,,,5093,Scrap And Waste Materials
+NVCS41835,,,8299,Schools & Educational Services
+NVCS41838,,,7011,Hotels And Motels
+NVCS41839,,,8062,General Medical & Surgical Hospitals
+NVCS41841,,,1771,Concrete Work
+NVCS41843,,,1542,Nonresidential Construction
+NVCS41844,,,3531,Construction Machinery
+NVCS41845,,,1521,Single-Family Housing Construction
+NVCS41846,,,3721,Aircraft
+NVCS41847,,,1521,Single-Family Housing Construction
+NVCS41850,,,1522,Residential Construction
+NVCS41851,,,1521,Single-Family Housing Construction
+NVCS41855,,,5541,Gasoline Service Stations
+NVCS41857,,,1521,Single-Family Housing Construction
+NVCS41865,,,4011,"Railroads, Line-Haul Operating"
+NVCS41866,,,3291,Abrasive Products
+NVCS41867,,,1521,Single-Family Housing Construction
+NVCS41868,,,3728,Aircraft Parts And Equipment
+NVCS41871,,,3291,Abrasive Products
+NVCS41878,,,9999,Nonclassifiable Establishments
+NVCS41889,,,1521,Single-Family Housing Construction
+NVCS41894,,,7032,Sporting And Recreational Camps
+NVCS41901,,,1542,Nonresidential Construction
+NVCS41907,,,3531,Construction Machinery
+NVCS41908,,,1521,Single-Family Housing Construction
+NVCS41909,,,1521,Single-Family Housing Construction
+NVCS41914,,,3291,Abrasive Products
+NVCS41916,,,1794,Excavation Work
+NVCS41922,,,1541,Industrial Buildings And Warehouses
+NVCS41924,,,1542,Nonresidential Construction
+NVCS41925,,,1521,Single-Family Housing Construction
+NVCS41928,,,7542,Carwashes
+NVCS41929,,,3531,Construction Machinery
+NVCS41930,,,4911,Electric Services
+NVCS41934,,,1794,Excavation Work
+NVCS41938,,,1541,Industrial Buildings And Warehouses
+NVCS41939,,,1521,Single-Family Housing Construction
+NVCS41944,,,3531,Construction Machinery
+NVCS41947,,,1542,Nonresidential Construction
+NVCS41948,,,1542,Nonresidential Construction
+NVCS41949,,,1611,Highway And Street Construction
+NVCS41953,,,3531,Construction Machinery
+NVCS41954,,,3291,Abrasive Products
+NVCS41960,,,3291,Abrasive Products
+NVCS41961,,,3531,Construction Machinery
+NVCS41966,,,1522,Residential Construction
+NVCS41967,,,3291,Abrasive Products
+NVCS41972,,,2391,Curtains And Draperies
+NVCS41973,,,3291,Abrasive Products
+NVCS41974,,,1521,Single-Family Housing Construction
+NVCS41976,,,3291,Abrasive Products
+NVCS41977,,,3721,Aircraft
+NVCS41983,,,3317,Steel Pipe And Tubes
+NVCS41984,,,3317,Steel Pipe And Tubes
+NVCS41992,,,1771,Concrete Work
+NVCS41994,,,5541,Gasoline Service Stations
+NVCS41996,,,4581,"Airports, Flying Fields, & Services"
+NVCS41999,,,1542,Nonresidential Construction
+NVCS42003,,,1542,Nonresidential Construction
+NVCS42005,,,3291,Abrasive Products
+NVCS42006,,,5085,Industrial Supplies
+NVCS42010,,,1542,Nonresidential Construction
+NVCS42013,,,1542,Nonresidential Construction
+NVCS42015,,,1521,Single-Family Housing Construction
+NVCS42016,,,1521,Single-Family Housing Construction
+NVCS42019,,,1522,Residential Construction
+NVCS42021,,,5039,Construction Materials
+NVCS42022,,,3291,Abrasive Products
+NVCS42035,,,1521,Single-Family Housing Construction
+NVCS42042,,,1542,Nonresidential Construction
+NVCS42046,,,8711,Engineering Services
+NVCS42050,,,3531,Construction Machinery
+NVCS42052,,,3291,Abrasive Products
+NVCS42054,,,1771,Concrete Work
+NVCS42055,,,1771,Concrete Work
+NVCS42056,,,3291,Abrasive Products
+NVCS42060,,,3721,Aircraft
+NVCS42061,,,1521,Single-Family Housing Construction
+NVCS42064,,,1522,Residential Construction
+NVCS42065,,,1521,Single-Family Housing Construction
+NVCS42068,,,9999,Nonclassifiable Establishments
+NVCS42069,,,3531,Construction Machinery
+NVCS42070,,,1541,Industrial Buildings And Warehouses
+NVCS42071,,,3291,Abrasive Products
+NVCS42075,,,1522,Residential Construction
+NVCS42078,,,1522,Residential Construction
+NVCS42080,,,1521,Single-Family Housing Construction
+NVCS42084,,,1542,Nonresidential Construction
+NVCS42085,,,1521,Single-Family Housing Construction
+NVCS42086,,,1521,Single-Family Housing Construction
+NVCS42087,,,1521,Single-Family Housing Construction
+NVCS42088,,,1522,Residential Construction
+NVCS42092,,,1542,Nonresidential Construction
+NVCS42097,,,3291,Abrasive Products
+NVCS42099,,,3572,Computer Storage Devices
+NVCS42101,,,1542,Nonresidential Construction
+NVCS42112,,,1541,Industrial Buildings And Warehouses
+NVCS42113,,,1542,Nonresidential Construction
+NVCS42114,,,8011,Offices & Clinics Of Medical Doctors
+NVCS42115,,,1542,Nonresidential Construction
+NVCS42116,,,3531,Construction Machinery
+NVCS42117,,,4225,General Warehousing And Storage
+NVCS42118,,,1521,Single-Family Housing Construction
+NVCS42120,,,8351,Child Day Care Services
+NVCS42122,,,4939,Combination Utilities
+NVCS42123,,,1522,Residential Construction
+NVCS42125,,,1771,Concrete Work
+NVCS42134,,,3291,Abrasive Products
+NVCS42138,,,1771,Concrete Work
+NVCS42146,,,6552,Subdividers And Developers
+NVCS42152,,,1542,Nonresidential Construction
+NVCS42155,,,1542,Nonresidential Construction
+NVCS42157,,,1541,Industrial Buildings And Warehouses
+NVCS42161,,,1542,Nonresidential Construction
+NVCS42164,,,7011,Hotels And Motels
+NVCS42165,,,1521,Single-Family Housing Construction
+NVCS42169,,,6732,"Educational, Religious, Etc. Trusts"
+NVCS42170,,,3531,Construction Machinery
+NVCS42171,,,1794,Excavation Work
+NVCS42174,,,1521,Single-Family Housing Construction
+NVCS42176,,,5039,Construction Materials
+NVCS42180,,,7011,Hotels And Motels
+NVCS42183,,,3999,Manufacturing Industries
+NVCS42184,,,8711,Engineering Services
+NVCS42188,,,5541,Gasoline Service Stations
+NVCS42189,,,3291,Abrasive Products
+NVCS42190,,,1521,Single-Family Housing Construction
+NVCS42195,,,9711,National Security
+NVCS42197,,,4789,Transportation Services
+NVCS42199,,,3291,Abrasive Products
+NVCS42203,,,8011,Offices & Clinics Of Medical Doctors
+NVCS42204,,,1442,Construction Sand And Gravel
+NVCS42206,,,2095,Roasted Coffee
+NVCS42209,,,4952,Sewerage Systems
+NVCS42211,,,1521,Single-Family Housing Construction
+NVCS42212,,,3291,Abrasive Products
+NVCS42213,,,9999,Nonclassifiable Establishments
+NVCS42218,,,5541,Gasoline Service Stations
+NVCS42220,,,1541,Industrial Buildings And Warehouses
+NVCS42221,,,1541,Industrial Buildings And Warehouses
+NVCS42222,,,1522,Residential Construction
+NVCS42223,,,1542,Nonresidential Construction
+NVCS42225,,,1542,Nonresidential Construction
+NVCS42226,,,3531,Construction Machinery
+NVCS42232,,,1542,Nonresidential Construction
+NVCS42238,,,1442,Construction Sand And Gravel
+NVCS42239,,,1442,Construction Sand And Gravel
+NVCS42240,,,1442,Construction Sand And Gravel
+NVCS42241,,,1442,Construction Sand And Gravel
+NVCS42248,,,1794,Excavation Work
+NVCS42251,,,1521,Single-Family Housing Construction
+NVCS42253,,,1542,Nonresidential Construction
+NVCS42255,,,4225,General Warehousing And Storage
+NVCS42257,,,6514,"Dwelling Operators, Except Apartments"
+NVCS42263,,,1521,Single-Family Housing Construction
+NVCS42264,,,1521,Single-Family Housing Construction
+NVCS42265,,,9411,Admin. Of Educational Programs
+NVCS42269,,,6519,Real Property Lessors
+NVCS42270,,,1521,Single-Family Housing Construction
+NVCS42273,,,1542,Nonresidential Construction
+NVCS42275,,,5039,Construction Materials
+NVCS42279,,,8059,Nursing And Personal Care
+NVCS42280,,,4941,Water Supply
+NVCS42282,,,1521,Single-Family Housing Construction
+NVCS42283,,,1542,Nonresidential Construction
+NVCS42290,,,1541,Industrial Buildings And Warehouses
+NVCS42293,,,4011,"Railroads, Line-Haul Operating"
+NVCS42301,,,1611,Highway And Street Construction
+NVCS42303,,,5499,Miscellaneous Food Stores
+NVCS42305,,,1542,Nonresidential Construction
+NVCS42306,,,1442,Construction Sand And Gravel
+NVCS42307,,,7011,Hotels And Motels
+NVCS42310,,,1542,Nonresidential Construction
+NVCS42313,,,5032,"Brick, Stone, & Related Materials"
+NVCS42318,,,6552,Subdividers And Developers
+NVCS42321,,,9999,Nonclassifiable Establishments
+NVCS42322,,,1521,Single-Family Housing Construction
+NVCS42323,,,1771,Concrete Work
+NVCS42329,,,1521,Single-Family Housing Construction
+NVCS42330,,,3646,Commercial Lighting Fixtures
+NVCS42331,,,1521,Single-Family Housing Construction
+NVCS42333,,,1521,Single-Family Housing Construction
+NVCS42334,,,1521,Single-Family Housing Construction
+NVCS42336,,,1521,Single-Family Housing Construction
+NVCS42339,,,3291,Abrasive Products
+NVCS42342,,,1521,Single-Family Housing Construction
+NVCS42345,,,1542,Nonresidential Construction
+NVCS42353,,,4581,"Airports, Flying Fields, & Services"
+NVCS42354,,,1522,Residential Construction
+NVCS42355,,,1521,Single-Family Housing Construction
+NVCS42356,,,3291,Abrasive Products
+NVCS42357,,,1623,"Water, Sewer, And Utility Lines"
+NVCS42358,,,3531,Construction Machinery
+NVCS42359,,,3531,Construction Machinery
+NVCS42362,,,1521,Single-Family Housing Construction
+NVCS42367,,,3291,Abrasive Products
+NVCS42373,,,1611,Highway And Street Construction
+NVCS42374,,,5039,Construction Materials
+NVCS42376,,,4939,Combination Utilities
+NVCS42378,,,1611,Highway And Street Construction
+NVCS42382,,,1771,Concrete Work
+NVCS42384,,,1521,Single-Family Housing Construction
+NVCS42386,,,4952,Sewerage Systems
+NVCS42387,,,1521,Single-Family Housing Construction
+NVCS42388,,,3531,Construction Machinery
+NVCS42390,,,1521,Single-Family Housing Construction
+NVCS42391,,,7011,Hotels And Motels
+NVCS42393,,,1611,Highway And Street Construction
+NVCS42395,,,1794,Excavation Work
+NVCS42397,,,4222,Refrigerated Warehousing And Storage
+NVCS42398,,,1611,Highway And Street Construction
+NVCS42399,,,1522,Residential Construction
+NVCS42405,,,9999,Nonclassifiable Establishments
+NVCS42406,,,5039,Construction Materials
+NVCS42409,,,1521,Single-Family Housing Construction
+NVCS42412,,,3531,Construction Machinery
+NVCS42414,,,1522,Residential Construction
+NVCS42417,,,1521,Single-Family Housing Construction
+NVCS42419,,,1521,Single-Family Housing Construction
+NVCS42427,,,7991,Physical Fitness Facilities
+NVCS42428,,,3291,Abrasive Products
+NVCS42429,,,1611,Highway And Street Construction
+NVCS42430,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS42434,,,1794,Excavation Work
+NVCS42437,,,1521,Single-Family Housing Construction
+NVCS42439,,,6553,Cemetery Subdividers And Developers
+NVCS42440,,,3531,Construction Machinery
+NVCS42444,,,1542,Nonresidential Construction
+NVCS42446,,,3291,Abrasive Products
+NVCS42450,,,5082,Construction And Mining Machinery
+NVCS42452,,,1521,Single-Family Housing Construction
+NVCS42453,,,3531,Construction Machinery
+NVCS42455,,,1521,Single-Family Housing Construction
+NVCS42459,,,1521,Single-Family Housing Construction
+NVCS42460,,,1522,Residential Construction
+NVCS42463,,,1442,Construction Sand And Gravel
+NVCS42464,,,1521,Single-Family Housing Construction
+NVCS42467,,,1522,Residential Construction
+NVCS42468,,,1542,Nonresidential Construction
+NVCS42473,,,4581,"Airports, Flying Fields, & Services"
+NVCS42479,,,5082,Construction And Mining Machinery
+NVCS42482,,,1521,Single-Family Housing Construction
+NVCS42483,,,3531,Construction Machinery
+NVCS42485,,,3448,Prefabricated Metal Buildings
+NVCS42486,,,1541,Industrial Buildings And Warehouses
+NVCS42487,,,3531,Construction Machinery
+NVCS42489,,,1521,Single-Family Housing Construction
+NVCS42490,,,3721,Aircraft
+NVCS42491,,,1521,Single-Family Housing Construction
+NVCS42492,,,1542,Nonresidential Construction
+NVCS42495,,,1542,Nonresidential Construction
+NVCS42498,,,7521,Automobile Parking
+NVCS42501,,,1794,Excavation Work
+NVCS42502,,,1542,Nonresidential Construction
+NVCS42504,,,9199,General Government
+NVCS42505,,,1794,Excavation Work
+NVCS42506,,,1542,Nonresidential Construction
+NVCS42508,,,1542,Nonresidential Construction
+NVCS42518,,,1521,Single-Family Housing Construction
+NVCS42519,,,3531,Construction Machinery
+NVCS42521,,,1442,Construction Sand And Gravel
+NVCS42523,,,1442,Construction Sand And Gravel
+NVCS42524,,,1442,Construction Sand And Gravel
+NVCS42529,,,1542,Nonresidential Construction
+NVCS42530,,,1542,Nonresidential Construction
+NVCS42531,,,1541,Industrial Buildings And Warehouses
+NVCS42536,,,5039,Construction Materials
+NVCS42542,,,3531,Construction Machinery
+NVCS42545,,,1771,Concrete Work
+NVCS42546,,,1611,Highway And Street Construction
+NVCS42547,,,1541,Industrial Buildings And Warehouses
+NVCS42550,,,1611,Highway And Street Construction
+NVCS42552,,,1542,Nonresidential Construction
+NVCS42554,,,3531,Construction Machinery
+NVCS42556,,,1611,Highway And Street Construction
+NVCS42559,,,1521,Single-Family Housing Construction
+NVCS42561,,,1542,Nonresidential Construction
+NVCS42562,,,5411,Grocery Stores
+NVCS42563,,,3531,Construction Machinery
+NVCS42565,,,3531,Construction Machinery
+NVCS42567,,,4522,"Air Transportation, Nonscheduled"
+NVCS42569,,,1442,Construction Sand And Gravel
+NVCS42570,,,1771,Concrete Work
+NVCS42571,,,1623,"Water, Sewer, And Utility Lines"
+NVCS42572,,,1629,Heavy Construction
+NVCS42573,,,4924,Natural Gas Distribution
+NVCS42575,,,1795,Wrecking And Demolition Work
+NVCS42578,,,1542,Nonresidential Construction
+NVCS42580,,,8811,Private Households
+NVCS42588,,,1541,Industrial Buildings And Warehouses
+NVCS42592,,,1521,Single-Family Housing Construction
+NVCS42594,,,3531,Construction Machinery
+NVCS42596,,,1521,Single-Family Housing Construction
+NVCS42598,,,3531,Construction Machinery
+NVCS42601,,,1521,Single-Family Housing Construction
+NVCS42602,,,1771,Concrete Work
+NVCS42603,,,1521,Single-Family Housing Construction
+NVCS42604,,,1794,Excavation Work
+NVCS42613,,,1442,Construction Sand And Gravel
+NVCS42615,,,3291,Abrasive Products
+NVCS42616,,,1521,Single-Family Housing Construction
+NVCS42624,,,1521,Single-Family Housing Construction
+NVCS42628,,,1542,Nonresidential Construction
+NVCS42630,,,3511,Turbines And Turbine Generator Sets
+NVCS42636,,,3646,Commercial Lighting Fixtures
+NVCS42638,,,4952,Sewerage Systems
+NVCS42639,,,9711,National Security
+NVCS42641,,,1794,Excavation Work
+NVCS42643,,,7542,Carwashes
+NVCS42644,,,1521,Single-Family Housing Construction
+NVCS42646,,,3291,Abrasive Products
+NVCS42647,,,5541,Gasoline Service Stations
+NVCS42649,,,1522,Residential Construction
+NVCS42653,,,4225,General Warehousing And Storage
+NVCS42657,,,1521,Single-Family Housing Construction
+NVCS42658,,,1541,Industrial Buildings And Warehouses
+NVCS42659,,,7991,Physical Fitness Facilities
+NVCS42662,,,1521,Single-Family Housing Construction
+NVCS42667,,,1521,Single-Family Housing Construction
+NVCS42668,,,1521,Single-Family Housing Construction
+NVCS42670,,,1521,Single-Family Housing Construction
+NVCS42672,,,1542,Nonresidential Construction
+NVCS42674,,,1521,Single-Family Housing Construction
+NVCS42676,,,1611,Highway And Street Construction
+NVCS42678,,,1611,Highway And Street Construction
+NVCS42679,,,1611,Highway And Street Construction
+NVCS42680,,,1794,Excavation Work
+NVCS42683,,,3291,Abrasive Products
+NVCS42684,,,3531,Construction Machinery
+NVCS42689,,,5159,Farm-Product Raw Materials
+NVCS42693,,,1442,Construction Sand And Gravel
+NVCS42694,,,1521,Single-Family Housing Construction
+NVCS42697,,,1442,Construction Sand And Gravel
+NVCS42698,,,5812,Eating Places
+NVCS42699,,,7032,Sporting And Recreational Camps
+NVCS42700,,,1611,Highway And Street Construction
+NVCS42706,,,6552,Subdividers And Developers
+NVCS42707,,,3531,Construction Machinery
+NVCS42708,,,4922,Natural Gas Transmission
+NVCS42710,,,3531,Construction Machinery
+NVCS42715,,,7521,Automobile Parking
+NVCS42722,,,4911,Electric Services
+NVCS42724,,,3291,Abrasive Products
+NVCS42730,,,1521,Single-Family Housing Construction
+NVCS42734,,,5039,Construction Materials
+NVCS42735,,,1521,Single-Family Housing Construction
+NVCS42736,,,1611,Highway And Street Construction
+NVCS42737,,,3291,Abrasive Products
+NVCS42739,,,1521,Single-Family Housing Construction
+NVCS42740,,,4941,Water Supply
+NVCS42742,,,1623,"Water, Sewer, And Utility Lines"
+NVCS42743,,,7011,Hotels And Motels
+NVCS42750,,,2085,Distilled And Blended Liquors
+NVCS42751,,,1541,Industrial Buildings And Warehouses
+NVCS42752,,,3291,Abrasive Products
+NVCS42753,,,3291,Abrasive Products
+NVCS42758,,,3713,Truck And Bus Bodies
+NVCS42759,,,1521,Single-Family Housing Construction
+NVCS42763,,,5039,Construction Materials
+NVCS42765,,,1521,Single-Family Housing Construction
+NVCS42766,,,5039,Construction Materials
+NVCS42768,,,1521,Single-Family Housing Construction
+NVCS42769,,,1521,Single-Family Housing Construction
+NVCS42770,,,3291,Abrasive Products
+NVCS42775,,,1794,Excavation Work
+NVCS42776,,,1542,Nonresidential Construction
+NVCS42779,,,1522,Residential Construction
+NVCS42781,,,8049,Offices Of Health Practitioners
+NVCS42782,,,3291,Abrasive Products
+NVCS42790,,,1521,Single-Family Housing Construction
+NVCS42797,,,1521,Single-Family Housing Construction
+NVCS42799,,,1521,Single-Family Housing Construction
+NVCS42803,,,1541,Industrial Buildings And Warehouses
+NVCS42810,,,1521,Single-Family Housing Construction
+NVCS42813,,,3531,Construction Machinery
+NVCS42814,,,1542,Nonresidential Construction
+NVCS42816,,,1542,Nonresidential Construction
+NVCS42817,,,3531,Construction Machinery
+NVCS42820,,,1522,Residential Construction
+NVCS42821,,,3291,Abrasive Products
+NVCS42824,,,1794,Excavation Work
+NVCS42825,,,1542,Nonresidential Construction
+NVCS42830,,,1542,Nonresidential Construction
+NVCS42831,,,1521,Single-Family Housing Construction
+NVCS42834,,,1521,Single-Family Housing Construction
+NVCS42839,,,3531,Construction Machinery
+NVCS42840,,,3531,Construction Machinery
+NVCS42841,,,3531,Construction Machinery
+NVCS42842,,,1542,Nonresidential Construction
+NVCS42843,,,1521,Single-Family Housing Construction
+NVCS42846,,,1629,Heavy Construction
+NVCS42847,,,3291,Abrasive Products
+NVCS42848,,,1731,Electrical Work
+NVCS42849,,,1521,Single-Family Housing Construction
+NVCS42850,,,1521,Single-Family Housing Construction
+NVCS42851,,,1522,Residential Construction
+NVCS42853,,,1542,Nonresidential Construction
+NVCS42854,,,1521,Single-Family Housing Construction
+NVCS42855,,,1521,Single-Family Housing Construction
+NVCS42856,,,8661,Religious Organizations
+NVCS42863,,,1794,Excavation Work
+NVCS42864,,,1521,Single-Family Housing Construction
+NVCS42865,,,3291,Abrasive Products
+NVCS42869,,,1522,Residential Construction
+NVCS42873,,,1611,Highway And Street Construction
+NVCS42874,,,1542,Nonresidential Construction
+NVCS42876,,,1522,Residential Construction
+NVCS42884,,,1521,Single-Family Housing Construction
+NVCS42885,,,1521,Single-Family Housing Construction
+NVCS42888,,,1771,Concrete Work
+NVCS42892,,,8299,Schools & Educational Services
+NVCS42896,,,1542,Nonresidential Construction
+NVCS42902,,,7011,Hotels And Motels
+NVCS42907,,,3531,Construction Machinery
+NVCS42910,,,3291,Abrasive Products
+NVCS42915,,,1521,Single-Family Housing Construction
+NVCS42916,,,3291,Abrasive Products
+NVCS42920,,,3531,Construction Machinery
+NVCS42921,,,3531,Construction Machinery
+NVCS42930,,,1771,Concrete Work
+NVCS42932,,,5082,Construction And Mining Machinery
+NVCS42934,,,1521,Single-Family Housing Construction
+NVCS42935,,,1521,Single-Family Housing Construction
+NVCS42939,,,1521,Single-Family Housing Construction
+NVCS42940,,,4941,Water Supply
+NVCS42941,,,1521,Single-Family Housing Construction
+NVCS42942,,,3531,Construction Machinery
+NVCS42943,,,1521,Single-Family Housing Construction
+NVCS42944,,,1521,Single-Family Housing Construction
+NVCS42946,,,1521,Single-Family Housing Construction
+NVCS42948,,,3531,Construction Machinery
+NVCS42955,,,7011,Hotels And Motels
+NVCS42962,,,8712,Architectural Services
+NVCS42965,,,1542,Nonresidential Construction
+NVCS42967,,,3531,Construction Machinery
+NVCS42968,,,1611,Highway And Street Construction
+NVCS42977,,,3531,Construction Machinery
+NVCS42978,,,4941,Water Supply
+NVCS42985,,,1442,Construction Sand And Gravel
+NVCS42986,,,1522,Residential Construction
+NVCS42988,,,3291,Abrasive Products
+NVCS42992,,,3291,Abrasive Products
+NVCS42993,,,8811,Private Households
+NVCS42996,,,1521,Single-Family Housing Construction
+NVCS42997,,,3715,Truck Trailers
+NVCS42999,,,3291,Abrasive Products
+NVCS43000,,,7542,Carwashes
+NVCS43003,,,5039,Construction Materials
+NVCS43006,,,8299,Schools & Educational Services
+NVCS43008,,,3629,Electrical Industrial Apparatus
+NVCS43009,,,3629,Electrical Industrial Apparatus
+NVCS43010,,,1794,Excavation Work
+NVCS43011,,,3291,Abrasive Products
+NVCS43014,,,3531,Construction Machinery
+NVCS43015,,,3291,Abrasive Products
+NVCS43017,,,8299,Schools & Educational Services
+NVCS43019,,,5921,Liquor Stores
+NVCS43020,,,7539,Automotive Repair Shops
+NVCS43021,,,3531,Construction Machinery
+NVCS43022,,,1442,Construction Sand And Gravel
+NVCS43023,,,1542,Nonresidential Construction
+NVCS43024,,,3743,Railroad Equipment
+NVCS43030,,,1542,Nonresidential Construction
+NVCS43031,,,1623,"Water, Sewer, And Utility Lines"
+NVCS43034,,,1521,Single-Family Housing Construction
+NVCS43036,,,8743,Public Relations Services
+NVCS43038,,,1521,Single-Family Housing Construction
+NVCS43040,,,1521,Single-Family Housing Construction
+NVCS43041,,,1521,Single-Family Housing Construction
+NVCS43042,,,1629,Heavy Construction
+NVCS43043,,,1611,Highway And Street Construction
+NVCS43044,,,3531,Construction Machinery
+NVCS43045,,,3531,Construction Machinery
+NVCS43047,,,5039,Construction Materials
+NVCS43051,,,5039,Construction Materials
+NVCS43053,,,5039,Construction Materials
+NVCS43054,,,3743,Railroad Equipment
+NVCS43060,,,4581,"Airports, Flying Fields, & Services"
+NVCS43061,,,3291,Abrasive Products
+NVCS43064,,,1442,Construction Sand And Gravel
+NVCS43068,,,1542,Nonresidential Construction
+NVCS43069,,,4932,Gas And Other Services Combined
+NVCS43070,,,3531,Construction Machinery
+NVCS43071,,,7549,Automotive Services
+NVCS43075,,,1542,Nonresidential Construction
+NVCS43079,,,1442,Construction Sand And Gravel
+NVCS43081,,,1541,Industrial Buildings And Warehouses
+NVCS43084,,,1521,Single-Family Housing Construction
+NVCS43089,,,3291,Abrasive Products
+NVCS43096,,,3291,Abrasive Products
+NVCS43098,,,3291,Abrasive Products
+NVCS43100,,,3531,Construction Machinery
+NVCS43101,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS43105,,,1522,Residential Construction
+NVCS43106,,,1521,Single-Family Housing Construction
+NVCS43113,,,3291,Abrasive Products
+NVCS43114,,,1541,Industrial Buildings And Warehouses
+NVCS43116,,,7538,General Automotive Repair Shops
+NVCS43117,,,9199,General Government
+NVCS43119,,,1542,Nonresidential Construction
+NVCS43120,,,1623,"Water, Sewer, And Utility Lines"
+NVCS43121,,,1442,Construction Sand And Gravel
+NVCS43123,,,1521,Single-Family Housing Construction
+NVCS43127,,,1521,Single-Family Housing Construction
+NVCS43130,,,1541,Industrial Buildings And Warehouses
+NVCS43135,,,1623,"Water, Sewer, And Utility Lines"
+NVCS43137,,,1542,Nonresidential Construction
+NVCS43139,,,1731,Electrical Work
+NVCS43143,,,3531,Construction Machinery
+NVCS43144,,,1522,Residential Construction
+NVCS43147,,,3531,Construction Machinery
+NVCS43149,,,4941,Water Supply
+NVCS43151,,,1522,Residential Construction
+NVCS43154,,,1542,Nonresidential Construction
+NVCS43155,,,1542,Nonresidential Construction
+NVCS43156,,,1542,Nonresidential Construction
+NVCS43159,,,1542,Nonresidential Construction
+NVCS43161,,,1611,Highway And Street Construction
+NVCS43162,,,1521,Single-Family Housing Construction
+NVCS43163,,,1542,Nonresidential Construction
+NVCS43165,,,1542,Nonresidential Construction
+NVCS43168,,,1521,Single-Family Housing Construction
+NVCS43172,,,3531,Construction Machinery
+NVCS43179,,,1541,Industrial Buildings And Warehouses
+NVCS43180,,,3531,Construction Machinery
+NVCS43183,,,8661,Religious Organizations
+NVCS43188,,,5331,Variety Stores
+NVCS43190,,,1542,Nonresidential Construction
+NVCS43196,,,1611,Highway And Street Construction
+NVCS43197,,,1442,Construction Sand And Gravel
+NVCS43198,,,1771,Concrete Work
+NVCS43199,,,1522,Residential Construction
+NVCS43205,,,1542,Nonresidential Construction
+NVCS43207,,,1541,Industrial Buildings And Warehouses
+NVCS43209,,,3531,Construction Machinery
+NVCS43211,,,1623,"Water, Sewer, And Utility Lines"
+NVCS43214,,,5047,Medical And Hospital Equipment
+NVCS43217,,,6324,Hospital And Medical Service Plans
+NVCS43221,,,7011,Hotels And Motels
+NVCS43222,,,1799,Special Trade Contractors
+NVCS43226,,,1611,Highway And Street Construction
+NVCS43228,,,1794,Excavation Work
+NVCS43230,,,3291,Abrasive Products
+NVCS43233,,,1541,Industrial Buildings And Warehouses
+NVCS43234,,,5085,Industrial Supplies
+NVCS43235,,,3531,Construction Machinery
+NVCS43236,,,6552,Subdividers And Developers
+NVCS43238,,,3531,Construction Machinery
+NVCS43240,,,3531,Construction Machinery
+NVCS43242,,,3291,Abrasive Products
+NVCS43244,,,1521,Single-Family Housing Construction
+NVCS43246,,,1521,Single-Family Housing Construction
+NVCS43249,,,3291,Abrasive Products
+NVCS43252,,,3291,Abrasive Products
+NVCS43254,,,3531,Construction Machinery
+NVCS43256,,,1521,Single-Family Housing Construction
+NVCS43257,,,1542,Nonresidential Construction
+NVCS43259,,,3291,Abrasive Products
+NVCS43266,,,3531,Construction Machinery
+NVCS43267,,,9999,Nonclassifiable Establishments
+NVCS43268,,,7011,Hotels And Motels
+NVCS43273,,,1794,Excavation Work
+NVCS43275,,,1542,Nonresidential Construction
+NVCS43276,,,3531,Construction Machinery
+NVCS43279,,,1521,Single-Family Housing Construction
+NVCS43281,,,1521,Single-Family Housing Construction
+NVCS43285,,,1542,Nonresidential Construction
+NVCS43286,,,1521,Single-Family Housing Construction
+NVCS43289,,,1542,Nonresidential Construction
+NVCS43293,,,3291,Abrasive Products
+NVCS43294,,,1521,Single-Family Housing Construction
+NVCS43295,,,3531,Construction Machinery
+NVCS43298,,,6513,Apartment Building Operators
+NVCS43299,,,5411,Grocery Stores
+NVCS43300,,,1541,Industrial Buildings And Warehouses
+NVCS43301,,,3291,Abrasive Products
+NVCS43304,,,1542,Nonresidential Construction
+NVCS43305,,,4922,Natural Gas Transmission
+NVCS43307,,,1541,Industrial Buildings And Warehouses
+NVCS43312,,,3531,Construction Machinery
+NVCS43314,,,1542,Nonresidential Construction
+NVCS43315,,,9999,Nonclassifiable Establishments
+NVCS43316,,,1542,Nonresidential Construction
+NVCS43317,,,1542,Nonresidential Construction
+NVCS43318,,,1542,Nonresidential Construction
+NVCS43319,,,3531,Construction Machinery
+NVCS43320,,,1521,Single-Family Housing Construction
+NVCS43321,,,6512,Nonresidential Building Operators
+NVCS43322,,,9229,Public Order And Safety
+NVCS43324,,,1542,Nonresidential Construction
+NVCS43325,,,4225,General Warehousing And Storage
+NVCS43327,,,1522,Residential Construction
+NVCS43328,,,3291,Abrasive Products
+NVCS43330,,,3291,Abrasive Products
+NVCS43334,,,3531,Construction Machinery
+NVCS43336,,,3291,Abrasive Products
+NVCS43341,,,3291,Abrasive Products
+NVCS43344,,,3531,Construction Machinery
+NVCS43346,,,8231,Libraries
+NVCS43348,,,5039,Construction Materials
+NVCS43350,,,1442,Construction Sand And Gravel
+NVCS43351,,,1541,Industrial Buildings And Warehouses
+NVCS43353,,,1522,Residential Construction
+NVCS43355,,,1629,Heavy Construction
+NVCS43356,,,1771,Concrete Work
+NVCS43357,,,3291,Abrasive Products
+NVCS43358,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS43359,,,6513,Apartment Building Operators
+NVCS43360,,,1521,Single-Family Housing Construction
+NVCS43362,,,1521,Single-Family Housing Construction
+NVCS43364,,,1521,Single-Family Housing Construction
+NVCS43368,,,1542,Nonresidential Construction
+NVCS43369,,,8299,Schools & Educational Services
+NVCS43370,,,2844,Toilet Preparations
+NVCS43371,,,2531,Public Building & Related Furniture
+NVCS43375,,,4911,Electric Services
+NVCS43377,,,1541,Industrial Buildings And Warehouses
+NVCS43378,,,3531,Construction Machinery
+NVCS43380,,,1521,Single-Family Housing Construction
+NVCS43381,,,1521,Single-Family Housing Construction
+NVCS43382,,,1521,Single-Family Housing Construction
+NVCS43385,,,1521,Single-Family Housing Construction
+NVCS43386,,,1771,Concrete Work
+NVCS43388,,,1542,Nonresidential Construction
+NVCS43390,,,1542,Nonresidential Construction
+NVCS43394,,,3291,Abrasive Products
+NVCS43397,,,1521,Single-Family Housing Construction
+NVCS43398,,,3531,Construction Machinery
+NVCS43399,,,3291,Abrasive Products
+NVCS43401,,,1522,Residential Construction
+NVCS43402,,,1442,Construction Sand And Gravel
+NVCS43405,,,3531,Construction Machinery
+NVCS43406,,,6324,Hospital And Medical Service Plans
+NVCS43407,,,8661,Religious Organizations
+NVCS43408,,,6552,Subdividers And Developers
+NVCS43409,,,3291,Abrasive Products
+NVCS43410,,,1521,Single-Family Housing Construction
+NVCS43411,,,1521,Single-Family Housing Construction
+NVCS43415,,,1542,Nonresidential Construction
+NVCS43416,,,1542,Nonresidential Construction
+NVCS43417,,,1442,Construction Sand And Gravel
+NVCS43421,,,1522,Residential Construction
+NVCS43425,,,1629,Heavy Construction
+NVCS43426,,,3291,Abrasive Products
+NVCS43430,,,1794,Excavation Work
+NVCS43433,,,1541,Industrial Buildings And Warehouses
+NVCS43436,,,3291,Abrasive Products
+NVCS43437,,,7311,Advertising Agencies
+NVCS43439,,,5039,Construction Materials
+NVCS43442,,,1542,Nonresidential Construction
+NVCS43443,,,1541,Industrial Buildings And Warehouses
+NVCS43444,,,1521,Single-Family Housing Construction
+NVCS43445,,,1542,Nonresidential Construction
+NVCS43447,,,1521,Single-Family Housing Construction
+NVCS43453,,,1522,Residential Construction
+NVCS43457,,,6712,Bank Holding Companies
+NVCS43458,,,3291,Abrasive Products
+NVCS43466,,,4941,Water Supply
+NVCS43473,,,1442,Construction Sand And Gravel
+NVCS43477,,,3291,Abrasive Products
+NVCS43478,,,8231,Libraries
+NVCS43479,,,1542,Nonresidential Construction
+NVCS43481,,,1541,Industrial Buildings And Warehouses
+NVCS43482,,,3291,Abrasive Products
+NVCS43486,,,1521,Single-Family Housing Construction
+NVCS43487,,,4932,Gas And Other Services Combined
+NVCS43488,,,1542,Nonresidential Construction
+NVCS43489,,,1542,Nonresidential Construction
+NVCS43491,,,3291,Abrasive Products
+NVCS43498,,,4225,General Warehousing And Storage
+NVCS43500,,,6324,Hospital And Medical Service Plans
+NVCS43503,,,1521,Single-Family Housing Construction
+NVCS43504,,,4959,Sanitary Services
+NVCS43506,,,1542,Nonresidential Construction
+NVCS43507,,,1542,Nonresidential Construction
+NVCS43508,,,1542,Nonresidential Construction
+NVCS43509,,,1442,Construction Sand And Gravel
+NVCS43510,,,6552,Subdividers And Developers
+NVCS43511,,,3291,Abrasive Products
+NVCS43513,,,1521,Single-Family Housing Construction
+NVCS43519,,,1521,Single-Family Housing Construction
+NVCS43523,,,1521,Single-Family Housing Construction
+NVCS43525,,,1522,Residential Construction
+NVCS43528,,,3291,Abrasive Products
+NVCS43530,,,3612,"Transformers, Except Electronic"
+NVCS43606,,,1522,Residential Construction
+NVCS43607,,,7011,Hotels And Motels
+NVCS43609,,,1521,Single-Family Housing Construction
+NVCS43610,,,1521,Single-Family Housing Construction
+NVCS43611,,,1521,Single-Family Housing Construction
+NVCS43617,,,5541,Gasoline Service Stations
+NVCS43619,,,3531,Construction Machinery
+NVCS43621,,,8299,Schools & Educational Services
+NVCS43622,,,1442,Construction Sand And Gravel
+NVCS43623,,,1542,Nonresidential Construction
+NVCS43624,,,7542,Carwashes
+NVCS43630,,,5039,Construction Materials
+NVCS43631,,,1542,Nonresidential Construction
+NVCS43632,,,5541,Gasoline Service Stations
+NVCS43633,,,1542,Nonresidential Construction
+NVCS43638,,,1521,Single-Family Housing Construction
+NVCS43639,,,7991,Physical Fitness Facilities
+NVCS43640,,,3291,Abrasive Products
+NVCS43644,,,1521,Single-Family Housing Construction
+NVCS43646,,,1442,Construction Sand And Gravel
+NVCS43650,,,1542,Nonresidential Construction
+NVCS43655,,,1521,Single-Family Housing Construction
+NVCS43657,,,8211,Elementary And Secondary Schools
+NVCS43659,,,1521,Single-Family Housing Construction
+NVCS43663,,,1542,Nonresidential Construction
+NVCS43664,,,1731,Electrical Work
+NVCS43665,,,3291,Abrasive Products
+NVCS43667,,,1521,Single-Family Housing Construction
+NVCS43672,,,1522,Residential Construction
+NVCS43676,,,5141,"Groceries, General Line"
+NVCS43680,,,6061,Federal Credit Unions
+NVCS43682,,,3291,Abrasive Products
+NVCS43683,,,1521,Single-Family Housing Construction
+NVCS43685,,,1442,Construction Sand And Gravel
+NVCS43687,,,1542,Nonresidential Construction
+NVCS43691,,,1442,Construction Sand And Gravel
+NVCS43698,,,1541,Industrial Buildings And Warehouses
+NVCS43699,,,1541,Industrial Buildings And Warehouses
+NVCS43701,,,3531,Construction Machinery
+NVCS43702,,,4581,"Airports, Flying Fields, & Services"
+NVCS43705,,,3531,Construction Machinery
+NVCS43707,,,3291,Abrasive Products
+NVCS43715,,,1542,Nonresidential Construction
+NVCS43716,,,3531,Construction Machinery
+NVCS43718,,,4932,Gas And Other Services Combined
+NVCS43721,,,1541,Industrial Buildings And Warehouses
+NVCS43722,,,1542,Nonresidential Construction
+NVCS43728,,,1521,Single-Family Housing Construction
+NVCS43729,,,1521,Single-Family Housing Construction
+NVCS43731,,,4953,Refuse Systems
+NVCS43732,,,3291,Abrasive Products
+NVCS43733,,,1542,Nonresidential Construction
+NVCS43736,,,3531,Construction Machinery
+NVCS43743,,,1541,Industrial Buildings And Warehouses
+NVCS43744,,,1521,Single-Family Housing Construction
+NVCS43745,,,1522,Residential Construction
+NVCS43746,,,1522,Residential Construction
+NVCS43747,,,9999,Nonclassifiable Establishments
+NVCS43749,,,1542,Nonresidential Construction
+NVCS43752,,,7999,Amusement And Recreation
+NVCS43753,,,1442,Construction Sand And Gravel
+NVCS43755,,,1442,Construction Sand And Gravel
+NVCS43758,,,1521,Single-Family Housing Construction
+NVCS43760,,,1521,Single-Family Housing Construction
+NVCS43763,,,1541,Industrial Buildings And Warehouses
+NVCS43767,,,1731,Electrical Work
+NVCS43768,,,1442,Construction Sand And Gravel
+NVCS43769,,,3531,Construction Machinery
+NVCS43770,,,1521,Single-Family Housing Construction
+NVCS43773,,,1442,Construction Sand And Gravel
+NVCS43774,,,3531,Construction Machinery
+NVCS43775,,,3531,Construction Machinery
+NVCS43778,,,4952,Sewerage Systems
+NVCS43779,,,1542,Nonresidential Construction
+NVCS43782,,,4225,General Warehousing And Storage
+NVCS43783,,,1521,Single-Family Housing Construction
+NVCS43784,,,1542,Nonresidential Construction
+NVCS43785,,,7353,Heavy Construction Equipment Rental
+NVCS43794,,,1521,Single-Family Housing Construction
+NVCS43796,,,1542,Nonresidential Construction
+NVCS43797,,,1521,Single-Family Housing Construction
+NVCS43801,,,1731,Electrical Work
+NVCS43804,,,3531,Construction Machinery
+NVCS43809,,,3291,Abrasive Products
+NVCS43811,,,7011,Hotels And Motels
+NVCS43813,,,1629,Heavy Construction
+NVCS43816,,,1521,Single-Family Housing Construction
+NVCS43818,,,1542,Nonresidential Construction
+NVCS43820,,,3531,Construction Machinery
+NVCS43821,,,3531,Construction Machinery
+NVCS43822,,,1542,Nonresidential Construction
+NVCS43823,,,1542,Nonresidential Construction
+NVCS43824,,,1521,Single-Family Housing Construction
+NVCS43825,,,1521,Single-Family Housing Construction
+NVCS43828,,,3531,Construction Machinery
+NVCS43832,,,3531,Construction Machinery
+NVCS43833,,,8811,Private Households
+NVCS43834,,,1521,Single-Family Housing Construction
+NVCS43835,,,1521,Single-Family Housing Construction
+NVCS43836,,,6512,Nonresidential Building Operators
+NVCS43837,,,1521,Single-Family Housing Construction
+NVCS43838,,,1521,Single-Family Housing Construction
+NVCS43839,,,1521,Single-Family Housing Construction
+NVCS43840,,,1521,Single-Family Housing Construction
+NVCS43841,,,1521,Single-Family Housing Construction
+NVCS43844,,,7991,Physical Fitness Facilities
+NVCS43845,,,3795,Tanks And Tank Components
+NVCS43846,,,8661,Religious Organizations
+NVCS43847,,,2099,Food Preparations
+NVCS43848,,,1794,Excavation Work
+NVCS43849,,,1522,Residential Construction
+NVCS43850,,,1521,Single-Family Housing Construction
+NVCS43851,,,1521,Single-Family Housing Construction
+NVCS43853,,,1521,Single-Family Housing Construction
+NVCS43854,,,1521,Single-Family Housing Construction
+NVCS43856,,,1611,Highway And Street Construction
+NVCS43858,,,1521,Single-Family Housing Construction
+NVCS43859,,,1521,Single-Family Housing Construction
+NVCS43860,,,1541,Industrial Buildings And Warehouses
+NVCS43863,,,3291,Abrasive Products
+NVCS43865,,,1542,Nonresidential Construction
+NVCS43866,,,3291,Abrasive Products
+NVCS43868,,,7376,Computer Facilities Management
+NVCS43870,,,1542,Nonresidential Construction
+NVCS43871,,,1794,Excavation Work
+NVCS43872,,,1542,Nonresidential Construction
+NVCS43875,,,1521,Single-Family Housing Construction
+NVCS43877,,,4225,General Warehousing And Storage
+NVCS43878,,,1542,Nonresidential Construction
+NVCS43880,,,5039,Construction Materials
+NVCS43884,,,1541,Industrial Buildings And Warehouses
+NVCS43886,,,1541,Industrial Buildings And Warehouses
+NVCS43889,,,3531,Construction Machinery
+NVCS43890,,,1442,Construction Sand And Gravel
+NVCS43893,,,1521,Single-Family Housing Construction
+NVCS43900,,,4932,Gas And Other Services Combined
+NVCS43901,,,3291,Abrasive Products
+NVCS43904,,,1521,Single-Family Housing Construction
+NVCS43907,,,3291,Abrasive Products
+NVCS43908,,,1521,Single-Family Housing Construction
+NVCS43916,,,1521,Single-Family Housing Construction
+NVCS43919,,,1521,Single-Family Housing Construction
+NVCS43920,,,1522,Residential Construction
+NVCS43922,,,1521,Single-Family Housing Construction
+NVCS43927,,,1522,Residential Construction
+NVCS43929,,,1522,Residential Construction
+NVCS43932,,,1794,Excavation Work
+NVCS43933,,,1794,Excavation Work
+NVCS43934,,,1794,Excavation Work
+NVCS43935,,,1794,Excavation Work
+NVCS43939,,,5039,Construction Materials
+NVCS43940,,,1521,Single-Family Housing Construction
+NVCS43942,,,1542,Nonresidential Construction
+NVCS43943,,,1521,Single-Family Housing Construction
+NVCS43945,,,1542,Nonresidential Construction
+NVCS43947,,,1522,Residential Construction
+NVCS43951,,,1521,Single-Family Housing Construction
+NVCS43952,,,1521,Single-Family Housing Construction
+NVCS43958,,,8299,Schools & Educational Services
+NVCS43959,,,1521,Single-Family Housing Construction
+NVCS43960,,,5039,Construction Materials
+NVCS43963,,,1623,"Water, Sewer, And Utility Lines"
+NVCS43967,,,1521,Single-Family Housing Construction
+NVCS43968,,,1521,Single-Family Housing Construction
+NVCS43970,,,4911,Electric Services
+NVCS43973,,,1522,Residential Construction
+NVCS43975,,,1542,Nonresidential Construction
+NVCS43977,,,1542,Nonresidential Construction
+NVCS43978,,,1542,Nonresidential Construction
+NVCS43981,,,1522,Residential Construction
+NVCS43984,,,1771,Concrete Work
+NVCS43987,,,1541,Industrial Buildings And Warehouses
+NVCS43988,,,1521,Single-Family Housing Construction
+NVCS43989,,,2531,Public Building & Related Furniture
+NVCS43990,,,1521,Single-Family Housing Construction
+NVCS43991,,,1521,Single-Family Housing Construction
+NVCS43994,,,1542,Nonresidential Construction
+NVCS43995,,,4581,"Airports, Flying Fields, & Services"
+NVCS43999,,,1521,Single-Family Housing Construction
+NVCS44001,,,7011,Hotels And Motels
+NVCS44002,,,1542,Nonresidential Construction
+NVCS44003,,,1521,Single-Family Housing Construction
+NVCS44005,,,1521,Single-Family Housing Construction
+NVCS44012,,,4941,Water Supply
+NVCS44015,,,3291,Abrasive Products
+NVCS44019,,,1521,Single-Family Housing Construction
+NVCS44021,,,1611,Highway And Street Construction
+NVCS44022,,,1611,Highway And Street Construction
+NVCS44023,,,8211,Elementary And Secondary Schools
+NVCS44026,,,1541,Industrial Buildings And Warehouses
+NVCS44027,,,1542,Nonresidential Construction
+NVCS44032,,,7011,Hotels And Motels
+NVCS44034,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS44035,,,3291,Abrasive Products
+NVCS44040,,,5039,Construction Materials
+NVCS44042,,,1521,Single-Family Housing Construction
+NVCS44043,,,8211,Elementary And Secondary Schools
+NVCS44045,,,1542,Nonresidential Construction
+NVCS44046,,,1522,Residential Construction
+NVCS44047,,,1442,Construction Sand And Gravel
+NVCS44050,,,1442,Construction Sand And Gravel
+NVCS44052,,,6513,Apartment Building Operators
+NVCS44054,,,1521,Single-Family Housing Construction
+NVCS44058,,,6732,"Educational, Religious, Etc. Trusts"
+NVCS44060,,,8211,Elementary And Secondary Schools
+NVCS44066,,,8059,Nursing And Personal Care
+NVCS44068,,,3721,Aircraft
+NVCS44072,,,3291,Abrasive Products
+NVCS44073,,,8299,Schools & Educational Services
+NVCS44074,,,3531,Construction Machinery
+NVCS44075,,,8299,Schools & Educational Services
+NVCS44076,,,8299,Schools & Educational Services
+NVCS44077,,,5411,Grocery Stores
+NVCS44078,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44079,,,1522,Residential Construction
+NVCS44081,,,2869,Industrial Organic Chemicals
+NVCS44082,,,1522,Residential Construction
+NVCS44083,,,1541,Industrial Buildings And Warehouses
+NVCS44084,,,1794,Excavation Work
+NVCS44085,,,4924,Natural Gas Distribution
+NVCS44086,,,3291,Abrasive Products
+NVCS44088,,,7011,Hotels And Motels
+NVCS44089,,,1521,Single-Family Housing Construction
+NVCS44090,,,6552,Subdividers And Developers
+NVCS44092,,,1542,Nonresidential Construction
+NVCS44093,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44094,,,1521,Single-Family Housing Construction
+NVCS44099,,,7542,Carwashes
+NVCS44103,,,1541,Industrial Buildings And Warehouses
+NVCS44104,,,1521,Single-Family Housing Construction
+NVCS44105,,,1442,Construction Sand And Gravel
+NVCS44106,,,6552,Subdividers And Developers
+NVCS44113,,,7539,Automotive Repair Shops
+NVCS44115,,,1521,Single-Family Housing Construction
+NVCS44116,,,8021,Offices And Clinics Of Dentists
+NVCS44117,,,8011,Offices & Clinics Of Medical Doctors
+NVCS44118,,,1522,Residential Construction
+NVCS44119,,,3531,Construction Machinery
+NVCS44120,,,8351,Child Day Care Services
+NVCS44124,,,3291,Abrasive Products
+NVCS44125,,,1521,Single-Family Housing Construction
+NVCS44127,,,1542,Nonresidential Construction
+NVCS44129,,,4911,Electric Services
+NVCS44133,,,1794,Excavation Work
+NVCS44135,,,6552,Subdividers And Developers
+NVCS44137,,,2431,Millwork
+NVCS44139,,,1521,Single-Family Housing Construction
+NVCS44141,,,1521,Single-Family Housing Construction
+NVCS44143,,,5541,Gasoline Service Stations
+NVCS44145,,,1521,Single-Family Housing Construction
+NVCS44146,,,3291,Abrasive Products
+NVCS44147,,,4225,General Warehousing And Storage
+NVCS44148,,,1542,Nonresidential Construction
+NVCS44151,,,1521,Single-Family Housing Construction
+NVCS44152,,,5541,Gasoline Service Stations
+NVCS44154,,,1771,Concrete Work
+NVCS44158,,,1521,Single-Family Housing Construction
+NVCS44159,,,5211,Lumber And Other Building Materials
+NVCS44162,,,1522,Residential Construction
+NVCS44165,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS44166,,,3291,Abrasive Products
+NVCS44172,,,5699,Miscellaneous Apparel & Accessory Stores
+NVCS44173,,,3291,Abrasive Products
+NVCS44174,,,1542,Nonresidential Construction
+NVCS44178,,,1442,Construction Sand And Gravel
+NVCS44180,,,5039,Construction Materials
+NVCS44182,,,1521,Single-Family Housing Construction
+NVCS44188,,,1542,Nonresidential Construction
+NVCS44190,,,1521,Single-Family Housing Construction
+NVCS44192,,,1611,Highway And Street Construction
+NVCS44195,,,3531,Construction Machinery
+NVCS44200,,,5039,Construction Materials
+NVCS44204,,,3531,Construction Machinery
+NVCS44207,,,1522,Residential Construction
+NVCS44209,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44210,,,4952,Sewerage Systems
+NVCS44211,,,1522,Residential Construction
+NVCS44212,,,1522,Residential Construction
+NVCS44213,,,5082,Construction And Mining Machinery
+NVCS44214,,,1771,Concrete Work
+NVCS44217,,,8711,Engineering Services
+NVCS44219,,,3291,Abrasive Products
+NVCS44222,,,3291,Abrasive Products
+NVCS44223,,,1522,Residential Construction
+NVCS44226,,,3291,Abrasive Products
+NVCS44228,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44230,,,1521,Single-Family Housing Construction
+NVCS44235,,,3291,Abrasive Products
+NVCS44236,,,1521,Single-Family Housing Construction
+NVCS44239,,,3291,Abrasive Products
+NVCS44241,,,1771,Concrete Work
+NVCS44242,,,1442,Construction Sand And Gravel
+NVCS44243,,,1521,Single-Family Housing Construction
+NVCS44245,,,3291,Abrasive Products
+NVCS44247,,,9999,Nonclassifiable Establishments
+NVCS44248,,,1442,Construction Sand And Gravel
+NVCS44249,,,1521,Single-Family Housing Construction
+NVCS44252,,,1522,Residential Construction
+NVCS44253,,,1521,Single-Family Housing Construction
+NVCS44254,,,1521,Single-Family Housing Construction
+NVCS44255,,,1442,Construction Sand And Gravel
+NVCS44256,,,4941,Water Supply
+NVCS44257,,,4941,Water Supply
+NVCS44258,,,1521,Single-Family Housing Construction
+NVCS44262,,,4923,Gas Transmission And Distribution
+NVCS44263,,,4923,Gas Transmission And Distribution
+NVCS44265,,,1521,Single-Family Housing Construction
+NVCS44266,,,1521,Single-Family Housing Construction
+NVCS44268,,,3531,Construction Machinery
+NVCS44271,,,1522,Residential Construction
+NVCS44275,,,1542,Nonresidential Construction
+NVCS44276,,,1521,Single-Family Housing Construction
+NVCS44278,,,1521,Single-Family Housing Construction
+NVCS44279,,,1542,Nonresidential Construction
+NVCS44280,,,1541,Industrial Buildings And Warehouses
+NVCS44281,,,1442,Construction Sand And Gravel
+NVCS44287,,,9199,General Government
+NVCS44288,,,1522,Residential Construction
+NVCS44291,,,1542,Nonresidential Construction
+NVCS44292,,,1521,Single-Family Housing Construction
+NVCS44295,,,1521,Single-Family Housing Construction
+NVCS44298,,,1521,Single-Family Housing Construction
+NVCS44301,,,3291,Abrasive Products
+NVCS44302,,,3291,Abrasive Products
+NVCS44303,,,4581,"Airports, Flying Fields, & Services"
+NVCS44307,,,1521,Single-Family Housing Construction
+NVCS44308,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS44310,,,1522,Residential Construction
+NVCS44312,,,1442,Construction Sand And Gravel
+NVCS44313,,,1521,Single-Family Housing Construction
+NVCS44315,,,9999,Nonclassifiable Establishments
+NVCS44316,,,3291,Abrasive Products
+NVCS44317,,,1799,Special Trade Contractors
+NVCS44319,,,1521,Single-Family Housing Construction
+NVCS44321,,,3291,Abrasive Products
+NVCS44323,,,1521,Single-Family Housing Construction
+NVCS44326,,,1521,Single-Family Housing Construction
+NVCS44328,,,1521,Single-Family Housing Construction
+NVCS44330,,,1521,Single-Family Housing Construction
+NVCS44331,,,1794,Excavation Work
+NVCS44332,,,1521,Single-Family Housing Construction
+NVCS44333,,,3531,Construction Machinery
+NVCS44335,,,1521,Single-Family Housing Construction
+NVCS44336,,,1522,Residential Construction
+NVCS44338,,,6552,Subdividers And Developers
+NVCS44339,,,1522,Residential Construction
+NVCS44346,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS44349,,,1521,Single-Family Housing Construction
+NVCS44351,,,6513,Apartment Building Operators
+NVCS44353,,,9199,General Government
+NVCS44355,,,1521,Single-Family Housing Construction
+NVCS44356,,,1521,Single-Family Housing Construction
+NVCS44358,,,1521,Single-Family Housing Construction
+NVCS44359,,,1771,Concrete Work
+NVCS44360,,,1771,Concrete Work
+NVCS44363,,,1521,Single-Family Housing Construction
+NVCS44365,,,3291,Abrasive Products
+NVCS44367,,,1794,Excavation Work
+NVCS44368,,,1522,Residential Construction
+NVCS44369,,,5411,Grocery Stores
+NVCS44370,,,1542,Nonresidential Construction
+NVCS44371,,,3531,Construction Machinery
+NVCS44372,,,9999,Nonclassifiable Establishments
+NVCS44374,,,3531,Construction Machinery
+NVCS44378,,,1771,Concrete Work
+NVCS44379,,,1542,Nonresidential Construction
+NVCS44382,,,1521,Single-Family Housing Construction
+NVCS44386,,,3291,Abrasive Products
+NVCS44389,,,1542,Nonresidential Construction
+NVCS44391,,,1542,Nonresidential Construction
+NVCS44399,,,4932,Gas And Other Services Combined
+NVCS44400,,,1521,Single-Family Housing Construction
+NVCS44403,,,1521,Single-Family Housing Construction
+NVCS44404,,,1541,Industrial Buildings And Warehouses
+NVCS44408,,,3531,Construction Machinery
+NVCS44409,,,1542,Nonresidential Construction
+NVCS44410,,,1542,Nonresidential Construction
+NVCS44411,,,3531,Construction Machinery
+NVCS44413,,,7542,Carwashes
+NVCS44414,,,1541,Industrial Buildings And Warehouses
+NVCS44418,,,1541,Industrial Buildings And Warehouses
+NVCS44419,,,1542,Nonresidential Construction
+NVCS44421,,,1541,Industrial Buildings And Warehouses
+NVCS44423,,,1521,Single-Family Housing Construction
+NVCS44424,,,1794,Excavation Work
+NVCS44425,,,3531,Construction Machinery
+NVCS44426,,,1771,Concrete Work
+NVCS44428,,,1542,Nonresidential Construction
+NVCS44433,,,1521,Single-Family Housing Construction
+NVCS44434,,,4581,"Airports, Flying Fields, & Services"
+NVCS44435,,,5039,Construction Materials
+NVCS44437,,,3531,Construction Machinery
+NVCS44439,,,1522,Residential Construction
+NVCS44441,,,8361,Residential Care
+NVCS44444,,,1542,Nonresidential Construction
+NVCS44445,,,5541,Gasoline Service Stations
+NVCS44447,,,3291,Abrasive Products
+NVCS44448,,,5039,Construction Materials
+NVCS44449,,,1541,Industrial Buildings And Warehouses
+NVCS44450,,,7011,Hotels And Motels
+NVCS44451,,,1541,Industrial Buildings And Warehouses
+NVCS44454,,,1522,Residential Construction
+NVCS44458,,,3531,Construction Machinery
+NVCS44464,,,1521,Single-Family Housing Construction
+NVCS44465,,,1521,Single-Family Housing Construction
+NVCS44466,,,8661,Religious Organizations
+NVCS44467,,,1771,Concrete Work
+NVCS44471,,,1521,Single-Family Housing Construction
+NVCS44477,,,5039,Construction Materials
+NVCS44479,,,1521,Single-Family Housing Construction
+NVCS44484,,,6324,Hospital And Medical Service Plans
+NVCS44485,,,3291,Abrasive Products
+NVCS44486,,,3593,Fluid Power Cylinders & Actuators
+NVCS44490,,,1541,Industrial Buildings And Warehouses
+NVCS44492,,,1521,Single-Family Housing Construction
+NVCS44494,,,1521,Single-Family Housing Construction
+NVCS44496,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44497,,,1542,Nonresidential Construction
+NVCS44499,,,5039,Construction Materials
+NVCS44501,,,1542,Nonresidential Construction
+NVCS44510,,,4131,Intercity & Rural Bus Transportation
+NVCS44513,,,3291,Abrasive Products
+NVCS44516,,,3531,Construction Machinery
+NVCS44519,,,1611,Highway And Street Construction
+NVCS44521,,,1521,Single-Family Housing Construction
+NVCS44523,,,6719,Holding Companies
+NVCS44524,,,5039,Construction Materials
+NVCS44529,,,1521,Single-Family Housing Construction
+NVCS44532,,,1521,Single-Family Housing Construction
+NVCS44537,,,3531,Construction Machinery
+NVCS44539,,,1522,Residential Construction
+NVCS44540,,,7521,Automobile Parking
+NVCS44542,,,4581,"Airports, Flying Fields, & Services"
+NVCS44543,,,1521,Single-Family Housing Construction
+NVCS44545,,,1542,Nonresidential Construction
+NVCS44546,,,1521,Single-Family Housing Construction
+NVCS44548,,,1521,Single-Family Housing Construction
+NVCS44550,,,1521,Single-Family Housing Construction
+NVCS44551,,,3452,"Bolts, Nuts, Rivets, And Washers"
+NVCS44552,,,5541,Gasoline Service Stations
+NVCS44555,,,4581,"Airports, Flying Fields, & Services"
+NVCS44558,,,3291,Abrasive Products
+NVCS44561,,,5039,Construction Materials
+NVCS44563,,,5211,Lumber And Other Building Materials
+NVCS44570,,,1521,Single-Family Housing Construction
+NVCS44571,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44583,,,9199,General Government
+NVCS44586,,,9199,General Government
+NVCS44591,,,1541,Industrial Buildings And Warehouses
+NVCS44595,,,5541,Gasoline Service Stations
+NVCS44596,,,1522,Residential Construction
+NVCS44597,,,1542,Nonresidential Construction
+NVCS44598,,,1541,Industrial Buildings And Warehouses
+NVCS44599,,,3531,Construction Machinery
+NVCS44602,,,1522,Residential Construction
+NVCS44606,,,1522,Residential Construction
+NVCS44607,,,1522,Residential Construction
+NVCS44612,,,9111,Executive Offices
+NVCS44613,,,1542,Nonresidential Construction
+NVCS44618,,,1542,Nonresidential Construction
+NVCS44622,,,1521,Single-Family Housing Construction
+NVCS44624,,,3291,Abrasive Products
+NVCS44626,,,1521,Single-Family Housing Construction
+NVCS44628,,,5039,Construction Materials
+NVCS44630,,,1521,Single-Family Housing Construction
+NVCS44632,,,4922,Natural Gas Transmission
+NVCS44635,,,3531,Construction Machinery
+NVCS44636,,,1542,Nonresidential Construction
+NVCS44637,,,3531,Construction Machinery
+NVCS44639,,,1521,Single-Family Housing Construction
+NVCS44642,,,1442,Construction Sand And Gravel
+NVCS44644,,,9199,General Government
+NVCS44646,,,1521,Single-Family Housing Construction
+NVCS44648,,,1522,Residential Construction
+NVCS44654,,,1521,Single-Family Housing Construction
+NVCS44655,,,6552,Subdividers And Developers
+NVCS44656,,,1521,Single-Family Housing Construction
+NVCS44657,,,3273,Ready-Mixed Concrete
+NVCS44664,,,1771,Concrete Work
+NVCS44665,,,1522,Residential Construction
+NVCS44666,,,1611,Highway And Street Construction
+NVCS44669,,,1521,Single-Family Housing Construction
+NVCS44670,,,7011,Hotels And Motels
+NVCS44672,,,1442,Construction Sand And Gravel
+NVCS44673,,,1542,Nonresidential Construction
+NVCS44674,,,3531,Construction Machinery
+NVCS44675,,,1611,Highway And Street Construction
+NVCS44676,,,1542,Nonresidential Construction
+NVCS44677,,,1521,Single-Family Housing Construction
+NVCS44680,,,1521,Single-Family Housing Construction
+NVCS44684,,,1521,Single-Family Housing Construction
+NVCS44685,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS44687,,,1521,Single-Family Housing Construction
+NVCS44689,,,1521,Single-Family Housing Construction
+NVCS44704,,,1541,Industrial Buildings And Warehouses
+NVCS44705,,,1541,Industrial Buildings And Warehouses
+NVCS44707,,,3291,Abrasive Products
+NVCS44708,,,1521,Single-Family Housing Construction
+NVCS44712,,,1542,Nonresidential Construction
+NVCS44716,,,1541,Industrial Buildings And Warehouses
+NVCS44717,,,1541,Industrial Buildings And Warehouses
+NVCS44718,,,1521,Single-Family Housing Construction
+NVCS44720,,,8211,Elementary And Secondary Schools
+NVCS44721,,,1442,Construction Sand And Gravel
+NVCS44722,,,1794,Excavation Work
+NVCS44726,,,5541,Gasoline Service Stations
+NVCS44728,,,1521,Single-Family Housing Construction
+NVCS44734,,,3291,Abrasive Products
+NVCS44736,,,7521,Automobile Parking
+NVCS44738,,,1521,Single-Family Housing Construction
+NVCS44740,,,1541,Industrial Buildings And Warehouses
+NVCS44741,,,1521,Single-Family Housing Construction
+NVCS44742,,,1521,Single-Family Housing Construction
+NVCS44743,,,3531,Construction Machinery
+NVCS44744,,,3272,Concrete Products
+NVCS44745,,,1542,Nonresidential Construction
+NVCS44746,,,1442,Construction Sand And Gravel
+NVCS44747,,,1541,Industrial Buildings And Warehouses
+NVCS44748,,,1542,Nonresidential Construction
+NVCS44749,,,1521,Single-Family Housing Construction
+NVCS44750,,,1541,Industrial Buildings And Warehouses
+NVCS44752,,,1522,Residential Construction
+NVCS44753,,,3531,Construction Machinery
+NVCS44754,,,1521,Single-Family Housing Construction
+NVCS44757,,,1794,Excavation Work
+NVCS44760,,,3531,Construction Machinery
+NVCS44763,,,3531,Construction Machinery
+NVCS44764,,,1542,Nonresidential Construction
+NVCS44766,,,1542,Nonresidential Construction
+NVCS44768,,,3291,Abrasive Products
+NVCS44775,,,3531,Construction Machinery
+NVCS44776,,,3291,Abrasive Products
+NVCS44777,,,1521,Single-Family Housing Construction
+NVCS44778,,,1521,Single-Family Housing Construction
+NVCS44779,,,1521,Single-Family Housing Construction
+NVCS44780,,,8071,Medical Laboratories
+NVCS44782,,,3291,Abrasive Products
+NVCS44787,,,5082,Construction And Mining Machinery
+NVCS44791,,,1542,Nonresidential Construction
+NVCS44793,,,1542,Nonresidential Construction
+NVCS44795,,,1542,Nonresidential Construction
+NVCS44797,,,3531,Construction Machinery
+NVCS44798,,,1521,Single-Family Housing Construction
+NVCS44801,,,3291,Abrasive Products
+NVCS44805,,,3291,Abrasive Products
+NVCS44809,,,1541,Industrial Buildings And Warehouses
+NVCS44810,,,1542,Nonresidential Construction
+NVCS44813,,,1429,Crushed And Broken Stone
+NVCS44814,,,4619,Pipelines
+NVCS44815,,,1521,Single-Family Housing Construction
+NVCS44816,,,5541,Gasoline Service Stations
+NVCS44817,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44819,,,1611,Highway And Street Construction
+NVCS44820,,,3531,Construction Machinery
+NVCS44821,,,9411,Admin. Of Educational Programs
+NVCS44823,,,3291,Abrasive Products
+NVCS44825,,,1794,Excavation Work
+NVCS44827,,,1611,Highway And Street Construction
+NVCS44829,,,1442,Construction Sand And Gravel
+NVCS44831,,,3291,Abrasive Products
+NVCS44832,,,1542,Nonresidential Construction
+NVCS44833,,,1521,Single-Family Housing Construction
+NVCS44840,,,4952,Sewerage Systems
+NVCS44842,,,1521,Single-Family Housing Construction
+NVCS44843,,,1522,Residential Construction
+NVCS44846,,,1542,Nonresidential Construction
+NVCS44847,,,3531,Construction Machinery
+NVCS44848,,,1542,Nonresidential Construction
+NVCS44850,,,1541,Industrial Buildings And Warehouses
+NVCS44851,,,1442,Construction Sand And Gravel
+NVCS44853,,,1542,Nonresidential Construction
+NVCS44855,,,1521,Single-Family Housing Construction
+NVCS44857,,,1521,Single-Family Housing Construction
+NVCS44858,,,1611,Highway And Street Construction
+NVCS44863,,,1799,Special Trade Contractors
+NVCS44871,,,4225,General Warehousing And Storage
+NVCS44872,,,1442,Construction Sand And Gravel
+NVCS44873,,,1521,Single-Family Housing Construction
+NVCS44876,,,1611,Highway And Street Construction
+NVCS44878,,,1442,Construction Sand And Gravel
+NVCS44879,,,4941,Water Supply
+NVCS44880,,,3291,Abrasive Products
+NVCS44881,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44883,,,1521,Single-Family Housing Construction
+NVCS44892,,,4941,Water Supply
+NVCS44896,,,1794,Excavation Work
+NVCS44899,,,1521,Single-Family Housing Construction
+NVCS44901,,,5039,Construction Materials
+NVCS44909,,,1521,Single-Family Housing Construction
+NVCS44914,,,1522,Residential Construction
+NVCS44916,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS44917,,,7521,Automobile Parking
+NVCS44919,,,3291,Abrasive Products
+NVCS44923,,,3291,Abrasive Products
+NVCS44924,,,1611,Highway And Street Construction
+NVCS44926,,,1731,Electrical Work
+NVCS44928,,,1542,Nonresidential Construction
+NVCS44929,,,4939,Combination Utilities
+NVCS44930,,,1611,Highway And Street Construction
+NVCS44933,,,1611,Highway And Street Construction
+NVCS44936,,,1611,Highway And Street Construction
+NVCS44937,,,3531,Construction Machinery
+NVCS44938,,,1521,Single-Family Housing Construction
+NVCS44949,,,6552,Subdividers And Developers
+NVCS44957,,,3531,Construction Machinery
+NVCS44958,,,1623,"Water, Sewer, And Utility Lines"
+NVCS44960,,,1794,Excavation Work
+NVCS44961,,,1521,Single-Family Housing Construction
+NVCS44963,,,1781,Water Well Drilling
+NVCS44964,,,1541,Industrial Buildings And Warehouses
+NVCS44965,,,1521,Single-Family Housing Construction
+NVCS44970,,,1521,Single-Family Housing Construction
+NVCS44971,,,1442,Construction Sand And Gravel
+NVCS44972,,,1521,Single-Family Housing Construction
+NVCS44973,,,3291,Abrasive Products
+NVCS44975,,,3572,Computer Storage Devices
+NVCS44976,,,1611,Highway And Street Construction
+NVCS44979,,,9999,Nonclassifiable Establishments
+NVCS44980,,,1542,Nonresidential Construction
+NVCS44981,,,1771,Concrete Work
+NVCS44982,,,3291,Abrasive Products
+NVCS44983,,,1541,Industrial Buildings And Warehouses
+NVCS44986,,,3291,Abrasive Products
+NVCS44988,,,3531,Construction Machinery
+NVCS44996,,,1542,Nonresidential Construction
+NVCS44998,,,1542,Nonresidential Construction
+NVCS44999,,,1542,Nonresidential Construction
+NVCS45000,,,1542,Nonresidential Construction
+NVCS45001,,,1442,Construction Sand And Gravel
+NVCS45003,,,1542,Nonresidential Construction
+NVCS45005,,,1442,Construction Sand And Gravel
+NVCS45007,,,1542,Nonresidential Construction
+NVCS45008,,,3291,Abrasive Products
+NVCS45009,,,1611,Highway And Street Construction
+NVCS45014,,,1442,Construction Sand And Gravel
+NVCS45017,,,1521,Single-Family Housing Construction
+NVCS45020,,,4225,General Warehousing And Storage
+NVCS45022,,,1542,Nonresidential Construction
+NVCS45024,,,1521,Single-Family Housing Construction
+NVCS45025,,,1442,Construction Sand And Gravel
+NVCS45028,,,5411,Grocery Stores
+NVCS45030,,,1522,Residential Construction
+NVCS45032,,,1794,Excavation Work
+NVCS45033,,,3531,Construction Machinery
+NVCS45034,,,3291,Abrasive Products
+NVCS45035,,,1542,Nonresidential Construction
+NVCS45036,,,5039,Construction Materials
+NVCS45037,,,3531,Construction Machinery
+NVCS45038,,,1522,Residential Construction
+NVCS45039,,,8299,Schools & Educational Services
+NVCS45040,,,3531,Construction Machinery
+NVCS45041,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45042,,,3291,Abrasive Products
+NVCS45043,,,1794,Excavation Work
+NVCS45044,,,1542,Nonresidential Construction
+NVCS45045,,,1521,Single-Family Housing Construction
+NVCS45047,,,4226,Special Warehousing And Storage
+NVCS45049,,,1542,Nonresidential Construction
+NVCS45050,,,1521,Single-Family Housing Construction
+NVCS45051,,,3291,Abrasive Products
+NVCS45053,,,5999,Miscellaneous Retail Stores
+NVCS45055,,,1541,Industrial Buildings And Warehouses
+NVCS45058,,,1442,Construction Sand And Gravel
+NVCS45063,,,5331,Variety Stores
+NVCS45065,,,1771,Concrete Work
+NVCS45069,,,1521,Single-Family Housing Construction
+NVCS45070,,,3291,Abrasive Products
+NVCS45071,,,3291,Abrasive Products
+NVCS45074,,,1611,Highway And Street Construction
+NVCS45082,,,1521,Single-Family Housing Construction
+NVCS45083,,,3291,Abrasive Products
+NVCS45084,,,1542,Nonresidential Construction
+NVCS45085,,,1771,Concrete Work
+NVCS45087,,,1521,Single-Family Housing Construction
+NVCS45093,,,3291,Abrasive Products
+NVCS45095,,,7033,Trailer Parks And Campsites
+NVCS45104,,,8611,Business Associations
+NVCS45108,,,7521,Automobile Parking
+NVCS45110,,,1611,Highway And Street Construction
+NVCS45114,,,7011,Hotels And Motels
+NVCS45116,,,1521,Single-Family Housing Construction
+NVCS45121,,,1611,Highway And Street Construction
+NVCS45125,,,4953,Refuse Systems
+NVCS45126,,,5082,Construction And Mining Machinery
+NVCS45129,,,5039,Construction Materials
+NVCS45130,,,7521,Automobile Parking
+NVCS45131,,,3531,Construction Machinery
+NVCS45132,,,1521,Single-Family Housing Construction
+NVCS45137,,,3291,Abrasive Products
+NVCS45141,,,3531,Construction Machinery
+NVCS45145,,,1541,Industrial Buildings And Warehouses
+NVCS45147,,,1521,Single-Family Housing Construction
+NVCS45157,,,3531,Construction Machinery
+NVCS45158,,,1521,Single-Family Housing Construction
+NVCS45164,,,1521,Single-Family Housing Construction
+NVCS45165,,,3531,Construction Machinery
+NVCS45167,,,3291,Abrasive Products
+NVCS45169,,,1542,Nonresidential Construction
+NVCS45174,,,1542,Nonresidential Construction
+NVCS45176,,,1442,Construction Sand And Gravel
+NVCS45177,,,3291,Abrasive Products
+NVCS45180,,,5541,Gasoline Service Stations
+NVCS45183,,,1542,Nonresidential Construction
+NVCS45188,,,3291,Abrasive Products
+NVCS45201,,,5039,Construction Materials
+NVCS45204,,,1611,Highway And Street Construction
+NVCS45208,,,1541,Industrial Buildings And Warehouses
+NVCS45210,,,4911,Electric Services
+NVCS45211,,,5039,Construction Materials
+NVCS45212,,,5039,Construction Materials
+NVCS45213,,,5039,Construction Materials
+NVCS45214,,,5039,Construction Materials
+NVCS45215,,,3531,Construction Machinery
+NVCS45218,,,3291,Abrasive Products
+NVCS45220,,,1522,Residential Construction
+NVCS45222,,,3291,Abrasive Products
+NVCS45223,,,4932,Gas And Other Services Combined
+NVCS45225,,,1541,Industrial Buildings And Warehouses
+NVCS45229,,,5085,Industrial Supplies
+NVCS45231,,,1442,Construction Sand And Gravel
+NVCS45232,,,3291,Abrasive Products
+NVCS45233,,,1521,Single-Family Housing Construction
+NVCS45234,,,1521,Single-Family Housing Construction
+NVCS45235,,,1521,Single-Family Housing Construction
+NVCS45237,,,1521,Single-Family Housing Construction
+NVCS45238,,,1521,Single-Family Housing Construction
+NVCS45240,,,1541,Industrial Buildings And Warehouses
+NVCS45241,,,4941,Water Supply
+NVCS45243,,,1442,Construction Sand And Gravel
+NVCS45247,,,1521,Single-Family Housing Construction
+NVCS45249,,,3291,Abrasive Products
+NVCS45256,,,1542,Nonresidential Construction
+NVCS45257,,,1542,Nonresidential Construction
+NVCS45258,,,1542,Nonresidential Construction
+NVCS45259,,,3291,Abrasive Products
+NVCS45260,,,3291,Abrasive Products
+NVCS45261,,,7011,Hotels And Motels
+NVCS45262,,,1522,Residential Construction
+NVCS45263,,,6324,Hospital And Medical Service Plans
+NVCS45264,,,1611,Highway And Street Construction
+NVCS45268,,,3291,Abrasive Products
+NVCS45269,,,7549,Automotive Services
+NVCS45272,,,1442,Construction Sand And Gravel
+NVCS45274,,,1521,Single-Family Housing Construction
+NVCS45277,,,4619,Pipelines
+NVCS45278,,,1781,Water Well Drilling
+NVCS45280,,,1521,Single-Family Housing Construction
+NVCS45281,,,1442,Construction Sand And Gravel
+NVCS45285,,,1541,Industrial Buildings And Warehouses
+NVCS45286,,,1542,Nonresidential Construction
+NVCS45288,,,3531,Construction Machinery
+NVCS45289,,,1521,Single-Family Housing Construction
+NVCS45290,,,3537,Industrial Trucks And Tractors
+NVCS45292,,,3291,Abrasive Products
+NVCS45295,,,1521,Single-Family Housing Construction
+NVCS45296,,,1542,Nonresidential Construction
+NVCS45297,,,4924,Natural Gas Distribution
+NVCS45298,,,5093,Scrap And Waste Materials
+NVCS45299,,,4225,General Warehousing And Storage
+NVCS45300,,,4225,General Warehousing And Storage
+NVCS45301,,,1521,Single-Family Housing Construction
+NVCS45302,,,1521,Single-Family Housing Construction
+NVCS45303,,,1521,Single-Family Housing Construction
+NVCS45306,,,1794,Excavation Work
+NVCS45310,,,1541,Industrial Buildings And Warehouses
+NVCS45311,,,3531,Construction Machinery
+NVCS45313,,,1521,Single-Family Housing Construction
+NVCS45315,,,1521,Single-Family Housing Construction
+NVCS45316,,,1442,Construction Sand And Gravel
+NVCS45317,,,1541,Industrial Buildings And Warehouses
+NVCS45318,,,1521,Single-Family Housing Construction
+NVCS45319,,,3531,Construction Machinery
+NVCS45320,,,1541,Industrial Buildings And Warehouses
+NVCS45321,,,1611,Highway And Street Construction
+NVCS45322,,,1629,Heavy Construction
+NVCS45323,,,1442,Construction Sand And Gravel
+NVCS45324,,,1521,Single-Family Housing Construction
+NVCS45325,,,1442,Construction Sand And Gravel
+NVCS45326,,,9512,"Land, Mineral, Wildlife Conservation"
+NVCS45328,,,1521,Single-Family Housing Construction
+NVCS45331,,,1521,Single-Family Housing Construction
+NVCS45332,,,7359,Equipment Rental & Leasing
+NVCS45335,,,1521,Single-Family Housing Construction
+NVCS45337,,,1522,Residential Construction
+NVCS45340,,,1541,Industrial Buildings And Warehouses
+NVCS45342,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45344,,,1442,Construction Sand And Gravel
+NVCS45345,,,1794,Excavation Work
+NVCS45346,,,1522,Residential Construction
+NVCS45347,,,1521,Single-Family Housing Construction
+NVCS45348,,,1521,Single-Family Housing Construction
+NVCS45349,,,1521,Single-Family Housing Construction
+NVCS45350,,,1521,Single-Family Housing Construction
+NVCS45351,,,1521,Single-Family Housing Construction
+NVCS45353,,,1521,Single-Family Housing Construction
+NVCS45354,,,1521,Single-Family Housing Construction
+NVCS45358,,,2396,Automotive And Apparel Trimmings
+NVCS45359,,,1541,Industrial Buildings And Warehouses
+NVCS45360,,,1541,Industrial Buildings And Warehouses
+NVCS45361,,,1442,Construction Sand And Gravel
+NVCS45364,,,3531,Construction Machinery
+NVCS45365,,,3531,Construction Machinery
+NVCS45366,,,1541,Industrial Buildings And Warehouses
+NVCS45368,,,1541,Industrial Buildings And Warehouses
+NVCS45369,,,1521,Single-Family Housing Construction
+NVCS45371,,,3291,Abrasive Products
+NVCS45373,,,1541,Industrial Buildings And Warehouses
+NVCS45374,,,4226,Special Warehousing And Storage
+NVCS45377,,,3291,Abrasive Products
+NVCS45378,,,1521,Single-Family Housing Construction
+NVCS45379,,,1542,Nonresidential Construction
+NVCS45380,,,3291,Abrasive Products
+NVCS45382,,,3531,Construction Machinery
+NVCS45388,,,1521,Single-Family Housing Construction
+NVCS45389,,,1771,Concrete Work
+NVCS45394,,,3291,Abrasive Products
+NVCS45398,,,1521,Single-Family Housing Construction
+NVCS45402,,,1542,Nonresidential Construction
+NVCS45403,,,3291,Abrasive Products
+NVCS45407,,,3291,Abrasive Products
+NVCS45409,,,4971,Irrigation Systems
+NVCS45410,,,7997,Membership Sports & Recreation Clubs
+NVCS45412,,,9999,Nonclassifiable Establishments
+NVCS45414,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45415,,,1541,Industrial Buildings And Warehouses
+NVCS45420,,,8099,Health And Allied Services
+NVCS45423,,,1541,Industrial Buildings And Warehouses
+NVCS45424,,,5541,Gasoline Service Stations
+NVCS45425,,,1541,Industrial Buildings And Warehouses
+NVCS45429,,,1542,Nonresidential Construction
+NVCS45432,,,1521,Single-Family Housing Construction
+NVCS45434,,,1542,Nonresidential Construction
+NVCS45438,,,1541,Industrial Buildings And Warehouses
+NVCS45439,,,1521,Single-Family Housing Construction
+NVCS45440,,,1521,Single-Family Housing Construction
+NVCS45441,,,1521,Single-Family Housing Construction
+NVCS45444,,,1521,Single-Family Housing Construction
+NVCS45445,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45446,,,3291,Abrasive Products
+NVCS45447,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45449,,,5039,Construction Materials
+NVCS45454,,,1794,Excavation Work
+NVCS45455,,,1521,Single-Family Housing Construction
+NVCS45456,,,1521,Single-Family Housing Construction
+NVCS45463,,,5039,Construction Materials
+NVCS45469,,,3291,Abrasive Products
+NVCS45470,,,1542,Nonresidential Construction
+NVCS45473,,,1771,Concrete Work
+NVCS45474,,,1542,Nonresidential Construction
+NVCS45477,,,9999,Nonclassifiable Establishments
+NVCS45478,,,5039,Construction Materials
+NVCS45479,,,1542,Nonresidential Construction
+NVCS45480,,,1521,Single-Family Housing Construction
+NVCS45482,,,9512,"Land, Mineral, Wildlife Conservation"
+NVCS45483,,,9999,Nonclassifiable Establishments
+NVCS45485,,,1521,Single-Family Housing Construction
+NVCS45487,,,1771,Concrete Work
+NVCS45497,,,1542,Nonresidential Construction
+NVCS45508,,,1522,Residential Construction
+NVCS45510,,,1611,Highway And Street Construction
+NVCS45512,,,3291,Abrasive Products
+NVCS45514,,,1521,Single-Family Housing Construction
+NVCS45515,,,3291,Abrasive Products
+NVCS45516,,,5039,Construction Materials
+NVCS45517,,,1522,Residential Construction
+NVCS45518,,,3291,Abrasive Products
+NVCS45522,,,3291,Abrasive Products
+NVCS45525,,,1521,Single-Family Housing Construction
+NVCS45526,,,3291,Abrasive Products
+NVCS45528,,,1522,Residential Construction
+NVCS45529,,,1521,Single-Family Housing Construction
+NVCS45530,,,4924,Natural Gas Distribution
+NVCS45533,,,1542,Nonresidential Construction
+NVCS45534,,,3531,Construction Machinery
+NVCS45535,,,1521,Single-Family Housing Construction
+NVCS45536,,,1521,Single-Family Housing Construction
+NVCS45539,,,1541,Industrial Buildings And Warehouses
+NVCS45540,,,3291,Abrasive Products
+NVCS45543,,,1521,Single-Family Housing Construction
+NVCS45547,,,1542,Nonresidential Construction
+NVCS45549,,,5541,Gasoline Service Stations
+NVCS45552,,,1542,Nonresidential Construction
+NVCS45553,,,4932,Gas And Other Services Combined
+NVCS45554,,,3291,Abrasive Products
+NVCS45557,,,1542,Nonresidential Construction
+NVCS45558,,,1442,Construction Sand And Gravel
+NVCS45559,,,3291,Abrasive Products
+NVCS45561,,,1442,Construction Sand And Gravel
+NVCS45565,,,1442,Construction Sand And Gravel
+NVCS45566,,,5599,Automotive Dealers
+NVCS45568,,,1629,Heavy Construction
+NVCS45570,,,5531,Auto And Home Supply Stores
+NVCS45572,,,3291,Abrasive Products
+NVCS45573,,,3291,Abrasive Products
+NVCS45575,,,3291,Abrasive Products
+NVCS45576,,,1521,Single-Family Housing Construction
+NVCS45578,,,1522,Residential Construction
+NVCS45579,,,3531,Construction Machinery
+NVCS45580,,,1521,Single-Family Housing Construction
+NVCS45584,,,1521,Single-Family Housing Construction
+NVCS45585,,,1521,Single-Family Housing Construction
+NVCS45587,,,9999,Nonclassifiable Establishments
+NVCS45588,,,3531,Construction Machinery
+NVCS45589,,,1542,Nonresidential Construction
+NVCS45590,,,1542,Nonresidential Construction
+NVCS45602,,,3531,Construction Machinery
+NVCS45603,,,4924,Natural Gas Distribution
+NVCS45606,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45609,,,1521,Single-Family Housing Construction
+NVCS45611,,,1542,Nonresidential Construction
+NVCS45612,,,1521,Single-Family Housing Construction
+NVCS45613,,,1521,Single-Family Housing Construction
+NVCS45614,,,1521,Single-Family Housing Construction
+NVCS45615,,,1794,Excavation Work
+NVCS45618,,,3291,Abrasive Products
+NVCS45619,,,7941,"Sports Clubs, Managers, & Promoters"
+NVCS45622,,,3531,Construction Machinery
+NVCS45624,,,1541,Industrial Buildings And Warehouses
+NVCS45628,,,1521,Single-Family Housing Construction
+NVCS45631,,,5082,Construction And Mining Machinery
+NVCS45633,,,1521,Single-Family Housing Construction
+NVCS45634,,,1521,Single-Family Housing Construction
+NVCS45636,,,5082,Construction And Mining Machinery
+NVCS45639,,,4932,Gas And Other Services Combined
+NVCS45640,,,4911,Electric Services
+NVCS45643,,,1771,Concrete Work
+NVCS45646,,,1542,Nonresidential Construction
+NVCS45647,,,1542,Nonresidential Construction
+NVCS45648,,,1542,Nonresidential Construction
+NVCS45649,,,1542,Nonresidential Construction
+NVCS45650,,,1542,Nonresidential Construction
+NVCS45652,,,1521,Single-Family Housing Construction
+NVCS45653,,,1794,Excavation Work
+NVCS45657,,,7376,Computer Facilities Management
+NVCS45658,,,1794,Excavation Work
+NVCS45660,,,1541,Industrial Buildings And Warehouses
+NVCS45661,,,9999,Nonclassifiable Establishments
+NVCS45663,,,1521,Single-Family Housing Construction
+NVCS45666,,,5149,Groceries And Related Products
+NVCS45668,,,1542,Nonresidential Construction
+NVCS45669,,,1541,Industrial Buildings And Warehouses
+NVCS45671,,,1442,Construction Sand And Gravel
+NVCS45680,,,1522,Residential Construction
+NVCS45685,,,4225,General Warehousing And Storage
+NVCS45686,,,1522,Residential Construction
+NVCS45687,,,1521,Single-Family Housing Construction
+NVCS45688,,,1629,Heavy Construction
+NVCS45689,,,3291,Abrasive Products
+NVCS45690,,,1521,Single-Family Housing Construction
+NVCS45691,,,1521,Single-Family Housing Construction
+NVCS45692,,,3531,Construction Machinery
+NVCS45694,,,1521,Single-Family Housing Construction
+NVCS45695,,,3531,Construction Machinery
+NVCS45701,,,1771,Concrete Work
+NVCS45705,,,4953,Refuse Systems
+NVCS45708,,,4813,"Telephone Communications, Except Radio"
+NVCS45709,,,1521,Single-Family Housing Construction
+NVCS45711,,,1542,Nonresidential Construction
+NVCS45712,,,1521,Single-Family Housing Construction
+NVCS45715,,,1542,Nonresidential Construction
+NVCS45717,,,1542,Nonresidential Construction
+NVCS45719,,,3291,Abrasive Products
+NVCS45720,,,1521,Single-Family Housing Construction
+NVCS45723,,,1542,Nonresidential Construction
+NVCS45724,,,1771,Concrete Work
+NVCS45725,,,1521,Single-Family Housing Construction
+NVCS45726,,,1542,Nonresidential Construction
+NVCS45734,,,5541,Gasoline Service Stations
+NVCS45736,,,3291,Abrasive Products
+NVCS45737,,,3291,Abrasive Products
+NVCS45740,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45741,,,3531,Construction Machinery
+NVCS45746,,,3531,Construction Machinery
+NVCS45747,,,1521,Single-Family Housing Construction
+NVCS45749,,,1541,Industrial Buildings And Warehouses
+NVCS45750,,,1541,Industrial Buildings And Warehouses
+NVCS45751,,,1541,Industrial Buildings And Warehouses
+NVCS45752,,,3291,Abrasive Products
+NVCS45757,,,1542,Nonresidential Construction
+NVCS45758,,,4225,General Warehousing And Storage
+NVCS45760,,,3531,Construction Machinery
+NVCS45767,,,1521,Single-Family Housing Construction
+NVCS45768,,,1442,Construction Sand And Gravel
+NVCS45769,,,1521,Single-Family Housing Construction
+NVCS45770,,,1542,Nonresidential Construction
+NVCS45774,,,3531,Construction Machinery
+NVCS45778,,,1521,Single-Family Housing Construction
+NVCS45780,,,1542,Nonresidential Construction
+NVCS45781,,,3291,Abrasive Products
+NVCS45782,,,3291,Abrasive Products
+NVCS45783,,,1442,Construction Sand And Gravel
+NVCS45785,,,1442,Construction Sand And Gravel
+NVCS45786,,,7549,Automotive Services
+NVCS45787,,,3291,Abrasive Products
+NVCS45789,,,8299,Schools & Educational Services
+NVCS45790,,,1611,Highway And Street Construction
+NVCS45792,,,1521,Single-Family Housing Construction
+NVCS45793,,,1795,Wrecking And Demolition Work
+NVCS45795,,,1521,Single-Family Housing Construction
+NVCS45796,,,1542,Nonresidential Construction
+NVCS45798,,,1611,Highway And Street Construction
+NVCS45800,,,1611,Highway And Street Construction
+NVCS45801,,,1542,Nonresidential Construction
+NVCS45802,,,3291,Abrasive Products
+NVCS45803,,,1442,Construction Sand And Gravel
+NVCS45804,,,3949,Sporting And Athletic Goods
+NVCS45805,,,4813,"Telephone Communications, Except Radio"
+NVCS45807,,,3291,Abrasive Products
+NVCS45808,,,1521,Single-Family Housing Construction
+NVCS45813,,,1542,Nonresidential Construction
+NVCS45814,,,1521,Single-Family Housing Construction
+NVCS45815,,,5812,Eating Places
+NVCS45818,,,3291,Abrasive Products
+NVCS45821,,,1521,Single-Family Housing Construction
+NVCS45823,,,1629,Heavy Construction
+NVCS45824,,,3291,Abrasive Products
+NVCS45825,,,4619,Pipelines
+NVCS45826,,,4619,Pipelines
+NVCS45827,,,1541,Industrial Buildings And Warehouses
+NVCS45828,,,4619,Pipelines
+NVCS45829,,,4619,Pipelines
+NVCS45831,,,4813,"Telephone Communications, Except Radio"
+NVCS45832,,,1794,Excavation Work
+NVCS45833,,,4225,General Warehousing And Storage
+NVCS45835,,,1542,Nonresidential Construction
+NVCS45841,,,3531,Construction Machinery
+NVCS45843,,,1542,Nonresidential Construction
+NVCS45846,,,1542,Nonresidential Construction
+NVCS45847,,,1521,Single-Family Housing Construction
+NVCS45848,,,1521,Single-Family Housing Construction
+NVCS45852,,,1542,Nonresidential Construction
+NVCS45853,,,1794,Excavation Work
+NVCS45854,,,3291,Abrasive Products
+NVCS45855,,,1521,Single-Family Housing Construction
+NVCS45856,,,1542,Nonresidential Construction
+NVCS45858,,,3291,Abrasive Products
+NVCS45862,,,1521,Single-Family Housing Construction
+NVCS45864,,,3531,Construction Machinery
+NVCS45866,,,1623,"Water, Sewer, And Utility Lines"
+NVCS45867,,,1442,Construction Sand And Gravel
+NVCS45870,,,1442,Construction Sand And Gravel
+NVCS45872,,,1542,Nonresidential Construction
+NVCS45875,,,1611,Highway And Street Construction
+NVCS45876,,,1521,Single-Family Housing Construction
+NVCS45878,,,2951,Asphalt Paving Mixtures And Blocks
+NVCS45880,,,1542,Nonresidential Construction
+NVCS45884,,,9999,Nonclassifiable Establishments
+NVCS45888,,,1542,Nonresidential Construction
+NVCS45889,,,1521,Single-Family Housing Construction
+NVCS45890,,,1542,Nonresidential Construction
+NVCS45891,,,1522,Residential Construction
+NVCS45892,,,3291,Abrasive Products
+NVCS45893,,,1522,Residential Construction
+NVCS45895,,,5541,Gasoline Service Stations
+NVCS45896,,,7376,Computer Facilities Management
+NVCS45897,,,1542,Nonresidential Construction
+NVCS45899,,,1521,Single-Family Housing Construction
+NVCS45900,,,1521,Single-Family Housing Construction
+NVCS45903,,,1542,Nonresidential Construction
+NVCS45904,,,1522,Residential Construction
+NVCS45908,,,1541,Industrial Buildings And Warehouses
+NVCS45910,,,2451,Mobile Homes
+NVCS45912,,,1522,Residential Construction
+NVCS45914,,,1542,Nonresidential Construction
+NVCS45916,,,1541,Industrial Buildings And Warehouses
+NVCS45917,,,4225,General Warehousing And Storage
+NVCS45921,,,9411,Admin. Of Educational Programs
+NVCS45923,,,1542,Nonresidential Construction
+NVCS45925,,,4581,"Airports, Flying Fields, & Services"
+NVCS45926,,,4932,Gas And Other Services Combined
+NVCS45930,,,4619,Pipelines
+NVCS45931,,,4619,Pipelines
+NVCS45932,,,1522,Residential Construction
+NVCS45933,,,1521,Single-Family Housing Construction
+NVCS45934,,,1541,Industrial Buildings And Warehouses
+NVCS45935,,,3291,Abrasive Products
+NVCS45937,,,3291,Abrasive Products
+NVCS45942,,,5082,Construction And Mining Machinery
+NVCS45946,,,1542,Nonresidential Construction
+NVCS45949,,,1521,Single-Family Housing Construction
+NVCS45950,,,1521,Single-Family Housing Construction
+NVCS45960,,,1541,Industrial Buildings And Warehouses
+NVCS45961,,,3291,Abrasive Products
+NVCS45966,,,1521,Single-Family Housing Construction
+NVCS45968,,,4813,"Telephone Communications, Except Radio"
+NVCS45975,,,1521,Single-Family Housing Construction
+NVCS45976,,,1542,Nonresidential Construction
+NVCS45977,,,1542,Nonresidential Construction
+NVCS45979,,,3291,Abrasive Products
+NVCS45980,,,3291,Abrasive Products
+NVCS45981,,,1521,Single-Family Housing Construction
+NVCS45982,,,2833,Medicinals And Botanicals
+NVCS45983,,,3531,Construction Machinery
+NVCS45986,,,1542,Nonresidential Construction
+NVCS45989,,,1521,Single-Family Housing Construction
+NVCS45990,,,1542,Nonresidential Construction
+NVCS45991,,,3546,Power-Driven Handtools
+NVCS45993,,,3291,Abrasive Products
+NVCS45994,,,1521,Single-Family Housing Construction
+NVCS45996,,,4581,"Airports, Flying Fields, & Services"
+NVCS45997,,,4619,Pipelines
+NVCS46002,,,6513,Apartment Building Operators
+NVCS46003,,,3291,Abrasive Products
+NVCS46005,,,5084,Industrial Machinery And Equipment
+NVCS46011,,,5812,Eating Places
+NVCS46012,,,1542,Nonresidential Construction
+NVCS46014,,,1541,Industrial Buildings And Warehouses
+NVCS46018,,,3531,Construction Machinery
+NVCS46019,,,7539,Automotive Repair Shops
+NVCS46021,,,3531,Construction Machinery
+NVCS46023,,,3612,"Transformers, Except Electronic"
+NVCS46026,,,1542,Nonresidential Construction
+NVCS46027,,,1541,Industrial Buildings And Warehouses
+NVCS46028,,,3531,Construction Machinery
+NVCS46029,,,1623,"Water, Sewer, And Utility Lines"
+NVCS46030,,,6513,Apartment Building Operators
+NVCS46035,,,1521,Single-Family Housing Construction
+NVCS46036,,,1521,Single-Family Housing Construction
+NVCS46037,,,9531,Housing Programs
+NVCS46038,,,1521,Single-Family Housing Construction
+NVCS46039,,,3291,Abrasive Products
+NVCS46041,,,7011,Hotels And Motels
+NVCS46042,,,3291,Abrasive Products
+NVCS46043,,,1521,Single-Family Housing Construction
+NVCS46049,,,3291,Abrasive Products
+NVCS46050,,,3531,Construction Machinery
+NVCS46051,,,1541,Industrial Buildings And Warehouses
+NVCS46053,,,3291,Abrasive Products
+NVCS46054,,,1542,Nonresidential Construction
+NVCS46055,,,5039,Construction Materials
+NVCS46057,,,1521,Single-Family Housing Construction
+NVCS46059,,,4932,Gas And Other Services Combined
+NVCS46063,,,6029,Commercial Banks
+NVCS46064,,,1521,Single-Family Housing Construction
+NVCS46065,,,5399,Miscellaneous General Merchandise Stores
+NVCS46067,,,1521,Single-Family Housing Construction
+NVCS46069,,,1442,Construction Sand And Gravel
+NVCS46073,,,1542,Nonresidential Construction
+NVCS46074,,,1521,Single-Family Housing Construction
+NVCS46075,,,1521,Single-Family Housing Construction
+NVCS46076,,,1521,Single-Family Housing Construction
+NVCS46077,,,9711,National Security
+NVCS46081,,,1542,Nonresidential Construction
+NVCS46083,,,5039,Construction Materials
+NVCS46084,,,1521,Single-Family Housing Construction
+NVCS46088,,,1521,Single-Family Housing Construction
+NVCS46090,,,1629,Heavy Construction
+NVCS46091,,,1542,Nonresidential Construction
+NVCS46093,,,8211,Elementary And Secondary Schools
+NVCS46094,,,4225,General Warehousing And Storage
+NVCS46095,,,1541,Industrial Buildings And Warehouses
+NVCS46099,,,4911,Electric Services
+NVCS46100,,,1542,Nonresidential Construction
+NVCS46104,,,1794,Excavation Work
+NVCS46111,,,1794,Excavation Work
+NVCS46113,,,1542,Nonresidential Construction
+NVCS46114,,,2099,Food Preparations
+NVCS46115,,,4613,Refined Petroleum Pipelines
+NVCS46118,,,3291,Abrasive Products
+NVCS46122,,,3531,Construction Machinery
+NVCS46125,,,1521,Single-Family Housing Construction
+NVCS46128,,,4924,Natural Gas Distribution
+NVCS46129,,,4225,General Warehousing And Storage
+NVCS46132,,,1623,"Water, Sewer, And Utility Lines"
+NVCS46133,,,4225,General Warehousing And Storage
+NVCS46134,,,1542,Nonresidential Construction
+NVCS46137,,,1781,Water Well Drilling
+NVCS46138,,,4581,"Airports, Flying Fields, & Services"
+NVCS46139,,,8744,Facilities Support Services
+NVCS46141,,,1542,Nonresidential Construction
+NVCS46142,,,5082,Construction And Mining Machinery
+NVCS46148,,,9999,Nonclassifiable Establishments
+NVCS46149,,,1522,Residential Construction
+NVCS46155,,,1521,Single-Family Housing Construction
+NVCS46156,,,1521,Single-Family Housing Construction
+NVCS46157,,,5039,Construction Materials
+NVCS46158,,,1611,Highway And Street Construction
+NVCS46159,,,1542,Nonresidential Construction
+NVCS46160,,,1521,Single-Family Housing Construction
+NVCS46162,,,1442,Construction Sand And Gravel
+NVCS46164,,,5039,Construction Materials
+NVCS46172,,,3531,Construction Machinery
+NVCS46174,,,3291,Abrasive Products
+NVCS46176,,,1442,Construction Sand And Gravel
+NVCS46178,,,6552,Subdividers And Developers
+NVCS46179,,,5082,Construction And Mining Machinery
+NVCS46181,,,1522,Residential Construction
+NVCS46184,,,1611,Highway And Street Construction
+NVCS46186,,,1521,Single-Family Housing Construction
+NVCS46187,,,1521,Single-Family Housing Construction
+NVCS46188,,,1521,Single-Family Housing Construction
+NVCS46191,,,4619,Pipelines
+NVCS46194,,,1541,Industrial Buildings And Warehouses
+NVCS46195,,,1521,Single-Family Housing Construction
+NVCS46201,,,1542,Nonresidential Construction
+NVCS46203,,,3291,Abrasive Products
+NVCS46204,,,1522,Residential Construction
+NVCS46205,,,1542,Nonresidential Construction
+NVCS46206,,,3531,Construction Machinery
+NVCS46208,,,5039,Construction Materials
+NVCS46215,,,4225,General Warehousing And Storage
+NVCS46220,,,1521,Single-Family Housing Construction
+NVCS46224,,,3531,Construction Machinery
+NVCS46225,,,1521,Single-Family Housing Construction
+NVCS46235,,,1611,Highway And Street Construction
+NVCS46237,,,1522,Residential Construction
+NVCS46238,,,1521,Single-Family Housing Construction
+NVCS46239,,,1521,Single-Family Housing Construction
+NVCS46240,,,1521,Single-Family Housing Construction
+NVCS46241,,,1521,Single-Family Housing Construction
+NVCS46242,,,1521,Single-Family Housing Construction
+NVCS46244,,,1521,Single-Family Housing Construction
+NVCS46245,,,1521,Single-Family Housing Construction
+NVCS46246,,,1521,Single-Family Housing Construction
+NVCS46247,,,1521,Single-Family Housing Construction
+NVCS46248,,,1521,Single-Family Housing Construction
+NVCS46249,,,1521,Single-Family Housing Construction
+NVCS46250,,,1521,Single-Family Housing Construction
+NVCS46251,,,1521,Single-Family Housing Construction
+NVCS46252,,,1542,Nonresidential Construction
+NVCS46253,,,1521,Single-Family Housing Construction
+NVCS46254,,,1521,Single-Family Housing Construction
+NVCS46255,,,1521,Single-Family Housing Construction
+NVCS46256,,,1521,Single-Family Housing Construction
+NVCS46257,,,1521,Single-Family Housing Construction
+NVCS46258,,,1521,Single-Family Housing Construction
+NVCS46259,,,1521,Single-Family Housing Construction
+NVCS46260,,,1521,Single-Family Housing Construction
+NVCS46266,,,1521,Single-Family Housing Construction
+NVCS46267,,,1542,Nonresidential Construction
+NVCS46272,,,4119,Local Passenger Transportation
+NVCS46274,,,1542,Nonresidential Construction
+NVCS46276,,,1542,Nonresidential Construction
+NVCS46278,,,1521,Single-Family Housing Construction
+NVCS46279,,,1521,Single-Family Housing Construction
+NVCS46280,,,3291,Abrasive Products
+NVCS46281,,,1611,Highway And Street Construction
+NVCS46285,,,1521,Single-Family Housing Construction
+NVCS46286,,,1442,Construction Sand And Gravel
+NVCS46294,,,5039,Construction Materials
+NVCS46298,,,1542,Nonresidential Construction
+NVCS46300,,,1611,Highway And Street Construction
+NVCS46304,,,3291,Abrasive Products
+NVCS46305,,,3661,Telephone And Telegraph Apparatus
+NVCS46306,,,3661,Telephone And Telegraph Apparatus
+NVCS46308,,,1522,Residential Construction
+NVCS46309,,,1542,Nonresidential Construction
+NVCS46313,,,1629,Heavy Construction
+NVCS46316,,,7353,Heavy Construction Equipment Rental
+NVCS46317,,,3721,Aircraft
+NVCS46318,,,6552,Subdividers And Developers
+NVCS46322,,,6719,Holding Companies
+NVCS46324,,,4581,"Airports, Flying Fields, & Services"
+NVCS46325,,,8811,Private Households
+NVCS46336,,,3291,Abrasive Products
+NVCS46338,,,3531,Construction Machinery
+NVCS46359,,,3531,Construction Machinery
+NVCS46370,,,3531,Construction Machinery
+NVCS46372,,,3291,Abrasive Products
+NVCS46381,,,3291,Abrasive Products
+NVCS46389,,,3531,Construction Machinery
+NVCS46429,,,3291,Abrasive Products
+NVCS46446,,,3531,Construction Machinery
+NVCS46449,,,3531,Construction Machinery
+NVCS46450,,,3011,Tires And Inner Tubes
+NVCS46454,,,3291,Abrasive Products
+NVCS46473,,,2952,Asphalt Felts And Coatings
+NVCS46504,,,3291,Abrasive Products
+NVCS46534,,,1442,Construction Sand And Gravel
+NVCS46547,,,3291,Abrasive Products
+NVCS46555,,,3531,Construction Machinery
+NVCS46566,,,4513,Air Courier Services
+NVCS46569,,,1442,Construction Sand And Gravel
+NVCS46604,,,2099,Food Preparations
+NVCS46607,,,2099,Food Preparations
+NVCS46610,,,3291,Abrasive Products
+NVCS46622,,,3291,Abrasive Products
+NVCS46644,,,1442,Construction Sand And Gravel
+NVCS46675,,,3291,Abrasive Products
+NVCS46678,,,3612,"Transformers, Except Electronic"
+NVCS46679,,,3612,"Transformers, Except Electronic"
+NVCS46707,,,3275,Gypsum Products
+NVCS46738,,,4119,Local Passenger Transportation
+NVCS46741,,,2099,Food Preparations
+NVCS46743,,,2099,Food Preparations
+NVCS46752,,,3291,Abrasive Products
+NVCS46802,,,3291,Abrasive Products
+NVCS46910,,,3531,Construction Machinery
+NVCS46948,,,1021,Copper Ores
+NVCS46971,,,4225,General Warehousing And Storage
+NVCS46983,,,3531,Construction Machinery
+NVCS47006,,,4225,General Warehousing And Storage
+NVCS47010,,,4225,General Warehousing And Storage
+NVCS47058,,,4225,General Warehousing And Storage
+NVDD38921,,,0111,Wheat
+NVDD39321,,,1623,"Water, Sewer, And Utility Lines"
+NVDD39353,,,9999,Nonclassifiable Establishments
+NVDD39828,,,5999,Miscellaneous Retail Stores
+NVDD39904,,,1623,"Water, Sewer, And Utility Lines"
+NVDD39907,,,1623,"Water, Sewer, And Utility Lines"
+NVDD39908,,,1623,"Water, Sewer, And Utility Lines"
+NVDD39979,,,9999,Nonclassifiable Establishments
+NVDD40146,,,9999,Nonclassifiable Establishments
+NVDD40479,,,9999,Nonclassifiable Establishments
+NVDD40560,,,9999,Nonclassifiable Establishments
+NVDD40823,,,1623,"Water, Sewer, And Utility Lines"
+NVDD41077,,,1442,Construction Sand And Gravel
+NVDD41084,,,1442,Construction Sand And Gravel
+NVDD41085,,,1442,Construction Sand And Gravel
+NVDD41086,,,1442,Construction Sand And Gravel
+NVDD41087,,,1442,Construction Sand And Gravel
+NVDD41088,,,1442,Construction Sand And Gravel
+NVDD41089,,,1442,Construction Sand And Gravel
+NVDD41090,,,1442,Construction Sand And Gravel
+NVDD41091,,,1442,Construction Sand And Gravel
+NVDD41092,,,1442,Construction Sand And Gravel
+NVDD41252,,,1622,"Bridge, Tunnel, & Elevated Highway"
+NVDD41255,,,4941,Water Supply
+NVDD41264,,,1623,"Water, Sewer, And Utility Lines"
+NVDD41442,,,3291,Abrasive Products
+NVDD41500,,,4941,Water Supply
+NVDD41514,,,4941,Water Supply
+NVDD41517,,,4941,Water Supply
+NVF001000,,,4011,"Railroads, Line-Haul Operating"
+NVIS00003,,,3271,Concrete Block And Brick
+NVIS00027,,,4121,Taxicabs
+NVIS00052,,,1442,Construction Sand And Gravel
+NVIS00073,,,2891,Adhesives And Sealants
+NVIS00093,,,1442,Construction Sand And Gravel
+NVIS00133,,,3312,Blast Furnaces And Steel Mills
+NVIS00135,,,5015,"Motor Vehicle Parts, Used"
+NVIS00140,,,3273,Ready-Mixed Concrete
+NVIS00160,,,3463,Nonferrous Forgings
+NVIS00168,,,4121,Taxicabs
+NVIS00237,,,4513,Air Courier Services
+NVIS00245,,,4212,"Local Trucking, Without Storage"
+NVIS00259,,,1442,Construction Sand And Gravel
+NVIS00266,,,2026,Fluid Milk
+NVIS00301,,,4225,General Warehousing And Storage
+NVIS00309,,,3273,Ready-Mixed Concrete
+NVIS00348,,,4173,Bus Terminal And Service Facilities
+NVIS00480,,,1446,Industrial Sand
+NVIS00818,,,4214,Local Trucking With Storage
+NVIS00899,,,4212,"Local Trucking, Without Storage"
+NVIS00903,,,4911,Electric Services
+NVIS00911,,,1442,Construction Sand And Gravel
+NVIS00912,,,4581,"Airports, Flying Fields, & Services"
+NVIS00914,,,4581,"Airports, Flying Fields, & Services"
+NVIS00915,,,4581,"Airports, Flying Fields, & Services"
+NVIS00921,,,3085,Plastics Bottles
+NVIS00923,,,2086,Bottled And Canned Soft Drinks
+NVIS00925,,,3498,Fabricated Pipe And Fittings
+NVIS00927,,,2782,Blankbooks And Looseleaf Binders
+NVIS00928,,,4952,Sewerage Systems
+NVIS00929,,,5015,"Motor Vehicle Parts, Used"
+NVIS00932,,,3273,Ready-Mixed Concrete
+NVIS00933,,,3273,Ready-Mixed Concrete
+NVIS00934,,,3273,Ready-Mixed Concrete
+NVIS00935,,,2952,Asphalt Felts And Coatings
+NVIS00939,,,1459,Clay And Related Minerals
+NVIS00942,,,4581,"Airports, Flying Fields, & Services"
+NVIS00945,,,3273,Ready-Mixed Concrete
+NVIS00947,,,3273,Ready-Mixed Concrete
+NVIS00948,,,4581,"Airports, Flying Fields, & Services"
+NVIS00949,,,3273,Ready-Mixed Concrete
+NVIS00953,,,2439,Structural Wood Members
+NVIS00959,,,3088,Plastics Plumbing Fixtures
+NVIS00961,,,5093,Scrap And Waste Materials
+NVIS00963,,,4212,"Local Trucking, Without Storage"
+NVIS00968,,,3399,Primary Metal Products
+NVIS00969,,,3399,Primary Metal Products
+NVIS00972,,,2812,Alkalies And Chlorine
+NVIS00973,,,4225,General Warehousing And Storage
+NVIS00974,,,5169,Chemicals & Allied Products
+NVIS00975,,,2851,Paints And Allied Products
+NVIS00977,,,3084,Plastics Pipe
+NVIS00979,,,3829,Measuring & Controlling Devices
+NVIS00981,,,3715,Truck Trailers
+NVIS00983,,,1459,Clay And Related Minerals
+NVIS00986,,,1459,Clay And Related Minerals
+NVIS00990,,,1442,Construction Sand And Gravel
+NVIS00991,,,2439,Structural Wood Members
+NVIS00992,,,3272,Concrete Products
+NVIS00996,,,4212,"Local Trucking, Without Storage"
+NVIS00997,,,4953,Refuse Systems
+NVIS01008,,,3295,"Minerals, Ground Or Treated"
+NVIS01010,,,3272,Concrete Products
+NVIS01011,,,5015,"Motor Vehicle Parts, Used"
+NVIS01014,,,5015,"Motor Vehicle Parts, Used"
+NVIS01016,,,2754,"Commercial Printing, Gravure"
+NVIS01018,,,4213,"Trucking, Except Local"
+NVIS01019,,,4131,Intercity & Rural Bus Transportation
+NVIS01020,,,3274,Lime
+NVIS01021,,,4213,"Trucking, Except Local"
+NVIS01026,,,3089,Plastics Products
+NVIS01027,,,5093,Scrap And Waste Materials
+NVIS01032,,,2421,"Sawmills And Planing Mills, General"
+NVIS01035,,,2812,Alkalies And Chlorine
+NVIS01036,,,3084,Plastics Pipe
+NVIS01040,,,4212,"Local Trucking, Without Storage"
+NVIS01041,,,4212,"Local Trucking, Without Storage"
+NVIS01042,,,4212,"Local Trucking, Without Storage"
+NVIS01044,,,5093,Scrap And Waste Materials
+NVIS01045,,,3295,"Minerals, Ground Or Treated"
+NVIS01046,,,4493,Marinas
+NVIS01049,,,3482,Small Arms Ammunition
+NVIS01050,,,2439,Structural Wood Members
+NVIS01052,,,3463,Nonferrous Forgings
+NVIS01055,,,1442,Construction Sand And Gravel
+NVIS01057,,,4213,"Trucking, Except Local"
+NVIS01058,,,4011,"Railroads, Line-Haul Operating"
+NVIS01060,,,4212,"Local Trucking, Without Storage"
+NVIS01064,,,2037,Frozen Fruits And Vegetables
+NVIS01067,,,3452,"Bolts, Nuts, Rivets, And Washers"
+NVIS01068,,,3341,Secondary Nonferrous Metals
+NVIS01070,,,4213,"Trucking, Except Local"
+NVIS01075,,,2951,Asphalt Paving Mixtures And Blocks
+NVIS01078,,,3273,Ready-Mixed Concrete
+NVIS01084,,,2429,Special Product Saw Mills
+NVIS01087,,,5015,"Motor Vehicle Parts, Used"
+NVIS01091,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01092,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01094,,,4581,"Airports, Flying Fields, & Services"
+NVIS01095,,,3086,Plastics Foam Products
+NVIS01096,,,4212,"Local Trucking, Without Storage"
+NVIS01097,,,3275,Gypsum Products
+NVIS01100,,,3429,"Hardware, Not Elsewhere Classified"
+NVIS01103,,,4213,"Trucking, Except Local"
+NVIS01105,,,1422,Crushed And Broken Limestone
+NVIS01110,,,3295,"Minerals, Ground Or Treated"
+NVIS01111,,,5015,"Motor Vehicle Parts, Used"
+NVIS01114,,,3295,"Minerals, Ground Or Treated"
+NVIS01119,,,2491,Wood Preserving
+NVIS01127,,,3599,Industrial Machinery
+NVIS01133,,,5015,"Motor Vehicle Parts, Used"
+NVIS01134,,,3291,Abrasive Products
+NVIS01140,,,2951,Asphalt Paving Mixtures And Blocks
+NVIS01143,,,1442,Construction Sand And Gravel
+NVIS01145,,,1442,Construction Sand And Gravel
+NVIS01150,,,2819,Industrial Inorganic Chemicals
+NVIS01151,,,5015,"Motor Vehicle Parts, Used"
+NVIS01153,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01154,,,4214,Local Trucking With Storage
+NVIS01156,,,3086,Plastics Foam Products
+NVIS01165,,,3563,Air And Gas Compressors
+NVIS01180,,,5015,"Motor Vehicle Parts, Used"
+NVIS01188,,,3291,Abrasive Products
+NVIS01189,,,3295,"Minerals, Ground Or Treated"
+NVIS01193,,,4212,"Local Trucking, Without Storage"
+NVIS01198,,,4952,Sewerage Systems
+NVIS01201,,,4213,"Trucking, Except Local"
+NVIS01203,,,2673,"Bags: Plastics, Laminated, & Coated"
+NVIS01208,,,3291,Abrasive Products
+NVIS01209,,,4231,Trucking Terminal Facilities
+NVIS01210,,,4939,Combination Utilities
+NVIS01213,,,3271,Concrete Block And Brick
+NVIS01214,,,1442,Construction Sand And Gravel
+NVIS01218,,,2077,Animal And Marine Fats And Oils
+NVIS01219,,,4215,"Courier Services, Except By Air"
+NVIS01220,,,4215,"Courier Services, Except By Air"
+NVIS01224,,,3272,Concrete Products
+NVIS01227,,,5015,"Motor Vehicle Parts, Used"
+NVIS01229,,,4215,"Courier Services, Except By Air"
+NVIS01234,,,4581,"Airports, Flying Fields, & Services"
+NVIS01235,,,4581,"Airports, Flying Fields, & Services"
+NVIS01239,,,1422,Crushed And Broken Limestone
+NVIS01241,,,2043,Cereal Breakfast Foods
+NVIS01244,,,4939,Combination Utilities
+NVIS01246,,,4939,Combination Utilities
+NVIS01248,,,4939,Combination Utilities
+NVIS01253,,,1442,Construction Sand And Gravel
+NVIS01255,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01256,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01266,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01271,,,4213,"Trucking, Except Local"
+NVIS01273,,,4581,"Airports, Flying Fields, & Services"
+NVIS01276,,,1442,Construction Sand And Gravel
+NVIS01281,,,1442,Construction Sand And Gravel
+NVIS01282,,,1442,Construction Sand And Gravel
+NVIS01283,,,1442,Construction Sand And Gravel
+NVIS01284,,,1442,Construction Sand And Gravel
+NVIS01285,,,1442,Construction Sand And Gravel
+NVIS01286,,,1442,Construction Sand And Gravel
+NVIS01287,,,1442,Construction Sand And Gravel
+NVIS01288,,,1442,Construction Sand And Gravel
+NVIS01289,,,1442,Construction Sand And Gravel
+NVIS01290,,,1442,Construction Sand And Gravel
+NVIS01292,,,1442,Construction Sand And Gravel
+NVIS01293,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01296,,,4213,"Trucking, Except Local"
+NVIS01301,,,3275,Gypsum Products
+NVIS01303,,,3272,Concrete Products
+NVIS01305,,,3275,Gypsum Products
+NVIS01308,,,3714,Motor Vehicle Parts And Accessories
+NVIS01312,,,3993,Signs And Advertising Specialities
+NVIS01317,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01318,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01319,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01320,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01321,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01324,,,3339,Primary Nonferrous Metals
+NVIS01328,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01329,,,3448,Prefabricated Metal Buildings
+NVIS01335,,,2026,Fluid Milk
+NVIS01342,,,3499,Fabricated Metal Products
+NVIS01345,,,3944,"Games, Toys, And Children*s Vehicles"
+NVIS01349,,,1442,Construction Sand And Gravel
+NVIS01350,,,1442,Construction Sand And Gravel
+NVIS01351,,,1442,Construction Sand And Gravel
+NVIS01352,,,1442,Construction Sand And Gravel
+NVIS01356,,,3993,Signs And Advertising Specialities
+NVIS01360,,,4225,General Warehousing And Storage
+NVIS01361,,,4173,Bus Terminal And Service Facilities
+NVIS01362,,,3273,Ready-Mixed Concrete
+NVIS01363,,,3273,Ready-Mixed Concrete
+NVIS01364,,,3241,"Cement, Hydraulic"
+NVIS01365,,,1423,Crushed And Broken Granite
+NVIS01366,,,3241,"Cement, Hydraulic"
+NVIS01367,,,3273,Ready-Mixed Concrete
+NVIS01369,,,3273,Ready-Mixed Concrete
+NVIS01372,,,5015,"Motor Vehicle Parts, Used"
+NVIS01377,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01379,,,5015,"Motor Vehicle Parts, Used"
+NVIS01381,,,1442,Construction Sand And Gravel
+NVIS01384,,,1442,Construction Sand And Gravel
+NVIS01389,,,3273,Ready-Mixed Concrete
+NVIS01390,,,5015,"Motor Vehicle Parts, Used"
+NVIS01391,,,3273,Ready-Mixed Concrete
+NVIS01392,,,3444,Sheet Metal Work
+NVIS01393,,,3491,Industrial Valves
+NVIS01395,,,5015,"Motor Vehicle Parts, Used"
+NVIS01396,,,4213,"Trucking, Except Local"
+NVIS01398,,,3291,Abrasive Products
+NVIS01399,,,3275,Gypsum Products
+NVIS01401,,,4213,"Trucking, Except Local"
+NVIS01402,,,3271,Concrete Block And Brick
+NVIS01404,,,3273,Ready-Mixed Concrete
+NVIS01405,,,3271,Concrete Block And Brick
+NVIS01408,,,3272,Concrete Products
+NVIS01410,,,1442,Construction Sand And Gravel
+NVIS01411,,,2951,Asphalt Paving Mixtures And Blocks
+NVIS01413,,,1442,Construction Sand And Gravel
+NVIS01417,,,4212,"Local Trucking, Without Storage"
+NVIS01420,,,3052,Rubber & Plastics Hose & Belting
+NVIS01421,,,3295,"Minerals, Ground Or Treated"
+NVIS01426,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01429,,,4215,"Courier Services, Except By Air"
+NVIS01431,,,4225,General Warehousing And Storage
+NVIS01432,,,4225,General Warehousing And Storage
+NVIS01433,,,3721,Aircraft
+NVIS01434,,,0111,Wheat
+NVIS01436,,,3273,Ready-Mixed Concrete
+NVIS01437,,,3273,Ready-Mixed Concrete
+NVIS01438,,,3273,Ready-Mixed Concrete
+NVIS01439,,,3273,Ready-Mixed Concrete
+NVIS01442,,,5093,Scrap And Waste Materials
+NVIS01447,,,1442,Construction Sand And Gravel
+NVIS01448,,,3339,Primary Nonferrous Metals
+NVIS01449,,,3275,Gypsum Products
+NVIS01461,,,1794,Excavation Work
+NVIS01463,,,3499,Fabricated Metal Products
+NVIS01464,,,1041,Gold Ores
+NVIS01467,,,3365,Aluminum Foundries
+NVIS01469,,,1442,Construction Sand And Gravel
+NVIS01470,,,4226,Special Warehousing And Storage
+NVIS01472,,,4953,Refuse Systems
+NVIS01474,,,1422,Crushed And Broken Limestone
+NVIS01478,,,3273,Ready-Mixed Concrete
+NVIS01484,,,4214,Local Trucking With Storage
+NVIS01492,,,0111,Wheat
+NVIS01499,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01500,,,3275,Gypsum Products
+NVIS01504,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01505,,,3272,Concrete Products
+NVIS01508,,,3273,Ready-Mixed Concrete
+NVIS01509,,,4212,"Local Trucking, Without Storage"
+NVIS01511,,,4212,"Local Trucking, Without Storage"
+NVIS01525,,,3441,Fabricated Structural Metal
+NVIS01526,,,4212,"Local Trucking, Without Storage"
+NVIS01528,,,5015,"Motor Vehicle Parts, Used"
+NVIS01529,,,2851,Paints And Allied Products
+NVIS01531,,,3499,Fabricated Metal Products
+NVIS01532,,,3449,Miscellaneous Metal Work
+NVIS01534,,,3444,Sheet Metal Work
+NVIS01536,,,3088,Plastics Plumbing Fixtures
+NVIS01539,,,1442,Construction Sand And Gravel
+NVIS01541,,,5093,Scrap And Waste Materials
+NVIS01542,,,3271,Concrete Block And Brick
+NVIS01543,,,3271,Concrete Block And Brick
+NVIS01548,,,3444,Sheet Metal Work
+NVIS01569,,,2911,Petroleum Refining
+NVIS01595,,,3273,Ready-Mixed Concrete
+NVIS01599,,,4213,"Trucking, Except Local"
+NVIS01600,,,4213,"Trucking, Except Local"
+NVIS01605,,,3273,Ready-Mixed Concrete
+NVIS01606,,,1442,Construction Sand And Gravel
+NVIS01612,,,5093,Scrap And Waste Materials
+NVIS01613,,,3443,Fabricated Plate Work (Boiler Shops)
+NVIS01616,,,1442,Construction Sand And Gravel
+NVIS01618,,,4119,Local Passenger Transportation
+NVIS01622,,,5171,Petroleum Bulk Stations & Terminals
+NVIS01623,,,3272,Concrete Products
+NVIS01625,,,5093,Scrap And Waste Materials
+NVIS01628,,,1423,Crushed And Broken Granite
+NVIS01632,,,3251,Brick And Structural Clay Tile
+NVIS01634,,,4513,Air Courier Services
+NVIS01636,,,3273,Ready-Mixed Concrete
+NVIS01638,,,4212,"Local Trucking, Without Storage"
+NVIS01643,,,3273,Ready-Mixed Concrete
+NVIS01652,,,3081,Unsupported Plastics Film & Sheet
+NVIS01653,,,5093,Scrap And Waste Materials
+NVIS01655,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS01662,,,4213,"Trucking, Except Local"
+NVIS01727,,,3089,Plastics Products
+NVIS01773,,,1081,Metal Mining Services
+NVIS01819,,,5015,"Motor Vehicle Parts, Used"
+NVIS01820,,,2396,Automotive And Apparel Trimmings
+NVIS01822,,,2034,"Dehydrated Fruits, Vegetables, Soups"
+NVIS01825,,,3561,Pumps And Pumping Equipment
+NVIS01828,,,4119,Local Passenger Transportation
+NVIS01841,,,1422,Crushed And Broken Limestone
+NVIS01869,,,5093,Scrap And Waste Materials
+NVIS01915,,,5093,Scrap And Waste Materials
+NVIS01935,,,5015,"Motor Vehicle Parts, Used"
+NVIS01974,,,2752,"Commercial Printing, Lithographic"
+NVIS01977,,,2844,Toilet Preparations
+NVIS01978,,,3272,Concrete Products
+NVIS01979,,,3511,Turbines And Turbine Generator Sets
+NVIS01996,,,4121,Taxicabs
+NVIS02000,,,3291,Abrasive Products
+NVIS02001,,,2819,Industrial Inorganic Chemicals
+NVIS02002,,,3449,Miscellaneous Metal Work
+NVIS02016,,,3291,Abrasive Products
+NVIS02034,,,3993,Signs And Advertising Specialities
+NVIS02054,,,3324,Steel Investment Foundries
+NVIS02074,,,3272,Concrete Products
+NVIS02094,,,2046,Wet Corn Milling
+NVIS02154,,,4119,Local Passenger Transportation
+NVIS02276,,,3273,Ready-Mixed Concrete
+NVIS02375,,,3291,Abrasive Products
+NVIS02434,,,5015,"Motor Vehicle Parts, Used"
+NVIS02454,,,4011,"Railroads, Line-Haul Operating"
+NVIS02474,,,3089,Plastics Products
+NVIS02530,,,3541,"Machine Tools, Metal Cutting Types"
+NVIS02562,,,3433,"Heating Equipment, Except Electric"
+NVIS02565,,,3281,Cut Stone And Stone Products
+NVIS02610,,,3599,Industrial Machinery
+NVIS02617,,,4213,"Trucking, Except Local"
+NVIS02624,,,1442,Construction Sand And Gravel
+NVIS02683,,,3914,Silverware And Plated Ware
+NVIS02694,,,3993,Signs And Advertising Specialities
+NVIS02720,,,3537,Industrial Trucks And Tractors
+NVIS02724,,,3471,Plating And Polishing
+NVIS02734,,,4213,"Trucking, Except Local"
+NVIS02776,,,2077,Animal And Marine Fats And Oils
+NVIS02783,,,4121,Taxicabs
+NVIS02797,,,0111,Wheat
+NVIS02799,,,1479,Chemical And Fertilizer Mining
+NVIS02821,,,3993,Signs And Advertising Specialities
+NVIS02832,,,3999,Manufacturing Industries
+NVIS02861,,,5015,"Motor Vehicle Parts, Used"
+NVIS02887,,,3728,Aircraft Parts And Equipment
+NVIS02898,,,2015,Poultry Slaughtering And Processing
+NVIS02899,,,2752,"Commercial Printing, Lithographic"
+NVIS02913,,,3714,Motor Vehicle Parts And Accessories
+NVIS02924,,,4226,Special Warehousing And Storage
+NVIS02939,,,4212,"Local Trucking, Without Storage"
+NVIS03060,,,2673,"Bags: Plastics, Laminated, & Coated"
+NVIS03068,,,2752,"Commercial Printing, Lithographic"
+NVIS03071,,,5093,Scrap And Waste Materials
+NVIS03251,,,5013,Motor Vehicle Supplies And New Parts
+NVIS03267,,,2066,Chocolate And Cocoa Products
+NVIS03308,,,4231,Trucking Terminal Facilities
+NVIS03360,,,3291,Abrasive Products
+NVIS03416,,,4213,"Trucking, Except Local"
+NVIS03419,,,1741,Masonry And Other Stonework
+NVIS03456,,,3999,Manufacturing Industries
+NVIS03496,,,3479,Metal Coating And Allied Services
+NVIS03641,,,4225,General Warehousing And Storage
+NVIS03642,,,4225,General Warehousing And Storage
+NVIS03701,,,2759,Commercial Printing
+NVIS03735,,,5172,Petroleum Products
+NVIS03785,,,5015,"Motor Vehicle Parts, Used"
+NVIS03898,,,3999,Manufacturing Industries
+NVIS03899,,,5093,Scrap And Waste Materials
+NVIS03904,,,3531,Construction Machinery
+NVIS03960,,,4225,General Warehousing And Storage
+NVIS03963,,,2541,Wood Partitions And Fixtures
+NVIS03990,,,3295,"Minerals, Ground Or Treated"
+NVIS03992,,,3365,Aluminum Foundries
+NVIS04017,,,3566,"Speed Changers, Drives, And Gears"
+NVIS04018,,,5171,Petroleum Bulk Stations & Terminals
+NVIS04021,,,3499,Fabricated Metal Products
+NVIS04031,,,2621,Paper Mills
+NVIS04034,,,3563,Air And Gas Compressors
+NVIS04035,,,2759,Commercial Printing
+NVIS04065,,,3999,Manufacturing Industries
+NVIS04078,,,4213,"Trucking, Except Local"
+NVIS04080,,,3354,Aluminum Extruded Products
+NVIS04082,,,2064,Candy & Other Confectionery Products
+NVIS04083,,,1442,Construction Sand And Gravel
+NVIS04141,,,3281,Cut Stone And Stone Products
+NVIS04177,,,5093,Scrap And Waste Materials
+NVIS04198,,,3993,Signs And Advertising Specialities
+NVIS04217,,,3452,"Bolts, Nuts, Rivets, And Washers"
+NVIS04218,,,3499,Fabricated Metal Products
+NVIS04237,,,4214,Local Trucking With Storage
+NVIS04257,,,4213,"Trucking, Except Local"
+NVIS04308,,,3531,Construction Machinery
+NVIS04324,,,4226,Special Warehousing And Storage
+NVIS04328,,,4213,"Trucking, Except Local"
+NVIS04329,,,4213,"Trucking, Except Local"
+NVIS04343,,,4226,Special Warehousing And Storage
+NVIS04344,,,5015,"Motor Vehicle Parts, Used"
+NVIS04347,,,3599,Industrial Machinery
+NVIS04353,,,2819,Industrial Inorganic Chemicals
+NVIS04455,,,4225,General Warehousing And Storage
+NVIS04473,,,3399,Primary Metal Products
+NVIS04596,,,3732,Boat Building And Repairing
+NVIS04597,,,3089,Plastics Products
+NVIS04613,,,3398,Metal Heat Treating
+NVIS04734,,,3432,Plumbing Fixture Fittings And Trim
+NVIS04755,,,3499,Fabricated Metal Products
+NVIS04835,,,4213,"Trucking, Except Local"
+NVIS04875,,,9511,"Air, Water, & Solid Waste Management"
+NVIS04957,,,0111,Wheat
+NVIS04963,,,3011,Tires And Inner Tubes
+NVIS04966,,,2992,Lubricating Oils And Greases
+NVIS04971,,,0111,Wheat
+NVIS04981,,,3429,"Hardware, Not Elsewhere Classified"
+NVIS05007,,,3743,Railroad Equipment
+NVIS05077,,,3317,Steel Pipe And Tubes
+NVIS05108,,,4225,General Warehousing And Storage
+NVIS05118,,,4225,General Warehousing And Storage
+NVIS05150,,,3599,Industrial Machinery
+NVIS05250,,,3398,Metal Heat Treating
+NVIS05308,,,5013,Motor Vehicle Supplies And New Parts
+NVIS05309,,,3446,Architectural Metal Work
+NVIS05315,,,3564,Blowers And Fans
+NVIS05341,,,1442,Construction Sand And Gravel
+NVIS05348,,,4214,Local Trucking With Storage
+NVIS05392,,,3441,Fabricated Structural Metal
+NVIS05393,,,2782,Blankbooks And Looseleaf Binders
+NVIS05398,,,4215,"Courier Services, Except By Air"
+NVIS05421,,,4225,General Warehousing And Storage
+NVIS05422,,,3444,Sheet Metal Work
+NVIS05423,,,3446,Architectural Metal Work
+NVIS05425,,,3679,Electronic Components
+NVIS05427,,,3661,Telephone And Telegraph Apparatus
+NVIS05447,,,3599,Industrial Machinery
+NVIS05466,,,4121,Taxicabs
+NVIS05542,,,4213,"Trucking, Except Local"
+NVIS05545,,,4214,Local Trucking With Storage
+NVIS05623,,,4121,Taxicabs
+NVIS05634,,,3272,Concrete Products
+NVIS05638,,,4225,General Warehousing And Storage
+NVIS05673,,,5093,Scrap And Waste Materials
+NVIS05676,,,3441,Fabricated Structural Metal
+NVIS05696,,,3499,Fabricated Metal Products
+NVIS05741,,,4512,"Air Transportation, Scheduled"
+NVIS05764,,,3399,Primary Metal Products
+NVIS05768,,,3483,"Ammunition, Except For Small Arms"
+NVIS05810,,,3559,Special Industry Machinery
+NVIS05811,,,9999,Nonclassifiable Establishments
+NVIS05821,,,5093,Scrap And Waste Materials
+NVIS05824,,,3676,Electronic Resistors
+NVIS05832,,,3714,Motor Vehicle Parts And Accessories
+NVIS05848,,,3089,Plastics Products
+NVIS05853,,,5015,"Motor Vehicle Parts, Used"
+NVIS05863,,,5013,Motor Vehicle Supplies And New Parts
+NVIS05876,,,4214,Local Trucking With Storage
+NVIS05879,,,3532,Mining Machinery
+NVIS05880,,,4119,Local Passenger Transportation
+NVIS05929,,,7549,Automotive Services
+NVIS05940,,,3599,Industrial Machinery
+NVIS05944,,,3499,Fabricated Metal Products
+NVIS05947,,,3291,Abrasive Products
+NVIS05966,,,4214,Local Trucking With Storage
+NVIS05989,,,5015,"Motor Vehicle Parts, Used"
+NVIS05994,,,3291,Abrasive Products
+NVIS05995,,,3273,Ready-Mixed Concrete
+NVIS06001,,,4959,Sanitary Services
+NVIS06064,,,3291,Abrasive Products
+NVIS06067,,,4111,Local And Suburban Transit
+NVIS06070,,,4513,Air Courier Services
+NVIS06074,,,4225,General Warehousing And Storage
+NVIS06112,,,5082,Construction And Mining Machinery
+NVIS06150,,,3451,Screw Machine Products
+NVIS06226,,,4225,General Warehousing And Storage
+NVIS06287,,,4213,"Trucking, Except Local"
+NVIS06350,,,4493,Marinas
+NVIS06352,,,3291,Abrasive Products
+NVIS06359,,,7532,Top & Body Repair & Paint Shops
+NVIS06363,,,3561,Pumps And Pumping Equipment
+NVIS06395,,,4213,"Trucking, Except Local"
+NVIS06433,,,5093,Scrap And Waste Materials
+NVIS06470,,,3999,Manufacturing Industries
+NVIS06490,,,3084,Plastics Pipe
+NVIS06507,,,3446,Architectural Metal Work
+NVIS06565,,,2392,Housefurnishings
+NVIS06566,,,5551,Boat Dealers
+NVIS06572,,,3291,Abrasive Products
+NVIS06575,,,3541,"Machine Tools, Metal Cutting Types"
+NVIS06585,,,3559,Special Industry Machinery
+NVIS06590,,,3291,Abrasive Products
+NVIS06591,,,3446,Architectural Metal Work
+NVIS06706,,,3484,Small Arms
+NVIS06906,,,2024,Ice Cream And Frozen Desserts
+NVIS06967,,,3569,General Industrial Machinery
+NVIS07006,,,3291,Abrasive Products
+NVIS07066,,,3714,Motor Vehicle Parts And Accessories
+NVIS07069,,,3446,Architectural Metal Work
+NVIS07115,,,3999,Manufacturing Industries
+NVIS07154,,,3531,Construction Machinery
+NVIS07183,,,3443,Fabricated Plate Work (Boiler Shops)
+NVIS07190,,,9621,"Regulation, Administration Of Transportation"
+NVIS07194,,,4225,General Warehousing And Storage
+NVIS07207,,,4522,"Air Transportation, Nonscheduled"
+NVIS07269,,,4214,Local Trucking With Storage
+NVIS07271,,,4225,General Warehousing And Storage
+NVIS07272,,,4225,General Warehousing And Storage
+NVIS07273,,,4225,General Warehousing And Storage
+NVIS07274,,,3291,Abrasive Products
+NVIS07275,,,4225,General Warehousing And Storage
+NVIS07279,,,4225,General Warehousing And Storage
+NVIS07281,,,4225,General Warehousing And Storage
+NVIS07282,,,4225,General Warehousing And Storage
+NVIS07284,,,3291,Abrasive Products
+NVIS07285,,,4225,General Warehousing And Storage
+NVIS07286,,,3291,Abrasive Products
+NVIS07287,,,4225,General Warehousing And Storage
+NVIS07288,,,3291,Abrasive Products
+NVIS07289,,,4225,General Warehousing And Storage
+NVIS07293,,,4225,General Warehousing And Storage
+NVIS07294,,,4225,General Warehousing And Storage
+NVIS07295,,,4225,General Warehousing And Storage
+NVIS07296,,,3291,Abrasive Products
+NVIS07297,,,3291,Abrasive Products
+NVIS07299,,,4225,General Warehousing And Storage
+NVIS07300,,,3291,Abrasive Products
+NVIS07344,,,4213,"Trucking, Except Local"
+NVIS07370,,,4225,General Warehousing And Storage
+NVIS07386,,,3291,Abrasive Products
+NVIS07407,,,3728,Aircraft Parts And Equipment
+NVIS07417,,,4131,Intercity & Rural Bus Transportation
+NVIS07419,,,3291,Abrasive Products
+NVIS07420,,,3291,Abrasive Products
+NVIS07421,,,3291,Abrasive Products
+NVIS07424,,,4119,Local Passenger Transportation
+NVIS07437,,,2759,Commercial Printing
+NVIS07462,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS07467,,,3541,"Machine Tools, Metal Cutting Types"
+NVIS07471,,,3599,Industrial Machinery
+NVIS07500,,,4119,Local Passenger Transportation
+NVIS07504,,,4013,Switching And Terminal Services
+NVIS07506,,,4225,General Warehousing And Storage
+NVIS07507,,,5015,"Motor Vehicle Parts, Used"
+NVIS07514,,,9999,Nonclassifiable Establishments
+NVIS07522,,,3069,Fabricated Rubber Products
+NVIS07523,,,9999,Nonclassifiable Establishments
+NVIS07524,,,2841,Soap And Other Detergents
+NVIS07526,,,3443,Fabricated Plate Work (Boiler Shops)
+NVIS07529,,,2911,Petroleum Refining
+NVIS07531,,,4212,"Local Trucking, Without Storage"
+NVIS07532,,,9999,Nonclassifiable Establishments
+NVIS07562,,,3441,Fabricated Structural Metal
+NVIS07565,,,4513,Air Courier Services
+NVIS07664,,,3211,Flat Glass
+NVIS07929,,,3599,Industrial Machinery
+NVIS08036,,,4225,General Warehousing And Storage
+NVIS08216,,,1011,Iron Ores
+NVIS08256,,,3629,Electrical Industrial Apparatus
+NVIS08336,,,0111,Wheat
+NVIS08378,,,2789,Bookbinding And Related Work
+NVIS08457,,,2672,Paper Coated And Laminated
+NVIS08617,,,4225,General Warehousing And Storage
+NVIS08718,,,1429,Crushed And Broken Stone
+NVIS08839,,,3291,Abrasive Products
+NVIS08959,,,5093,Scrap And Waste Materials
+NVIS09099,,,5015,"Motor Vehicle Parts, Used"
+NVIS09120,,,2771,Greeting Cards
+NVIS09201,,,3599,Industrial Machinery
+NVIS09242,,,4111,Local And Suburban Transit
+NVIS09262,,,3081,Unsupported Plastics Film & Sheet
+NVIS09282,,,3449,Miscellaneous Metal Work
+NVIS09302,,,5093,Scrap And Waste Materials
+NVIS09465,,,4214,Local Trucking With Storage
+NVIS09566,,,2035,"Pickles, Sauces, And Salad Dressings"
+NVIS09586,,,3084,Plastics Pipe
+NVIS09607,,,5093,Scrap And Waste Materials
+NVIS09608,,,3291,Abrasive Products
+NVIS09609,,,4212,"Local Trucking, Without Storage"
+NVIS09626,,,3281,Cut Stone And Stone Products
+NVIS09686,,,5015,"Motor Vehicle Parts, Used"
+NVIS09706,,,3449,Miscellaneous Metal Work
+NVIS09766,,,4142,"Bus Charter Service, Except Local"
+NVIS09826,,,5093,Scrap And Waste Materials
+NVIS09866,,,3317,Steel Pipe And Tubes
+NVIS09950,,,3273,Ready-Mixed Concrete
+NVIS09951,,,3272,Concrete Products
+NVIS10032,,,3295,"Minerals, Ground Or Treated"
+NVIS10092,,,5171,Petroleum Bulk Stations & Terminals
+NVIS10095,,,4581,"Airports, Flying Fields, & Services"
+NVIS10133,,,4225,General Warehousing And Storage
+NVIS10173,,,4213,"Trucking, Except Local"
+NVIS10273,,,5093,Scrap And Waste Materials
+NVIS10293,,,3273,Ready-Mixed Concrete
+NVIS10355,,,3291,Abrasive Products
+NVIS10356,,,3272,Concrete Products
+NVIS10378,,,1459,Clay And Related Minerals
+NVIS10436,,,5093,Scrap And Waste Materials
+NVIS10500,,,4911,Electric Services
+NVIS10659,,,5093,Scrap And Waste Materials
+NVIS10700,,,3273,Ready-Mixed Concrete
+NVIS10701,,,3273,Ready-Mixed Concrete
+NVIS10819,,,3993,Signs And Advertising Specialities
+NVIS10821,,,2999,Petroleum And Coal Products
+NVIS10859,,,4225,General Warehousing And Storage
+NVIS10860,,,5093,Scrap And Waste Materials
+NVIS10879,,,5093,Scrap And Waste Materials
+NVIS10899,,,1442,Construction Sand And Gravel
+NVIS10939,,,5093,Scrap And Waste Materials
+NVIS10940,,,5093,Scrap And Waste Materials
+NVIS10959,,,5171,Petroleum Bulk Stations & Terminals
+NVIS10961,,,3291,Abrasive Products
+NVIS10979,,,2875,"Fertilizers, Mixing Only"
+NVIS11160,,,4213,"Trucking, Except Local"
+NVIS11240,,,2047,Dog And Cat Food
+NVIS11260,,,2869,Industrial Organic Chemicals
+NVIS11300,,,5015,"Motor Vehicle Parts, Used"
+NVIS11440,,,3291,Abrasive Products
+NVIS11459,,,2048,Prepared Feeds
+NVIS11579,,,3273,Ready-Mixed Concrete
+NVIS11659,,,5093,Scrap And Waste Materials
+NVIS11759,,,1479,Chemical And Fertilizer Mining
+NVIS11799,,,5093,Scrap And Waste Materials
+NVIS11880,,,5093,Scrap And Waste Materials
+NVIS11920,,,5093,Scrap And Waste Materials
+NVIS11960,,,3441,Fabricated Structural Metal
+NVIS12022,,,1389,Oil And Gas Field Services
+NVIS12080,,,5093,Scrap And Waste Materials
+NVIS12300,,,5093,Scrap And Waste Materials
+NVIS12400,,,2676,Sanitary Paper Products
+NVIS12700,,,4226,Special Warehousing And Storage
+NVIS12720,,,4013,Switching And Terminal Services
+NVIS12760,,,2448,Wood Pallets And Skids
+NVIS12840,,,5093,Scrap And Waste Materials
+NVIS12880,,,3087,Custom Compound Purchased Resins
+NVIS12941,,,3555,Printing Trades Machinery
+NVIS13000,,,5093,Scrap And Waste Materials
+NVIS13020,,,5093,Scrap And Waste Materials
+NVIS13040,,,4214,Local Trucking With Storage
+NVIS13100,,,3449,Miscellaneous Metal Work
+NVIS13222,,,3494,Valves And Pipe Fittings
+NVIS13342,,,4214,Local Trucking With Storage
+NVIS13362,,,4111,Local And Suburban Transit
+NVIS13422,,,3299,Nonmetallic Mineral Products
+NVIS13443,,,3291,Abrasive Products
+NVIS13462,,,2448,Wood Pallets And Skids
+NVIS13483,,,5093,Scrap And Waste Materials
+NVIS13563,,,5093,Scrap And Waste Materials
+NVIS38955,,,3272,Concrete Products
+NVIS38988,,,5093,Scrap And Waste Materials
+NVIS39087,,,5093,Scrap And Waste Materials
+NVIS39167,,,3291,Abrasive Products
+NVIS39224,,,5171,Petroleum Bulk Stations & Terminals
+NVIS39522,,,2026,Fluid Milk
+NVIS39609,,,5093,Scrap And Waste Materials
+NVIS39611,,,5093,Scrap And Waste Materials
+NVIS39699,,,4213,"Trucking, Except Local"
+NVIS39735,,,4213,"Trucking, Except Local"
+NVIS39797,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS39799,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS39800,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS39871,,,4141,Local Bus Charter Service
+NVIS39988,,,5093,Scrap And Waste Materials
+NVIS40025,,,3089,Plastics Products
+NVIS40122,,,2951,Asphalt Paving Mixtures And Blocks
+NVIS40127,,,3272,Concrete Products
+NVIS40128,,,2752,"Commercial Printing, Lithographic"
+NVIS40176,,,3537,Industrial Trucks And Tractors
+NVIS40247,,,2099,Food Preparations
+NVIS40416,,,2911,Petroleum Refining
+NVIS40425,,,3531,Construction Machinery
+NVIS40520,,,5093,Scrap And Waste Materials
+NVIS40621,,,4215,"Courier Services, Except By Air"
+NVIS40746,,,5171,Petroleum Bulk Stations & Terminals
+NVIS40784,,,3281,Cut Stone And Stone Products
+NVIS41045,,,2499,Wood Products
+NVIS41063,,,1442,Construction Sand And Gravel
+NVIS41067,,,3291,Abrasive Products
+NVIS41322,,,3715,Truck Trailers
+NVIS41377,,,4214,Local Trucking With Storage
+NVIS41405,,,5093,Scrap And Waste Materials
+NVIS41524,,,3291,Abrasive Products
+NVIS41547,,,1442,Construction Sand And Gravel
+NVIS41552,,,3479,Metal Coating And Allied Services
+NVIS41560,,,1459,Clay And Related Minerals
+NVIS41646,,,3273,Ready-Mixed Concrete
+NVIS41890,,,5093,Scrap And Waste Materials
+NVIS41919,,,4213,"Trucking, Except Local"
+NVIS41945,,,4225,General Warehousing And Storage
+NVIS41952,,,3449,Miscellaneous Metal Work
+NVIS41971,,,4121,Taxicabs
+NVIS42045,,,3561,Pumps And Pumping Equipment
+NVIS42095,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS42126,,,3272,Concrete Products
+NVIS42214,,,3291,Abrasive Products
+NVIS42230,,,5093,Scrap And Waste Materials
+NVIS42262,,,3452,"Bolts, Nuts, Rivets, And Washers"
+NVIS42375,,,3452,"Bolts, Nuts, Rivets, And Washers"
+NVIS42471,,,3291,Abrasive Products
+NVIS42477,,,3443,Fabricated Plate Work (Boiler Shops)
+NVIS42622,,,3291,Abrasive Products
+NVIS42764,,,4213,"Trucking, Except Local"
+NVIS42966,,,5015,"Motor Vehicle Parts, Used"
+NVIS43111,,,3411,Metal Cans
+NVIS43157,,,1442,Construction Sand And Gravel
+NVIS43208,,,3291,Abrasive Products
+NVIS43340,,,5093,Scrap And Waste Materials
+NVIS43383,,,3463,Nonferrous Forgings
+NVIS43387,,,1442,Construction Sand And Gravel
+NVIS43419,,,4214,Local Trucking With Storage
+NVIS43420,,,3991,Brooms And Brushes
+NVIS43428,,,7542,Carwashes
+NVIS43627,,,1442,Construction Sand And Gravel
+NVIS43651,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS43696,,,2752,"Commercial Printing, Lithographic"
+NVIS43737,,,4225,General Warehousing And Storage
+NVIS43829,,,4215,"Courier Services, Except By Air"
+NVIS43881,,,4225,General Warehousing And Storage
+NVIS43887,,,4225,General Warehousing And Storage
+NVIS43888,,,4225,General Warehousing And Storage
+NVIS43980,,,3273,Ready-Mixed Concrete
+NVIS43998,,,5015,"Motor Vehicle Parts, Used"
+NVIS44051,,,3715,Truck Trailers
+NVIS44091,,,4212,"Local Trucking, Without Storage"
+NVIS44095,,,7692,Welding Repair
+NVIS44108,,,5093,Scrap And Waste Materials
+NVIS44181,,,5093,Scrap And Waste Materials
+NVIS44220,,,4225,General Warehousing And Storage
+NVIS44221,,,4225,General Warehousing And Storage
+NVIS44269,,,4173,Bus Terminal And Service Facilities
+NVIS44284,,,3281,Cut Stone And Stone Products
+NVIS44306,,,3281,Cut Stone And Stone Products
+NVIS44373,,,3291,Abrasive Products
+NVIS44395,,,4225,General Warehousing And Storage
+NVIS44396,,,4225,General Warehousing And Storage
+NVIS44397,,,5093,Scrap And Waste Materials
+NVIS44576,,,1442,Construction Sand And Gravel
+NVIS44580,,,4121,Taxicabs
+NVIS44617,,,4013,Switching And Terminal Services
+NVIS44633,,,5093,Scrap And Waste Materials
+NVIS44660,,,3272,Concrete Products
+NVIS44713,,,3291,Abrasive Products
+NVIS44771,,,1442,Construction Sand And Gravel
+NVIS44865,,,4225,General Warehousing And Storage
+NVIS44962,,,4225,General Warehousing And Storage
+NVIS45060,,,1499,Miscellaneous Nonmetallic Minerals
+NVIS45383,,,3795,Tanks And Tank Components
+NVIS45502,,,5093,Scrap And Waste Materials
+NVIS45623,,,3499,Fabricated Metal Products
+NVIS45683,,,5093,Scrap And Waste Materials
+NVIS45706,,,3086,Plastics Foam Products
+NVIS45810,,,3271,Concrete Block And Brick
+NVIS45953,,,4225,General Warehousing And Storage
+NVIS46025,,,1442,Construction Sand And Gravel
+NVIS46151,,,3566,"Speed Changers, Drives, And Gears"
+NVIS46152,,,4111,Local And Suburban Transit
+NVIS46153,,,5171,Petroleum Bulk Stations & Terminals
+NVIS46154,,,5171,Petroleum Bulk Stations & Terminals
+NVIS46210,,,3291,Abrasive Products
+NVIS46292,,,2431,Millwork
+NVIS46352,,,2899,Chemical Preparations
+NVIS46395,,,2043,Cereal Breakfast Foods
+NVIS46435,,,3273,Ready-Mixed Concrete
+NVIS46436,,,3273,Ready-Mixed Concrete
+NVIS46437,,,3273,Ready-Mixed Concrete
+NVIS46477,,,1442,Construction Sand And Gravel
+NVIS46527,,,2951,Asphalt Paving Mixtures And Blocks
+NVIS46528,,,5171,Petroleum Bulk Stations & Terminals
+NVIS46556,,,3291,Abrasive Products
+NVIS46664,,,4213,"Trucking, Except Local"
+NVIS46684,,,2024,Ice Cream And Frozen Desserts
+NVIS46880,,,2035,"Pickles, Sauces, And Salad Dressings"
+NVIS46906,,,5093,Scrap And Waste Materials
+NVIS47062,,,4011,"Railroads, Line-Haul Operating"
+NVIS47063,,,4011,"Railroads, Line-Haul Operating"
+NVIS47064,,,4011,"Railroads, Line-Haul Operating"
+NVIS47070,,,4225,General Warehousing And Storage
+NVIS47074,,,4119,Local Passenger Transportation
+NVIS47105,,,3411,Metal Cans
+NVIS47114,,,5093,Scrap And Waste Materials
+NVIS47169,,,2052,Cookies And Crackers
+NVIS47274,,,3499,Fabricated Metal Products
+NVIS47295,,,2077,Animal And Marine Fats And Oils
+NVIS47435,,,2064,Candy & Other Confectionery Products
+NVIS47456,,,5015,"Motor Vehicle Parts, Used"
+NVIS47467,,,4225,General Warehousing And Storage
+NVIS47497,,,1479,Chemical And Fertilizer Mining
+NVIS47522,,,2026,Fluid Milk
+NVIS47539,,,3089,Plastics Products
+NVIS47567,,,2026,Fluid Milk
+NVIS47831,,,4213,"Trucking, Except Local"
+NVIS47832,,,2673,"Bags: Plastics, Laminated, & Coated"
+NVIS47871,,,5171,Petroleum Bulk Stations & Terminals
+NVIS47902,,,2732,Book Printing
+NVIS47936,,,3711,Motor Vehicles And Car Bodies
+NVIS47979,,,4225,General Warehousing And Storage
+NVIS47989,,,5015,"Motor Vehicle Parts, Used"
+NVIS48006,,,3272,Concrete Products
+NVIS48033,,,5093,Scrap And Waste Materials
+NVIS48081,,,4213,"Trucking, Except Local"
+NVIS48125,,,4225,General Warehousing And Storage
+NVIS48136,,,4225,General Warehousing And Storage
+NVIS48197,,,3273,Ready-Mixed Concrete
+NVIS48254,,,5093,Scrap And Waste Materials
+NVIS48369,,,3499,Fabricated Metal Products
+NVIS48391,,,4225,General Warehousing And Storage
+NVIS48539,,,1442,Construction Sand And Gravel
+NVIS48542,,,3281,Cut Stone And Stone Products
+NVIS48586,,,3273,Ready-Mixed Concrete
+NVIS48743,,,2759,Commercial Printing
+NVIS48751,,,2672,Paper Coated And Laminated
+NVIS48846,,,5171,Petroleum Bulk Stations & Terminals
+NVIS48952,,,4225,General Warehousing And Storage
+NVIS49099,,,2819,Industrial Inorganic Chemicals
+NVIS49199,,,2043,Cereal Breakfast Foods
+NVIS49339,,,4225,General Warehousing And Storage
+NVIS49341,,,3291,Abrasive Products
+NVIS49392,,,5093,Scrap And Waste Materials
+NVIS49397,,,4212,"Local Trucking, Without Storage"
+NVIS49488,,,4212,"Local Trucking, Without Storage"
+NVIS49679,,,2037,Frozen Fruits And Vegetables
+NVIS49708,,,5015,"Motor Vehicle Parts, Used"
+NVIS49818,,,4225,General Warehousing And Storage
+NVIS49982,,,5093,Scrap And Waste Materials
+NVIS50009,,,4215,"Courier Services, Except By Air"
+NVIS50090,,,4225,General Warehousing And Storage
+NVIS50273,,,5093,Scrap And Waste Materials
+NVIS50306,,,4225,General Warehousing And Storage
+NVIS50353,,,4225,General Warehousing And Storage
+NVMS40002,,,1041,Gold Ores
+NVMS42137,,,1041,Gold Ores
+NVMS42139,,,1041,Gold Ores
+NVMS43292,,,1041,Gold Ores
+NVMS43414,,,1041,Gold Ores
+NVPG41640,,,4941,Water Supply
+NVR05IA00,,,1442,Construction Sand And Gravel
+NVR05IA01,,,1499,Miscellaneous Nonmetallic Minerals
+NVS000001,,,9511,"Air, Water, & Solid Waste Management"
+NVSM80001,,,9999,Nonclassifiable Establishments
+NVSM80002,,,9999,Nonclassifiable Establishments
+NVSM80003,,,9999,Nonclassifiable Establishments
+NVSM80005,,,9999,Nonclassifiable Establishments
+NVSM80006,,,9999,Nonclassifiable Establishments
+NVU000001,,,4952,Sewerage Systems
+NVU000002,,,1044,Silver Ores
+NVU000003,,,1044,Silver Ores
+NVU000005,,,1044,Silver Ores
+NVU000006,,,1044,Silver Ores
+NVU000007,,,1044,Silver Ores
+NVU000008,,,1044,Silver Ores
+NVU000024,,,1044,Silver Ores
+NVU000053,,,4952,Sewerage Systems
+NVU000054,,,4952,Sewerage Systems
+NVU000055,,,4952,Sewerage Systems
+NVU000056,,,4952,Sewerage Systems
+NVU000057,,,4952,Sewerage Systems
+NVU000058,,,4952,Sewerage Systems
+NVU000059,,,4953,Refuse Systems
+NVU000060,,,1629,Heavy Construction
+NVU000061,,,5015,"Motor Vehicle Parts, Used"
+NVU000064,,,4952,Sewerage Systems
+NVU000068,,,4952,Sewerage Systems
+NVU000069,,,4952,Sewerage Systems
+NVU000070,,,4952,Sewerage Systems
+NVU000737,,,4952,Sewerage Systems
+NVU001002,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,3499,Fabricated Metal Products
+NVU001003,325211,Plastics Material and Resin Manufacturing,2821,Plastics Materials And Resins
+NVU001004,332812,"Metal Coating, Engraving [Except Jewelry and Silverware], and Allied Services To Manufacturers",3449,Miscellaneous Metal Work
+NVU001005,332812,"Metal Coating, Engraving [Except Jewelry and Silverware], and Allied Services To Manufacturers",3479,Metal Coating And Allied Services
+NVU001009,221320,Sewage Treatment Facilities,4952,Sewerage Systems
